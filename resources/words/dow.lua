@@ -1,0 +1,1 @@
+return {'dowjones','dowjonesindex','down','downer','downgraden','downgrading','download','downloaden','downslag','downstemming','downsyndroom','downingstreet','downloadsnelheid','downloader','downloadbaar','dowaai','downloadde','downloads','downers','downgrade','downgradede','downgradet','downloadden','downloadt','downslagen','downstemmingen','downloadbare','downloaders'}

@@ -1,0 +1,1 @@
+return {'kmo','kmoer','kmomarkt','kmozone','kmos'}

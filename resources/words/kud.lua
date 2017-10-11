@@ -1,0 +1,1 @@
+return {'kudde','kuddedier','kuddegeest','kuddegedrag','kuddedieren','kudden','kuddes','kuddetje'}

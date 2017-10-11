@@ -1,0 +1,1 @@
+return {'siberisch','siberische','siberi','sibbe','sibille','sibillijns','sibbenkunde','siberir','sibel','sibren','sibon','sibma','sibbing','sibbel','sibum','sibbald','sibben','sibillen','sibillijnse','sibels','sibrens'}

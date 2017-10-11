@@ -1,0 +1,1 @@
+return {'sycofant','sycomoor','sycomore','sycofanten','sycomoren'}

@@ -1,0 +1,1 @@
+return {'nsber','nsbfamilie','nsb','nsbers','nsbfamilies'}

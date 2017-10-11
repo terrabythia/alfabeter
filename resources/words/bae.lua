@@ -1,0 +1,1 @@
+return {'baert','baeten','baer','baelemans','baerveldt','baelde','baetsen','baecke','baegen','baerends','baers'}

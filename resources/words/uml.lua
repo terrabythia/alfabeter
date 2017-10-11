@@ -1,0 +1,1 @@
+return {'umlaut','umlautsteken','umlauten','umlautstekens','umlauttekens'}

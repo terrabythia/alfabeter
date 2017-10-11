@@ -1,0 +1,1 @@
+return {'sexagesima','sexappeal','sextakkoord','sextant','sextet','sexy','sexyer','sextakkoorden','sextanten','sextetten','sexyst'}

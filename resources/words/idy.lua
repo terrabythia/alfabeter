@@ -1,0 +1,1 @@
+return {'idylle','idyllisch','idyllen','idylles','idyllische','idyllischer'}

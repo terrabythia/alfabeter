@@ -1,0 +1,1 @@
+return {'birma','birmaan','birmaans','birmees','birdie','birmaan','birambi','birmaspoorlijn','birgit','birger','birgitta','birol','birsen','birza','birmezen','birmaanse','birmese','birdies','birambis','birmanen','birgers','birgits','birgittas','birols','birsens'}

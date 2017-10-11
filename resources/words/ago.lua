@@ -1,0 +1,1 @@
+return {'agoeti','agoge','agogentaal','agogie','agogiek','agogisch','agologie','agologisch','agonie','agoog','agorafobie','agogische','agogen','agoetis'}

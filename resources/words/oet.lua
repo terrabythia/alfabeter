@@ -1,0 +1,1 @@
+return {'oetlul','oetingen','oetlullen'}

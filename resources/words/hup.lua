@@ -1,0 +1,1 @@
+return {'hup','huppeldepup','huppelen','huppen','hups','hupsakee','hupsen','hupsheid','huppelpas','hupkes','hup','hupkens','huppertz','huppel','huppelde','huppelden','huppelend','huppelende','huppelt','hupse','hupser','hupt','hupte','hupten','hupst','hupste'}

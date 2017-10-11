@@ -1,0 +1,1 @@
+return {'bukken','buks','buksboom','bukskin','buken','bukkems','bukman','buk','buksbomen','buksen','bukt','bukte','bukten','bukkend'}

@@ -1,0 +1,1 @@
+return {'dut','dutje','duts','dutsen','dutten','dutchbat','duthler','dutte','dutjes'}

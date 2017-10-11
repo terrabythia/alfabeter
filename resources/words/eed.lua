@@ -1,0 +1,1 @@
+return {'eed','eedaflegging','eedbreuk','eedformule','eedformulier','eedgenoot','eedgenootschap','eedsaflegging','eedsformule','eedsformulier','eedverbond','eedafleggingen','eedformules','eedformulieren','eedgenootschappen','eedgenoten','eedhelpers','eedsafleggingen','eedsformules','eedsformulieren','eedverbonden'}

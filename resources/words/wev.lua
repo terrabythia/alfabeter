@@ -1,0 +1,1 @@
+return {'weven','wever','weverij','weversboom','weverskam','weversklos','weversknoop','weversspoel','wevervogel','wevershuis','wevelgem','wevelgemmenaar','wevelgems','weverling','weverink','weverijen','weverijtje','weverijtjes','wevers','weverskammen','weversspoelen','wevervogels','weversbomen','weversknopen','wevelgemse'}

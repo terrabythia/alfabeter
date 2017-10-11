@@ -1,0 +1,1 @@
+return {'diureticum','diuretica'}

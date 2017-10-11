@@ -1,0 +1,1 @@
+return {'fop','fopduik','foppen','fopperij','fopspeen','fopper','fopmiddel','fopsigaar','foppe','foppen','fopma','foppele','fopperijen','fopperijtje','fopspenen','fopt','fopte','fopten','foppers','fopsigaren','foppes'}

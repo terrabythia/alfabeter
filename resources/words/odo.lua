@@ -1,0 +1,1 @@
+return {'odoriseren','odoorn','odoornaar','odoorner','odoorns','odorenaar','odoriseerde'}

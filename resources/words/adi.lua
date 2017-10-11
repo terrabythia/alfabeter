@@ -1,0 +1,1 @@
+return {'adinterim','adiabatisch','adieu','adios','adipositas','adinterimaanstelling','adinkerke','adi','adil','adinda','adiabatische','adinterimaanstellingen','adis','adils','adindas'}

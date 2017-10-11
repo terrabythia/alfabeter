@@ -1,0 +1,1 @@
+return {'oecumene','oecumenisch','oecumenische'}

@@ -1,0 +1,1 @@
+return {'akela','akelei','akelig','akeligheid','aker','aken','akenaar','akens','akersloot','akerboom','akershoek','akelige','akeliger','akeligere','akeligheden','akeligst','akeligste','akers','akertje','akertjes','akeleien','akeligs','aken','akelas','akense'}

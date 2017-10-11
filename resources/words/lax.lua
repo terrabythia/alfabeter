@@ -1,0 +1,1 @@
+return {'laxans','laxatief','laxeermiddel','laxeerpil','laxeren','laxantia','laxatieve','laxatieven','laxeer','laxeerde','laxeerden','laxeermiddelen','laxeert','laxeerpillen','laxerend','laxerende'}

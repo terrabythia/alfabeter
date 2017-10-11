@@ -1,0 +1,1 @@
+return {'aks','akst','aksel','akse','aksoy','aksu','aksen','aksten','aksels'}

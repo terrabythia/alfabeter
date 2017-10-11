@@ -1,0 +1,1 @@
+return {'idzenga','idzerda','idzinga','idzes'}

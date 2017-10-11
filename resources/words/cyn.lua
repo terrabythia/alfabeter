@@ -1,0 +1,1 @@
+return {'cynicus','cynisch','cynisme','cynthia','cynici','cynische','cynischer','cynismen','cynischt','cynthias'}

@@ -1,0 +1,1 @@
+return {'b52','b52bommenwerper','b52bommenwerpers'}

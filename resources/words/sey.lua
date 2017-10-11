@@ -1,0 +1,1 @@
+return {'seychellen','seycheller','seychels','seychelse'}

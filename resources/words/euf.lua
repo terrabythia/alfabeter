@@ -1,0 +1,1 @@
+return {'eufemisme','eufemistisch','eufonie','eufonisch','euforie','euforisch','eufraat','eufemismen','eufemistische','eufemistischer','eufonische','euforische'}

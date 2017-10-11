@@ -1,0 +1,1 @@
+return {'moyenne','moya','moyas'}

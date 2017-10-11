@@ -1,0 +1,1 @@
+return {'pup','pupil','pupillenschool','pupillenvoetbal','pupilreflex','puppy','pups','pupillenteam','pupilverwijding','puper','pupillen','puppys','pupilreflexen','pupillenteams'}

@@ -1,0 +1,1 @@
+return {'vmbo','vmboers','vmboleerling','vmboscholen','vmboschool','vmboleerlingen'}

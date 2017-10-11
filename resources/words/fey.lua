@@ -1,0 +1,1 @@
+return {'feyenoorder','feyenoordsupporter','feyenoorders','feyenoordsupporters'}

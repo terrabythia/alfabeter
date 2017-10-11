@@ -1,0 +1,1 @@
+return {'eupartner','eupen','eupenaar','eupener','eupens','eupartners'}

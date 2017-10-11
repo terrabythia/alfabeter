@@ -1,0 +1,1 @@
+return {'fixatie','fixatief','fixeer','fixeerbad','fixeermiddel','fixeermiddelen','fixeerzout','fixeren','fixaties','fixatieven','fixeerbaden','fixeerde','fixeerden','fixeert'}

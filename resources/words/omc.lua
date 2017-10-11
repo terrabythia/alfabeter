@@ -1,0 +1,1 @@
+return {'omcirkelen','omcirkeling','omcirkelt','omcirkelde','omcirkeld'}

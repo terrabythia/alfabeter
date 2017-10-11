@@ -1,0 +1,1 @@
+return {'jitse','jitske','jitte','jitze','jitses','jitskes','jittes','jitzes'}

@@ -1,0 +1,1 @@
+return {'gapen','gaper','gaperig','gaping','gappen','gapper','gap','gapend','gapende','gaperige','gapers','gapingen','gappers','gapt','gapte','gapten'}

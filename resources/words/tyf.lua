@@ -1,0 +1,1 @@
+return {'tyfeus','tyfoon','tyfus','tyfuslijder','tyfushond','tyfeuze','tyfoons','tyfuslijders'}

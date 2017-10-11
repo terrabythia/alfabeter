@@ -1,0 +1,1 @@
+return {'mogelijk','mogelijkerwijs','mogelijkerwijze','mogelijkheid','mogen','mogendheid','mogol','mogelijkheidsvoorwaarde','mogadishu','moge','mogelijke','mogelijker','mogelijkheden','mogelijkst','mogendheden','mogols','mogelijks','mogelijkheidsvoorwaarden'}

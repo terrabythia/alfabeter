@@ -1,0 +1,1 @@
+return {'ggzinstelling','ggz','ggzinstellingen'}

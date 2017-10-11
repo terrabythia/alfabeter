@@ -1,0 +1,1 @@
+return {'iemand','iemker','iemands','iemkers'}

@@ -1,0 +1,1 @@
+return {'atactisch','atalanta','ataraxie','atavisme','atavistisch','ataxie','atalantikanaal','ata','atar','atavistische','atactische','atavismen','atalantas'}

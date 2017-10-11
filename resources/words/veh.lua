@@ -1,0 +1,1 @@
+return {'vehikel','vehikels','vehikeltje','vehikeltjes'}

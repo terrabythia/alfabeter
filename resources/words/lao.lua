@@ -1,0 +1,1 @@
+return {'laos','laospoeder','laos','laotiaan','laotiaans','laotiaanse'}

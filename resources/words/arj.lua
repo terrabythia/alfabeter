@@ -1,0 +1,1 @@
+return {'arjan','arjen','arja','arjo','arjun','arjuna','arjas','arjans','arjens','arjos','arjuns','arjunas'}

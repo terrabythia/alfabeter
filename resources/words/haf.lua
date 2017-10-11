@@ -1,0 +1,1 @@
+return {'haf','haflinger','haft','haffmans','hafid','hafkamp','haffen','haften','haflingers','hafids'}

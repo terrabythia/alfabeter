@@ -1,0 +1,1 @@
+return {'iberisch','iberischschiereiland','iberische','iberir','iberischrandgebergte','iberirs'}

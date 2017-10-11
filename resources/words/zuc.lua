@@ -1,0 +1,1 @@
+return {'zucht','zuchten','zuchtig','zuchtigheid','zuchtje','zuchtend','zuchtende','zuchtige','zuchtiger','zuchtte','zuchtten','zuchtjes'}

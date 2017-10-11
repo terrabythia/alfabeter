@@ -1,0 +1,1 @@
+return {'akte','aktes','aktetas','aktenummer','aktas','akten','aktetassen'}

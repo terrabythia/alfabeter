@@ -1,0 +1,1 @@
+return {'huzaar','huzarensalade','huzarensla','huzarenstuk','huzarenstukje','huzaren'}

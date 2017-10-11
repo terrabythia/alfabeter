@@ -1,0 +1,1 @@
+return {'pythisch','python','pythagoras','python','pythische','pythons'}

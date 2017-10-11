@@ -1,0 +1,1 @@
+return {'asmaat','asman','asmogendheden','asmara','asma','asmus','asmas','asmaras'}

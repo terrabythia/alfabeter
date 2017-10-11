@@ -1,0 +1,1 @@
+return {'atmosfeer','atmosferisch','atmkaart','atmosferen','atmosferische','atmkaarten'}

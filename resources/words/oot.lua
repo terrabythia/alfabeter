@@ -1,0 +1,1 @@
+return {'ootje','ootjes','ootmoed','ootmoedig','ootmoedigheid','ootmarsum','ooteman','ootes','ootjers','ootmoedige','ootmoediger','ootmoedigst','ootmoedigste','ootmarsumse'}

@@ -1,0 +1,1 @@
+return {'hik','hikken','hiking','hikkerig','hiken','hikmet','hikspoors','hikt','hikte','hikten','hikkend','hikkerige','hikmets'}

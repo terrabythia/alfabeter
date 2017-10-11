@@ -1,0 +1,1 @@
+return {'jiska','jiskoot','jis','jiskas'}

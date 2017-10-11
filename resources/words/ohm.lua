@@ -1,0 +1,1 @@
+return {'ohm','ohmse','ohmmeter','ohm','ohms'}

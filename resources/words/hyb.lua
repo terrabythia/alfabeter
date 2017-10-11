@@ -1,0 +1,1 @@
+return {'hybride','hybridisatie','hybridisch','hybris','hybriden','hybridische','hybrides'}

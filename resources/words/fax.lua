@@ -1,0 +1,1 @@
+return {'fax','faxapparaat','faxapparatuur','faxbericht','faxen','faxkosten','faxmodem','faxnummer','faxpost','faxsoftware','faxtoestel','faxverkeer','faxmachine','faxt','faxte','faxnummers','faxapparaten','faxberichten','faxmodems','faxmachines'}

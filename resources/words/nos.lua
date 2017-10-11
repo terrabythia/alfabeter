@@ -1,0 +1,1 @@
+return {'nosologie','nostalgie','nostalgisch','noshowstudent','nosjournaal','nos','nossegem','nostradamus','nossent','noslin','nostalgici','nostalgische','nos'}

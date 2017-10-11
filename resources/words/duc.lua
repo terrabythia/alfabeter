@@ -1,0 +1,1 @@
+return {'duchten','duchtig','duc','duco','duchateau','duckers','ducht','duchtige','duchtiger','duchtigere','duchtigste','duchtte','duchtten','ducs','ducos'}

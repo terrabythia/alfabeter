@@ -1,0 +1,1 @@
+return {'nuf','nuffig','nuffigheid','nuffen','nuffige','nuffiger','nuffigste','nufje'}

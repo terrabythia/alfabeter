@@ -1,0 +1,1 @@
+return {'fnuiken','fnuikend','fnuik','fnuikende','fnuikt','fnuikte','fnuikten'}

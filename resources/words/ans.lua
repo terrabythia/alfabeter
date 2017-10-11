@@ -1,0 +1,1 @@
+return {'anschluss','anschluss','ansicht','ansichtkaart','ansjovis','ansjovisfilet','ansjovisvangst','ansi','ans','anse','ansems','ansink','ansing','ansari','ansjovissen','ansichten','ansichtkaarten','ansjovisfilets','ans','anses','ansichtkaartje','ansichtkaartjes'}

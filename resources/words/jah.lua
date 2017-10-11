@@ -1,0 +1,1 @@
+return {'jahwe','jahweh','jahangir'}

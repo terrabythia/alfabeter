@@ -1,0 +1,1 @@
+return {'goal','goalgetter','goalie','goalkeeper','goaltjesdief','goalkeepers','goals','goaltje','goaltjes','goalgetters','goalies','goaltjesdieven'}

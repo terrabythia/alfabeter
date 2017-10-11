@@ -1,0 +1,1 @@
+return {'xenocratie','xenofiel','xenofilie','xenofobie','xenofobisch','xenofoob','xenograaf','xenomanie','xenon','xenotransplantatie','xenotransplantaties','xen','xena','xenia','xen','xenofobe','xenofobische','xenofoben','xenofiele','xens','xenas','xenias'}

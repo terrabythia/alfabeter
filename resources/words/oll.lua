@@ -1,0 +1,1 @@
+return {'ollekebolleke','olle','ollekebollekes','olles','ollandse'}

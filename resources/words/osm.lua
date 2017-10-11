@@ -1,0 +1,1 @@
+return {'osmaan','osmaans','osmose','osmotisch','osman','osmanen','osmotische','osmaanse','osmans'}

@@ -1,0 +1,1 @@
+return {'zverpleegkundige','zverpleegkundigen'}

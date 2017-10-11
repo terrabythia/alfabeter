@@ -1,0 +1,1 @@
+return {'suez','suezkanaal','sue','suelmann','sueters','sues'}

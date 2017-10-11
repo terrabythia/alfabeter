@@ -1,0 +1,1 @@
+return {'ruften','rufus','ruft','ruftte','rufus'}

@@ -1,0 +1,1 @@
+return {'swing','swingen','switch','switchen','swipi','swingmuziek','swingpaleis','swingarm','swier','swinkels','swieten','swieringa','swillens','swildens','swierstra','swiebel','swingde','swingden','swingend','swingende','swingender','swingendste','swings','swingt','switcht','switchte','swipis'}

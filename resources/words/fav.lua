@@ -1,0 +1,1 @@
+return {'favela','faveur','faveurtje','favorabel','favoriet','favoriete','favorietenrol','favoriseren','favoritisme','favorietenlijst','favier','faveurs','faveurtjes','favorieten','favorietenlijstje','favoriseer','favoriseerde','favoriseerden','favoriseert','favorietes','favorabele','favorietenlijstjes'}

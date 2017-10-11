@@ -1,0 +1,1 @@
+return {'soterisch','sotternie','sottovoce','sotthewes','sotternien','soterische'}

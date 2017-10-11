@@ -1,0 +1,1 @@
+return {'feudaal','feudalisme','feudaliteit','feuilleton','feuilletonist','feuilletonschrijver','feuilletonvorm','feut','feunekes','feudale','feuilletonisten','feuilletonnetje','feuilletons','feuilletonschrijvers','feuten'}

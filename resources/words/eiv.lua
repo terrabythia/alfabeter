@@ -1,0 +1,1 @@
+return {'eivol','eivorm','eivormig','eivlies','eivoer','eivliezen','eivolle','eivormige'}

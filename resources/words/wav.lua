@@ -1,0 +1,1 @@
+return {'waverzekering','wave','waver','waves','waverse'}

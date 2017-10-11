@@ -1,0 +1,1 @@
+return {'envelop','envelopje','enveloppe','environment','enveloppenfinanciering','enver','envelopjes','enveloppen','environments','enveloppetje','envers'}

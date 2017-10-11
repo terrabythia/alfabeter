@@ -1,0 +1,1 @@
+return {'pogen','poger','pogers','poging','pogon','pogrom','pogingen','pogroms','pogend','pogo','pogode'}

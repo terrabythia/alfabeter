@@ -1,0 +1,1 @@
+return {'zmlk','zmlkschool','zmlkscholen'}

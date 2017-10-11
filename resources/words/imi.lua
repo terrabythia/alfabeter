@@ -1,0 +1,1 @@
+return {'imitatie','imitatiedrang','imitatiegedrag','imitator','imiteren','imitatieleer','imitaties','imitatoren','imitators','imiteer','imiteerde','imiteerden','imiteert'}

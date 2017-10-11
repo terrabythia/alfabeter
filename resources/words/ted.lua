@@ -1,0 +1,1 @@
+return {'teddy','teddybeer','teder','tederheid','tedertjes','tedeum','ted','teddie','teddy','tedeums','teddyberen','tederder','tedere','tederheden','tederst','teddys','teds','teddies','teddys'}

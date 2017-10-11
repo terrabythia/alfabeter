@@ -1,0 +1,1 @@
+return {'nilleren','nilo','nils','nillesen','nillessen','nilleerde','nilos','nils'}

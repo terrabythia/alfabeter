@@ -1,0 +1,1 @@
+return {'focaccia','focus','focussen','focusseren','focusgroep','focuspunt','focusgebied','focke','fockens','focusgroepen','focusseer','focusseerde','focusseert','focust','focuste','focusten','focusgebieden','focuspunten'}

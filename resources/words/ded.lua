@@ -1,0 +1,1 @@
+return {'dedato','dedaigneus','dedain','deden','dedicatie','deduceren','deductie','deductief','dedden','deden','dede','dedecker','dedaigneuze','dedicaties','deduceer','deduceerde','deduceerden','deduceert','deducties','deductieve','dedemsvaartse'}

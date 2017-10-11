@@ -1,0 +1,1 @@
+return {'olfactorisch','olfers','olfactorische'}

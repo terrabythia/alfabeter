@@ -1,0 +1,1 @@
+return {'jumbo','jumbojet','jumelage','jumeleren','jumelles','jumpen','jumper','jumpshot','jumpsuit','jumpnjive','jumpnjivemuziek','jumelet','jumbos','jumbootje','jumbootjes','jumelages','jumpers','jumpshots','jumbojets','jumpertje','jumpsuits'}

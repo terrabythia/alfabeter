@@ -1,0 +1,1 @@
+return {'cuisine','cuisinier','cuijk','cuijkenaar','cuijks','cuijpers','cuijten','cuiper','cuisines','cuisiniers','cuijkse'}

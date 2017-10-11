@@ -1,0 +1,1 @@
+return {'dot','dotaal','dotatie','dotcom','dotcombedrijf','doteren','dotter','dotterbehandeling','dotterbloem','dotteren','dotterprocedure','dottenijs','dotinga','dotaties','dotcombedrijven','dotcoms','doteer','doteerde','doteerden','doteert','dotje','dotten','dotterbloemen','dotters','dotterbehandelingen','dotterde','dotale','dotjes'}

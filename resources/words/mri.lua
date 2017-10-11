@@ -1,0 +1,1 @@
+return {'mri','mriscan','mriscans'}

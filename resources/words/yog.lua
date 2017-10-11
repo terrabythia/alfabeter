@@ -1,0 +1,1 @@
+return {'yoga','yogalessen','yogaoefening','yoghurt','yoghurtdrank','yoghurtijs','yogi','yoghurtbeker','yoghurtplant','yoghurtsaus','yogales','yogyakarta','yogaoefeningen','yogis','yoghurtbekers','yoghurtdrankjes','yoghurtdrankje','yoghurtdranken'}

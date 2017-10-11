@@ -1,0 +1,1 @@
+return {'zimbabwaan','zimbabwaans','zimbabwe','zimmerman','zimmermann','zimmer','zimbabwaanse','zimbabwanen'}

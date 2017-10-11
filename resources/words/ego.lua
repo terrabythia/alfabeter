@@ -1,0 +1,1 @@
+return {'egovernment','ego','egocentriciteit','egocentrisch','egocentrisme','egodocument','egotisme','egotrip','egotrippen','egotripper','egotripperij','egosme','egost','egoste','egostisch','egomaniakaal','egon','egos','egocentrische','egocentrischer','egosten','egostische','egostischer','egodocumenten','egotrippende','egotrippers','egostes','egomaniakale','egotrips','egons'}

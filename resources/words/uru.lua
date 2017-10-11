@@ -1,0 +1,1 @@
+return {'uruguay','uruguayaan','uruguayaans','uruguees','uruguayaanse','uruguayanen','uruguese','uruguezen'}

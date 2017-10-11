@@ -1,0 +1,1 @@
+return {'ooi','ooibos','ooievaar','ooievaarsbeen','ooievaarsbek','ooievaarsnest','ooievaartje','ooievaren','ooilam','ooit','ooigem','ooike','ooink','ooijevaar','ooien','ooievaars','ooievaarsbekken','ooievaarsbenen','ooievaarsnesten','ooievaartjes','ooilammeren','ooitje','ooitjes','ooibossen','ooijse'}

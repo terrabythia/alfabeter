@@ -1,0 +1,1 @@
+return {'gom','gomachtig','gomarist','gombal','gomboom','gomelastiek','gomhars','gommen','gommetje','gompapier','gompie','gomziekte','gomma','gommakoekje','gommans','gomes','gomez','gommeren','gombert','gommer','gomachtige','gomballen','gombomen','gomde','gomden','gommetjes','gomt','gomaristen','gomharsen','gommakoekjes'}

@@ -1,0 +1,1 @@
+return {'buyout','buyse','buys','buysse','buyten','buyouts'}

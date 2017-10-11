@@ -1,0 +1,1 @@
+return {'onfrans','onfair','onfatsoen','onfatsoenlijk','onfatsoenlijkheid','onfeilbaar','onfeilbaarheid','onflatteus','onfortuinlijk','onfraai','onfris','onfunctioneel','onfatsoenlijke','onfatsoenlijker','onfatsoenlijkheden','onfatsoenlijkste','onfeilbare','onfortuinlijke','onfraaie','onfrisse','onfrisser','onfranse','onfaire','onflatteuze','onfrist','onfunctionele'}

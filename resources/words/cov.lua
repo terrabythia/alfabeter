@@ -1,0 +1,1 @@
+return {'cover','coverartikel','coverband','coverbedrijf','coveren','covergirl','coverstory','coverversie','covoorzitter','coverfoto','covergroep','coververhaal','covergisting','coverende','covergirls','coverstorys','coverversies','covoorzitters','coverbands','coverde','covers','covert','coverbanden','coverbandje','coverbandjes','covergroepen','covergroepje'}

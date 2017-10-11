@@ -1,0 +1,1 @@
+return {'fuchsia','fuchs','fuchsias'}

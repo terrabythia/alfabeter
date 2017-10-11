@@ -1,0 +1,1 @@
+return {'axolotl','axonometrisch','axonometrische','axolotls'}

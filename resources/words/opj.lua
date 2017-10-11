@@ -1,0 +1,1 @@
+return {'opjagen','opjutten','opjuinen','opjaag','opjaagde','opjaagden','opjaagt','opjoeg','opjoegen','opjutte','opjagende','opjut'}

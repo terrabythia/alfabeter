@@ -1,0 +1,1 @@
+return {'dacht','dactylograaf','dactylografie','dactylografisch','dactylologie','dactyloscoperen','dactyloscopie','dactylus','dachau','dachten','dactylen','dactyli','dactylografen','dactylografische','dactyloscopeerde'}

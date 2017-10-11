@@ -1,0 +1,1 @@
+return {'huren','hurken','hurktoilet','hurkzit','hurling','hurksprong','hurkhouding','hurkmans','hurkens','hurenkamp','hurks','hurk','hurkt','hurkte','hurkten','hurkend','hurktoiletten','hurksprongen'}

@@ -1,0 +1,1 @@
+return {'pampus','pamflet','pamfletschrijver','pamflettisme','pamflettist','pamflettistisch','pampa','pampagras','pamper','pamperen','pamflettenoorlog','pam','pamel','pamela','pamfletje','pamfletjes','pamfletschrijvers','pamfletten','pamflettisten','pampas','pamflettistische','pamperde','pampers','pams','pamelas'}

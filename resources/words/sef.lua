@@ -1,0 +1,1 @@
+return {'sefard','sefarden','sefardisch','seffens','sef','sefardische','sefardim','sefs'}

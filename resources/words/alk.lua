@@ -1,0 +1,1 @@
+return {'alk','alkali','alkalimetaal','alkalimetalen','alkaline','alkalisch','alkaliseren','alkalode','alkaloden','alkanna','alkoof','alkalinebatterij','alkemade','alken','alkmaar','alkmaarder','alkmaars','alkema','alkan','alkalinebatterijen','alkalische','alkalischer','alkaliseert','alkalin','alken','alkoven','alkaliseerde','alkmaarse','alkmaarders'}

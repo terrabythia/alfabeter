@@ -1,0 +1,1 @@
+return {'nipkowschijf','nipje','nippel','nippen','nipper','nippertje','nippertjes','nipt','nipkowschijf','nipius','nip','nipapalmen','nippels','nippeltje','nippeltjes','nippend','nippende','nipte','nipten','nipjes'}

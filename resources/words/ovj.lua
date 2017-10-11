@@ -1,0 +1,1 @@
+return {'ovjaarkaart','ovjaarkaarten'}

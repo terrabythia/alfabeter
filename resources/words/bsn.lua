@@ -1,0 +1,1 @@
+return {'bsn','bsnstelsel','bsns'}

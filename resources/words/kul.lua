@@ -1,0 +1,1 @@
+return {'kultuurkamer','kul','kulas','kulkoek','kullen','kulk','kulik','kuling','kulsdom','kulassen','kulde','kulden','kult'}

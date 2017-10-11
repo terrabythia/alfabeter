@@ -1,0 +1,1 @@
+return {'agio','agioreserve','agiotage','agitatie','agitato','agitator','agitatorisch','agiteren','agitprop','agiostock','agitaties','agitatoren','agitatorische','agitators','agiteer','agiteerde','agiteerden','agiteert','agitprops'}

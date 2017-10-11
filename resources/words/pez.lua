@@ -1,0 +1,1 @@
+return {'pezen','pezerik','pezeweven','pezewever','pezig','pezeriken','pezewevers','pezige','peziger','pezeweefde'}

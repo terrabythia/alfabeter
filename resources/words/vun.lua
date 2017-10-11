@@ -1,0 +1,1 @@
+return {'vuns','vunsheid','vunzig','vunzigheid','vunderink','vunst','vunze','vunzer','vunzige','vunziger','vunzigste'}

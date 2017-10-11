@@ -1,0 +1,1 @@
+return {'pvc','pvcbuis','pvcbuizen','pvcprijzen'}

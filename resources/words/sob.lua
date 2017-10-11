@@ -1,0 +1,1 @@
+return {'sober','soberheid','sobertjes','soberder','sobere','soberst'}

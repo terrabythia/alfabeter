@@ -1,0 +1,1 @@
+return {'djvu','djvugevoel','djvus','djvuutje'}

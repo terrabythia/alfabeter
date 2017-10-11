@@ -1,0 +1,1 @@
+return {'bifocaal','bifurcatie','bifocale','bifurcaties'}

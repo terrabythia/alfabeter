@@ -1,0 +1,1 @@
+return {'kachel','kachelbuis','kachelglans','kachelhout','kachelpijp','kachelplaat','kachelsmid','kacheltje','kachelwarmte','kachelplaats','kachelkraan','kachelweer','kachtem','kachelbuizen','kachelhoutjes','kachelpijpen','kachelplaten','kachels','kachelsmeden','kachelt','kacheltjes'}

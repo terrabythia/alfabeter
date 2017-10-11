@@ -1,0 +1,1 @@
+return {'ubahn','ubalk','ubachoverworms','ubacher','ubachs','ubags','ubaghs','ubach','ubalken'}

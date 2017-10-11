@@ -1,0 +1,1 @@
+return {'pover','poverheid','povertjes','povlakte','pover','poverder','povere','poverst'}

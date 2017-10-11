@@ -1,0 +1,1 @@
+return {'usueel','usurpatie','usurpator','usurperen','usuele','usurpaties','usurpatoren','usurpators','usurpeerde','usurpeerden','usurpeert','usueelst','usueler'}

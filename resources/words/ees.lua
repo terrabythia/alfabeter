@@ -1,0 +1,1 @@
+return {'eest','eesten','eestermans','eestte','eestten','eese'}

@@ -1,0 +1,1 @@
+return {'nok','nokbalk','nokken','nokkenas','noklijn','nokvol','nokere','nokia','nokbalken','nokkenassen','noklijnen','nokt','nokte','nokten','nokvolle','nokias'}

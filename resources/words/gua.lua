@@ -1,0 +1,1 @@
+return {'guatemala','guatemalaan','guatemalaans','guatemalteek','guatemalteeks','guacamole','guanine','guano','guave','guavesap','guadeloupe','guadelouper','guadeloups','guam','guamees','guangzhou','guatemalaanse','guatemalteekse','guatemalteken','guatemalanen','guaven','guaves'}

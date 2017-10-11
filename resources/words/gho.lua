@@ -1,0 +1,1 @@
+return {'ghostwriter','ghostwriters'}

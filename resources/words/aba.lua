@@ -1,0 +1,1 @@
+return {'abactis','abacus','abandon','abandonnement','abandonneren','abatjour','abattoir','abaja','abaci','abactissen','abandonneert','abatjours','abattoirs','abandonneerde','abajas'}

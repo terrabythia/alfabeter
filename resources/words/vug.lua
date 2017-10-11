@@ -1,0 +1,1 @@
+return {'vught','vughtenaar','vughts','vugt','vugs','vughtse'}

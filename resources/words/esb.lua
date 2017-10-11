@@ -1,0 +1,1 @@
+return {'esbattement','esbattementen'}

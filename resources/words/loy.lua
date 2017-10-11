@@ -1,0 +1,1 @@
+return {'loyaal','loyalist','loyalistisch','loyaliteit','loyaliteitsconflict','loyaliteitsprobleem','loyaliteitsprogramma','loyaliteitsverklaring','loyauteit','loyaliteitsvraag','loyaliteitsdividend','loyaalst','loyale','loyaler','loyaliteiten','loyalisten','loyalistische','loyaliteitsprogrammas','loyaliteitsverklaringen','loyaliteitsproblemen','loyaliteitsconflicten'}

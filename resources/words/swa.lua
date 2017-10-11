@@ -1,0 +1,1 @@
+return {'swahili','swagger','swami','swap','swastika','swalm','swalmen','swazi','swaziland','swazisch','swazir','swart','swan','swartjes','swaab','swanenberg','swaen','swarte','swaan','swagerman','swaak','swaving','swaneveld','swager','swaanen','swank','swanen','swaters','swazische','swaggers','swaps','swastikas','swamis'}

@@ -1,0 +1,1 @@
+return {'gyrokompas','gyroscoop','gyroscopisch','gyros','gyroscopen','gyroscopische','gyrokompassen'}

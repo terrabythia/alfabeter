@@ -1,0 +1,1 @@
+return {'enumeratie','enuntiatief','enummer','enuntiatieve','enummers'}

@@ -1,0 +1,1 @@
+return {'gideonsbende','gids','gidsen','gidsfossiel','gidsfunctie','gidsland','gidsrol','gidsbeurt','gideon','gido','gideonse','gidding','gidsfossielen','gidslanden','gidst','gidste','gidsje','gideons','gidos','gidsjes','gidsbeurten'}

@@ -1,0 +1,1 @@
+return {'cutter','cutteren','cutterzuiger','cutters','cutterzuigers'}

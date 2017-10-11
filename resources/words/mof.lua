@@ -1,0 +1,1 @@
+return {'mof','moffel','moffelen','moffeloven','moffen','moffenpijp','moffin','mofokoranti','moffenhoer','moffenmeid','moffelde','moffelden','moffelovens','moffels','moffelt','mofje','moffinnen'}

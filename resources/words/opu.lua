@@ -1,0 +1,1 @@
+return {'opuitleenbasis','opulent','opulentie','opus','opusnummer','opussen','opulente','opusnummers'}

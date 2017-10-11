@@ -1,0 +1,1 @@
+return {'oelama','oelema','oelewapper','oelpan','oelegem','oele','oelen','oelemas','oelewappers','oelamas'}

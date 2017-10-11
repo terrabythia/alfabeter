@@ -1,0 +1,1 @@
+return {'amygdala','amylose','amyotrofie','amy','amys'}

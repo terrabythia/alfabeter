@@ -1,0 +1,1 @@
+return {'ary','aryan','arys','aryans'}

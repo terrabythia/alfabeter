@@ -1,0 +1,1 @@
+return {'box','boxcalf','boxen','boxer','boxermotor','boxershort','boxspring','boxelaar','boxmeer','boxmeerder','boxmeers','boxtel','boxtelaar','boxtels','boxem','boxum','boxman','boxhoorn','boxma','boxers','boxjes','boxermotoren','boxermotors','boxershorts','boxtelse','boxmeerse'}

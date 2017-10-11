@@ -1,0 +1,1 @@
+return {'wodka','wodkafles','wodanseik','wodan','wodkas','wodans'}

@@ -1,0 +1,1 @@
+return {'azuren','azuur','azuurblauw','azuursteen','azuki','azuurblauwe','azuurstenen','azukis'}

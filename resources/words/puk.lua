@@ -1,0 +1,1 @@
+return {'puk','pukkel','pukkelig','pukkie','pukcode','puk','pukje','pukkelige','pukkels','pukkeltje','pukkeltjes','pukken','puks'}

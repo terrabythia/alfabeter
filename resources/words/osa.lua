@@ -1,0 +1,1 @@
+return {'osamabinladen','osama','osamas'}

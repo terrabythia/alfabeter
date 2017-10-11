@@ -1,0 +1,1 @@
+return {'wazig','wazigheid','wazenaar','wazen','wazige','waziger','wazigere','wazigst','wazigste'}

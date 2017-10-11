@@ -1,0 +1,1 @@
+return {'aov','aovuitkering','aover','aovuitkeringen','aovers'}

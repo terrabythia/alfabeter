@@ -1,0 +1,1 @@
+return {'enig','enige','enigen','enigerlei','enigermate','enigerwijs','enigerwijze','eniggeboren','enigheid','enigma','enigmatisch','enigst','enigszins','eniac','enigmas','enigmata','enigmatische','enigmatischer','enigste'}

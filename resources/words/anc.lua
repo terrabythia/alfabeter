@@ -1,0 +1,1 @@
+return {'anchorman','anchorwoman','ancien','ancinniteit','anco','ancinniteiten','anciens','anchormen','anchorwomen','ancos'}

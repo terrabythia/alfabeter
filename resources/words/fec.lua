@@ -1,0 +1,1 @@
+return {'fecaal','fecalin','feces','fecale'}

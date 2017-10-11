@@ -1,0 +1,1 @@
+return {'kibbelaar','kibbelarij','kibbelen','kibbeling','kibbelpartij','kibbels','kibbelzucht','kibboets','kibboetsnik','kiburg','kibbel','kibbelaars','kibbelarijen','kibbelarijtjes','kibbelde','kibbelden','kibbelpartijen','kibbelt','kibbelzieke','kibboetsen','kibboetsniks','kibbelarijtje','kibbelend','kibbelende'}

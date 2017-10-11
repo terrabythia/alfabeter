@@ -1,0 +1,1 @@
+return {'fuga','fugatisch','fugas','fugaatje','fugaatjes','fugatische'}

@@ -1,0 +1,1 @@
+return {'tjerk','tjeerd','tjerk','tjebbe','tjeu','tjeerdsma','tjepkema','tjeertes','tjerkstra','tjerken','tjebbes','tjeerds','tjerks','tjeus'}

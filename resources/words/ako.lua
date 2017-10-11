@@ -1,0 +1,1 @@
+return {'akoestiek','akoestisch','akolei','akoniet','akoudad','akoestische','akonieten','akoleien'}

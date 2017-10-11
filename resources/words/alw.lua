@@ -1,0 +1,1 @@
+return {'alwetende','alwaar','alweder','alweer','alwetend','alwetendheid','alweter','alwijs','alwijze','alwin','alwetende','alweters','alwijze','alwins'}

@@ -1,0 +1,1 @@
+return {'aikido','aike','aiko','aikes','aikos'}

@@ -1,0 +1,1 @@
+return {'ijl','ijlbode','ijlen','ijlgoed','ijlheid','ijlhoofdig','ijlhoofdigheid','ijlings','ijlkoorts','ijltempo','ijlhoofd','ijlboden','ijlbodes','ijlde','ijlden','ijle','ijler','ijlere','ijlgoederen','ijlhoofden','ijlhoofdige','ijlhoofdigste','ijlkoortsen','ijlst','ijlste','ijlt','ijlend'}

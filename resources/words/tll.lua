@@ -1,0 +1,1 @@
+return {'tllicht','tllampen','tllichten'}

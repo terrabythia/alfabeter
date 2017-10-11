@@ -1,0 +1,1 @@
+return {'kut','kutten','kuttenkop','kutwijf','kutsmoes','kutzwager','kuttekoven','kutje','kuttenkoppen','kutwijven','kutsmoezen','kutzwagers','kutjes'}

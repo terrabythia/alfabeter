@@ -1,0 +1,1 @@
+return {'oktoberrevolutie','oktober','oktoberdag','oktobermaand','oktoberweer','oktobernummer','oktays','oktay','oktoberdagen','oktays'}

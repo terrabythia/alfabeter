@@ -1,0 +1,1 @@
+return {'dukaat','dukatengoud','dukaton','dukdalf','duke','dukker','duker','dukel','dukaten','dukatons','dukdalven','dukes'}

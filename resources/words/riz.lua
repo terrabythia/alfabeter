@@ -1,0 +1,1 @@
+return {'rizofoor','riziv','riza','riza','rizoforen','rizas'}

@@ -1,0 +1,1 @@
+return {'kubbe','kubboot','kuberen','kubiek','kubiekgetal','kubiekwortel','kubisme','kubist','kubistisch','kubus','kubusvormig','kubusruimte','kub','kubben','kubboten','kubeer','kubieke','kubiekwortels','kubisten','kubistische','kubistischer','kubussen','kubeerde','kubiekgetallen','kubusvormige'}

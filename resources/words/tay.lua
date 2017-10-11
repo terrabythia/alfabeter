@@ -1,0 +1,1 @@
+return {'taylorstelsel','taylor','taylors'}

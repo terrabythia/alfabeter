@@ -1,0 +1,1 @@
+return {'ovulatie','ovuleren','ovuleerde','ovulaties'}

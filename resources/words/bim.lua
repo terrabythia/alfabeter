@@ -1,0 +1,1 @@
+return {'bimbam','bimbammen','bimetaal','bima','bimmel','bimbamden','bimbamt','bimas'}

@@ -1,0 +1,1 @@
+return {'epenthesis','epenthetisch','epe','epenaar','eper','epes','epema','epen','epenthetische','epentheses'}

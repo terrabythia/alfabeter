@@ -1,0 +1,1 @@
+return {'luzerne','luz','luz'}

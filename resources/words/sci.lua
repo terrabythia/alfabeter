@@ -1,0 +1,1 @@
+return {'sciencefiction','sciencefictionfilm','sciencefictionroman','sciencefictionschrijver','sciencefictionserie','sciencepark','sciopticon','scintisme','sciencefictionverhaal','scipio','sciarone','scientologen','sciencefictionfilms','sciencefictionromans','sciencefictionschrijvers','scienceparken','sciopticons','scienceparks','sciencefictionverhalen'}

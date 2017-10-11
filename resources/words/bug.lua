@@ -1,0 +1,1 @@
+return {'bug','bugel','buggy','buggenhout','buggenhoutenaar','buggenhouts','bugter','bugel','bugels','buggys','bugs','buggytje'}

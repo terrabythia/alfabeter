@@ -1,0 +1,1 @@
+return {'aplanatisch','aplomb','aplanatische'}

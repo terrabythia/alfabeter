@@ -1,0 +1,1 @@
+return {'requiem','requiemmis','requisitoir','requiemmissen','requiems','requisitoiren','requisitoirs'}

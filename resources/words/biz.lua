@@ -1,0 +1,1 @@
+return {'bizar','bizon','bizarder','bizarre','bizarst','bizons','bizars','bizarste'}

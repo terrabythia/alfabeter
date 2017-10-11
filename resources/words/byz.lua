@@ -1,0 +1,1 @@
+return {'byzantijn','byzantijns','byzantijn','byzantijns','byzantinisme','byzantium','byzantijnse','byzantijnen','byzantijnse','byzantijnen'}

@@ -1,0 +1,1 @@
+return {'vnwaarnemer','vnw','vnwaarnemers'}

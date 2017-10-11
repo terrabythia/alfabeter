@@ -1,0 +1,1 @@
+return {'ekster','eksteroog','eksternest','eksaarde','eksel','eksterogen','eksters','ekstertje','ekstertjes','eksternesten','eksteroogje'}

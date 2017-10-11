@@ -1,0 +1,1 @@
+return {'isral','israli','israliet','isralisch','isralitisch','isralir','isralische','isralischpalestijns','isralieten','isralitische','isralirs','isralis','isralischpalestijnse','isras'}

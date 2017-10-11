@@ -1,0 +1,1 @@
+return {'toga','togen','toges','togatus','togo','togolees','togoos','togor','togas','togaatje','togaatjes','togati'}

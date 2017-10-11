@@ -1,0 +1,1 @@
+return {'wauw','wauwelaar','wauwelen','wauters','wauben','wauwe','wauwel','wauwelaars','wauwelde','wauwelden','wauwelt'}

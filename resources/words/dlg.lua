@@ -1,0 +1,1 @@
+return {'dlgu','dlgue','dlgues','dlgus','dlgueetje'}

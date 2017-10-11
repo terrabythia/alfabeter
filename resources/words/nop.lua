@@ -1,0 +1,1 @@
+return {'nopay','nop','nopen','nopens','noppen','noppenfolie','noppes','noppig','noppen','noppe','noppers','noppert','nopjes','noppenschoenen','noppige','nopt','nopte'}

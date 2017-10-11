@@ -1,0 +1,1 @@
+return {'jihad','jihadist','jihadistisch','jihad','jihadstrijders','jihadisten','jihadistische','jihads','jihads'}

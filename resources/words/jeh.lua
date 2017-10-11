@@ -1,0 +1,1 @@
+return {'jehova','jehova','jehee','jehovas','jehovas'}

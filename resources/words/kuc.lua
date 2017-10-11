@@ -1,0 +1,1 @@
+return {'kuch','kuchen','kuchhoest','kucht','kuchte','kuchten','kuchend'}

@@ -1,0 +1,1 @@
+return {'urk','urker','urks','urkers','urkse'}

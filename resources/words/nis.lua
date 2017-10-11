@@ -1,0 +1,1 @@
+return {'nis','nisbus','nisskakam','nissenhut','nispen','nisse','nistelrooy','nisa','nisha','nissink','nissan','nisje','nissen','nisas','nishas','nisses','nisjes'}

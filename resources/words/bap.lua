@@ -1,0 +1,1 @@
+return {'baptisme','baptist','baptisterium','baptistisch','baptistenpredikant','baptiste','baptist','baptiste','baptista','baptisten','baptistische','baptisteria','baptists','baptistes'}

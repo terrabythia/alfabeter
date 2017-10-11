@@ -1,0 +1,1 @@
+return {'eten','etensbak','etensgeur','etenskast','etenslucht','etensrest','etensresten','etenstijd','etensuur','etenswaar','etentje','eter','eterij','eterniet','eternieten','etend','etensuren','etenswaren','etentjes','eters','etende','etensgeuren','etensluchten','etensbakken','etensluchtjes','etensbakje','etensrestjes','etenstijden','etensbakjes'}

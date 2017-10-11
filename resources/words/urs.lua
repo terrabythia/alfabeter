@@ -1,0 +1,1 @@
+return {'ursuline','ursulinen','ursel','ursul','ursula','urselmann','ursinus','ursulas'}

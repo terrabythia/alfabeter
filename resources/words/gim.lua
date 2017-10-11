@@ -1,0 +1,1 @@
+return {'gimmick','gimmicks'}

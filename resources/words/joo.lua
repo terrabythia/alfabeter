@@ -1,0 +1,1 @@
+return {'jood','joods','joost','jood','joods','joodschristelijk','joodszijn','jool','joon','joop','joop','joopdenuyl','joopvandenende','joostvandenvondel','joosttennodenaar','joosten','joos','joosje','joosse','joore','joosen','jooren','joon','joor','joossen','joodse','joodse','jookt','jookte','joolden','joolt','joodschristelijke','joolde','joops','joos','joosjes','joosts'}

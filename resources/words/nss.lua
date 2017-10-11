@@ -1,0 +1,1 @@
+return {'nsstation','nsstations'}

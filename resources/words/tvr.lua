@@ -1,0 +1,1 @@
+return {'tvrecensent','tvreclame','tvreeks','tvregisseur','tvreportage','tvreclames'}

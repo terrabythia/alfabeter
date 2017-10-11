@@ -1,0 +1,1 @@
+return {'djinn','djilbab','djibouti','djiboutiaan','djiboutiaans','djinns','djiboutiaanse'}

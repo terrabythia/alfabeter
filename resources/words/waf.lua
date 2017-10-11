@@ -1,0 +1,1 @@
+return {'wafel','wafelbakker','wafelbakkerij','wafelbeslag','wafelhuis','wafelijzer','wafelijzerpolitiek','wafelkraam','wafelstof','wafelvormig','waffel','waf','wafelenbak','wafa','wafelbakkerijen','wafelbakkers','wafelen','wafelhuizen','wafelijzers','wafelkramen','wafels','wafeltje','wafeltjes','wafelvormige','waffels','wafas'}

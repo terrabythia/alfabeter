@@ -1,0 +1,1 @@
+return {'apulisch','apuli','apulir'}

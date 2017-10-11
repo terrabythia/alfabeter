@@ -1,0 +1,1 @@
+return {'saai','saaien','saaiheid','saam','saamhorig','saamhorigheid','saamhorigheidsgevoel','saampjes','saalien','saar','saab','saad','saartje','saarloos','saat','saathof','saaltink','saanen','saalmink','saaman','saas','saaie','saaier','saaiere','saaist','saaiste','saais','saamhorigheidsgevoelens','saamhorige','saads','saars','saartjes'}

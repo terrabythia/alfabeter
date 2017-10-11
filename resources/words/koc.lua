@@ -1,0 +1,1 @@
+return {'kocht','kock','koch','kocken','kockelkorn','kockx','kochten'}

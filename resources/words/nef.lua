@@ -1,0 +1,1 @@
+return {'nefast','neffens','nefriet','nefkens','nefs','nefrieten','nefaste'}

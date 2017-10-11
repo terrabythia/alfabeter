@@ -1,0 +1,1 @@
+return {'jingle','jingo','jingosme','jin','jing','jingles','jins','jings'}

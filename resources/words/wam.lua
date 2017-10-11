@@ -1,0 +1,1 @@
+return {'wam','wambuis','wamen','wammen','wammes','wamsticker','wambeek','wams','wamsteker','wamelink','wambuizen','wamde','wammesen','wammetje','wammetjes','wamt','wamstickers'}

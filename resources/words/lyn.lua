@@ -1,0 +1,1 @@
+return {'lynchen','lynchpartij','lynchwet','lynx','lynxoog','lyn','lyndon','lyndsey','lynette','lynn','lynne','lynch','lyncht','lynchte','lynchten','lynxen','lynchpartijen','lyns','lyndons','lyndseys','lynettes','lynns','lynnes'}

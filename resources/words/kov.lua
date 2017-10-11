@@ -1,0 +1,1 @@
+return {'kovel','kovels','koven','koveltje'}

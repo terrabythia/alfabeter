@@ -1,0 +1,1 @@
+return {'wrochten','wroegen','wroeging','wroeten','wroeter','wrok','wrokken','wrokkig','wrong','wrongel','wrongstuk','wrocht','wrochtte','wrochtten','wroeg','wroegingen','wroegt','wroet','wroeters','wroette','wroetten','wrokkige','wrokkiger','wrokt','wrokte','wrokten','wrongen','wrongetjes','wrongstukken','wrongetje'}

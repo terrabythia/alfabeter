@@ -1,0 +1,1 @@
+return {'omnevelen','omneveling','omnibus','omnibusdienst','omnipotent','omnium','omniumverzekering','omnivoor','omnummeren','omnummering','omnaaien','omneveld','omnevelde','omnevelt','omnibusdiensten','omnibussen','omnipotente','omniums','omnivoren','omniumverzekeringen'}

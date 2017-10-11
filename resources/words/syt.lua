@@ -1,0 +1,1 @@
+return {'sytske','sytse','sytze','sytses','sytskes','sytzes'}

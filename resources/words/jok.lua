@@ -1,0 +1,1 @@
+return {'jok','joke','joken','joker','jokeren','jokkebrok','jokkebrokken','jokken','jokkernij','joke','jokke','jokers','jokert','jokkentjes','jokkernijtje','jokt','jokte','jokten','jokerde','jokkens','jokes','jokkes'}

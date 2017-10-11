@@ -1,0 +1,1 @@
+return {'vexatie','vexeren','vexaties','vexeerde'}

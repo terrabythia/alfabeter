@@ -1,0 +1,1 @@
+return {'ets','etsdruk','etsen','etser','etsgrond','etskunst','etsnaald','etsplaat','etswerk','etstechniek','etsend','etsende','etsers','etsnaalden','etst','etste','etsten','etsplaten'}

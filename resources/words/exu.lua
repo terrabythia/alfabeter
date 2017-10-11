@@ -1,0 +1,1 @@
+return {'exuberant','exuberantie','exuberante','exuberanties'}

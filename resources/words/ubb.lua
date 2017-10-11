@@ -1,0 +1,1 @@
+return {'ubbergen','ubberger','ubbergs','ubbink','ubben','ubbels'}

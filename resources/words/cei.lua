@@ -1,0 +1,1 @@
+return {'ceintuur','ceintuurbaan','ceinturen','ceintuurs','ceintuurtje','ceintuurtjes'}

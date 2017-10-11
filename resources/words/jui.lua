@@ -1,0 +1,1 @@
+return {'juichen','juichkreet','juichstemming','juichtoon','juichverhaal','juist','juiste','juistheid','juich','juichend','juichende','juichkreten','juicht','juichte','juichten','juichtonen','juister','juichverhalen','juistere','juindeop'}

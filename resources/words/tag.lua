@@ -1,0 +1,1 @@
+return {'tag','tagger','tagliatelle','tagrijn','tagrijnen','tagrijns','taggers','tags'}

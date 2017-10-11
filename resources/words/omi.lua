@@ -1,0 +1,1 @@
+return {'omina','omineus','omissie','omineuze','omineuzer','omissies','omineust'}

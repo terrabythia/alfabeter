@@ -1,0 +1,1 @@
+return {'jemen','jemig','jeminee','jemenitische','jemeniet','jemenitisch','jemenieten'}

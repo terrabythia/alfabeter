@@ -1,0 +1,1 @@
+return {'lef','lefdoekje','lefgozer','lefhebber','lefmaker','lefschopper','leffinge','leferink','lefeber','lefferts','leffers','lefering','lefhebbers','lefgozers','lefgozertje','lefdoekjes','lefschoppers'}

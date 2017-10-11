@@ -1,0 +1,1 @@
+return {'vaticaans','vaticaanstad','vat','vatbaar','vatbaarheid','vatbier','vaten','vatenkwast','vatenwasser','vatten','vaticaan','vatbaarder','vatbaarst','vatbare','vatenwassers','vatte','vaticaanse','vatenkwasten','vattend'}

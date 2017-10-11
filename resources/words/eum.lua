@@ -1,0 +1,1 @@
+return {'euminister','euministerraad','eumarkt','euministers'}

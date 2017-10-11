@@ -1,0 +1,1 @@
+return {'oegaritisch','oeganda','oegandees','oegstgeest','oegstgeestenaar','oegstgeester','oegstgeests','oegema','oegaritische'}

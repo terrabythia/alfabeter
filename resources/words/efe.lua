@@ -1,0 +1,1 @@
+return {'efedrine','efemeer','efemeriden','efe','efemere'}

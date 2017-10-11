@@ -1,0 +1,1 @@
+return {'vod','vodde','voddenbaal','voddenboer','voddengoed','voddenkoper','voddenman','voddenmand','voddenmarkt','voddenraapster','voddenraper','voddenvent','vodderij','voddig','vodderig','vodegel','vodden','voddenboeren','voddenmannen','voddenraapsters','voddenrapers','voddige','vodje','vodjes','voddenbalen','voddenmarkten','voddenventen','vodderijen','vodderige'}

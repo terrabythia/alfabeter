@@ -1,0 +1,1 @@
+return {'gay','gayscene','gaya','gaye','gays','gayscenes','gayas','gayes'}

@@ -1,0 +1,1 @@
+return {'nihil','nihilbeding','nihilisme','nihilist','nihiliste','nihilistisch','nihat','nihot','nihilisten','nihilistes','nihilistische','nihilistischer','nihilbedingen','nihats'}

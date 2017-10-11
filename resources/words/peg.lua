@@ -1,0 +1,1 @@
+return {'pegel','pegelen','peggen','pegulanten','peggy','pegge','pegelde','pegelden','pegels','pegelt','pegeltje','pegeltjes','peggys'}

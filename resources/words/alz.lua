@@ -1,0 +1,1 @@
+return {'alziende','alzheimer','alzheimerpatint','alziend','alzijdig','alzijdigheid','alzo','alzheimerdiagnose','alzheimerpatinten','alziende','alzijdige'}

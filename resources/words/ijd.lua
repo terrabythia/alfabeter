@@ -1,0 +1,1 @@
+return {'ijdel','ijdelheid','ijdellijk','ijdeltuit','ijdeltuiten','ijdeltuiterij','ijdele','ijdeler','ijdelheden','ijdelst','ijdelste','ijdeltuiterijen'}

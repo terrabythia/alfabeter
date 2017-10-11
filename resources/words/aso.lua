@@ -1,0 +1,1 @@
+return {'aso','asociaal','asos','asociaalst','asociale','asocialen','asocialer'}

@@ -1,0 +1,1 @@
+return {'lpverzameling','lpverzamelingen'}

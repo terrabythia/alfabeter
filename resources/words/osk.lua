@@ -1,0 +1,1 @@
+return {'oskar','oskam','oskamp','oskars'}

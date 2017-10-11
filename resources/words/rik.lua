@@ -1,0 +1,1 @@
+return {'rikkekikken','rikken','rikketik','rikketikken','rikkikken','riks','riksja','rik','riksingen','rika','rikke','rikkert','rikus','rikken','rikkers','rikkerink','rikers','rikhof','rikketikt','rikketikte','riksen','rik','rikkekikte','rikkikte','rikte','riksjas','riks','rikas','rikkes','rikkerts','rikus'}

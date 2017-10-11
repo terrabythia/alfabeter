@@ -1,0 +1,1 @@
+return {'eugenese','eugenetica','eugenetisch','eugrondwet','eugemiddelde','eugene','eugenia','eugenie','eugne','eugelink','eugenetische','eugenes','eugenias','eugenies','eugnes'}

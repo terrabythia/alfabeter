@@ -1,0 +1,1 @@
+return {'ovaal','ovaaltje','ovaalvormig','ovarium','ovariumkanker','ovatie','ovationeel','ovaa','ovaaltjes','ovale','ovalen','ovaria','ovaties','ovaalvormige','ovationele','ovariums'}

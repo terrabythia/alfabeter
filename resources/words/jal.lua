@@ -1,0 +1,1 @@
+return {'jalap','jalappe','jaloers','jaloersheid','jaloersmakend','jaloezie','jaloezieaanval','jaloeziegevoel','jalon','jalonneren','jalal','jalil','jal','jalving','jalink','jalloh','jaloerse','jaloerser','jaloerst','jaloeziegevoelens','jaloezietje','jaloezietjes','jaloezien','jalons','jaloersmakende','jalals','jalils','jals'}

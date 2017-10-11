@@ -1,0 +1,1 @@
+return {'aruba','arubaan','arubaans','arubaanse','arun','aruna','arubanen','aruns','arunas'}

@@ -1,0 +1,1 @@
+return {'laf','lafaard','lafbek','lafenis','lafhartig','lafhartigheid','lafheid','lafjes','lafeber','lafleur','laffra','lafaards','lafbekken','lafenissen','laffe','laffer','lafhartige','lafhartiger','lafhartigste','lafheden','lafst','lafste'}

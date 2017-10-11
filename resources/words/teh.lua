@@ -1,0 +1,1 @@
+return {'tehuis','tehuiskind','teharent','tehunnent','teheraans','teheran','teheraner','tehuizen','teheraanse','tehuiskinderen'}

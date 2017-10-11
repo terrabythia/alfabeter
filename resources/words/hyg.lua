@@ -1,0 +1,1 @@
+return {'hygine','hyginecode','hyginisch','hyginist','hyginiste','hygrometer','hygrometrie','hygroscoop','hygroscopisch','hygineeisen','hyginemaatregelen','hygineregels','hyginevoorschriften','hyginische','hyginischer','hyginisten','hygrometers','hygroscopische','hygroscopen','hyginecodes'}

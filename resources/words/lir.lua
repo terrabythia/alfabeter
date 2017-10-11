@@ -1,0 +1,1 @@
+return {'lira','lire','liren','lires','liras'}

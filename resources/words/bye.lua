@@ -1,0 +1,1 @@
+return {'bye','byebye','byes'}

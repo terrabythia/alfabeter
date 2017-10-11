@@ -1,0 +1,1 @@
+return {'zift','ziften','zifter','zifterij','zifting','ziftsel','zifters','ziftingen','ziftte','ziftsels'}

@@ -1,0 +1,1 @@
+return {'adult','adukiboon','adulte','adulten','adukibonen'}

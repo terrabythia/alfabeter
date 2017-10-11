@@ -1,0 +1,1 @@
+return {'lymf','lymfatisch','lymfe','lymfedrainage','lymfeklier','lymfevat','lymfklier','lymfklierkanker','lymfocyt','lymfvat','lymeziekte','lymfatische','lymfeklieren','lymfevaten','lymfklieren','lymfvaten','lymfocyten'}

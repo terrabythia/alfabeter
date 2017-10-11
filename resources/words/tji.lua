@@ -1,0 +1,1 @@
+return {'tjiftjaf','tjilpen','tjingel','tjingelen','tjirpen','tjitjak','tjibbe','tjitske','tjin','tjia','tjiftjaffen','tjilp','tjilpt','tjilpte','tjilpten','tjingelden','tjirp','tjirpt','tjirpte','tjirpten','tjiftjafs','tjitjaks','tjibbes','tjitskes'}

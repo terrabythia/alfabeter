@@ -1,0 +1,1 @@
+return {'guur','guurheid','guus','guusje','guust','guurder','guurst','guus','guusjes','guusts'}

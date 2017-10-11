@@ -1,0 +1,1 @@
+return {'elaboratie','elan','eland','elandtest','elasticiteit','elasticiteitsgrens','elasticiteitsleer','elasticiteitsmodulus','elastiek','elastieken','elastiekje','elastisch','elastomeer','ela','elaine','elands','elanden','elastiekjes','elastische','elastischer','elastomeren','elas','elaines'}

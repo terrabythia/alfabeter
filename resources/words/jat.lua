@@ -1,0 +1,1 @@
+return {'jat','jatagan','jatmoos','jatte','jatten','jatter','jatwerk','jatters','jatmozen'}

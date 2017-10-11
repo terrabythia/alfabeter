@@ -1,0 +1,1 @@
+return {'pavane','paviljoen','pavlovreactie','pavoiseren','pavloviaans','pavlovreflex','pavel','pavlov','paviljoenen','paviljoens','paviljoentje','paviljoentjes','pavoiseerde','pavloviaanse','pavanes','pavels'}

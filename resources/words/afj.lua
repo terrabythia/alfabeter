@@ -1,0 +1,1 @@
+return {'afjagen','afjakkeren','afjaag','afjaagde','afjaagt','afjakker','afjakkerde','afjakkert','afjoeg','afjoegen'}

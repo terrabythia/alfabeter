@@ -1,0 +1,1 @@
+return {'ziva','zivas'}

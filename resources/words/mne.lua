@@ -1,0 +1,1 @@
+return {'mnemotechniek','mnemotechnisch','mnemotechnische'}

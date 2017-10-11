@@ -1,0 +1,1 @@
+return {'cognac','cognacgrog','cognacje','cognitie','cognitief','cognossement','cognacglas','cognacjes','cognacs','cognities','cognitieve','cognossementen','cognacglazen'}

@@ -1,0 +1,1 @@
+return {'cdaer','cdalid','cdafractie','cdaminister','cdaleider','cda','cdaers','cdaleden'}

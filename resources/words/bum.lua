@@ -1,0 +1,1 @@
+return {'bumper','bumperkleven','bumperklever','bumpersticker','buma','bumpers','bumperklevers','bumperstickers'}

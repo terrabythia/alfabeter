@@ -1,0 +1,1 @@
+return {'abbreviatie','abba','abbas','abbey','abby','abbing','abbink','abbenhuis','abbes','abbring','abbo','abbassi','abbreviaties','abbas','abbeys','abbys'}

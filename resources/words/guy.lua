@@ -1,0 +1,1 @@
+return {'guyaan','guyaans','guyana','guyanees','guy','guyaanse','guyanese','guyanezen','guys'}

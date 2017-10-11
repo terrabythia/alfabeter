@@ -1,0 +1,1 @@
+return {'tvzender','tvzendtijd','tvzenders'}

@@ -1,0 +1,1 @@
+return {'eskimo','eskader','eskadron','eskimohond','eskimoteren','eskimocultuur','eskimohut','eskes','eskens','eskimos','eskaders','eskadrons','eskimohonden','eskimoteerde','eskadertje','eskimohutten'}

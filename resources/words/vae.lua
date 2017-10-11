@@ -1,0 +1,1 @@
+return {'vaetvient','vaes','vaessen'}

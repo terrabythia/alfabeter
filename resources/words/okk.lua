@@ -1,0 +1,1 @@
+return {'okkernoot','okke','okken','okkerse','okkema','okker','okkernoten','okkes'}

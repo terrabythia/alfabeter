@@ -1,0 +1,1 @@
+return {'tvscherm','tvseizoen','tvserie','tvshow','tvsignaal','tvsoap','tvspecial','tvspel','tvsport','tvspot','tvstation','tvster','tvsysteem','tvstudio','tvs','tvseries','tvspelletje','tvspelletjes','tvspotje','tvspotjes','tvspots','tvstations','tvsterren','tvstudios','tvschermen','tvshows'}

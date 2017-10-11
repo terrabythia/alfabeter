@@ -1,0 +1,1 @@
+return {'peccadille','pech','pechdienst','pechlamp','pechstrook','pechverhelping','pechvogel','pectine','pectoraal','pectorale','pecunia','pecuniair','pechdag','pechduivel','pechgeval','pechhulp','pechler','pechtold','pecannoten','peccadilles','pechdiensten','pechgevallen','pechlampen','pechvogels','pecuniaire','pectoralen','pechstroken','pechduiveltje','pechvogeltje'}

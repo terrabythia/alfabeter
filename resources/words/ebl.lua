@@ -1,0 +1,1 @@
+return {'eblouissant','eblouissante','eblouissanter','eblouissantst'}

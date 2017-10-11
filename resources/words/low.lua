@@ -1,0 +1,1 @@
+return {'lowbudget','lowcost','lowprofile','lowbudgetfilm','lowbudgetproductie','lowbudgethotel','lowie','lowbudgetfilms','lowbudgethotels','lowies'}

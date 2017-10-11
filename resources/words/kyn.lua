@@ -1,0 +1,1 @@
+return {'kynologie','kynologisch','kynoloog','kynologen','kynologische'}

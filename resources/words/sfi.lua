@@ -1,0 +1,1 @@
+return {'sfinx','sfinxachtig','sfinxachtige','sfinxachtiger','sfinxen'}

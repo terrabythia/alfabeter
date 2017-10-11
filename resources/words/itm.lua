@@ -1,0 +1,1 @@
+return {'itmanager','itmedewerker','itmanagers','itmedewerkers'}

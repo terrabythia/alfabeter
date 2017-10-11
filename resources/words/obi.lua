@@ -1,0 +1,1 @@
+return {'obia','obiaman','obi','obispo','obias','obiamannen','obis'}

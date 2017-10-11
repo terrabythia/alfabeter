@@ -1,0 +1,1 @@
+return {'bauhaus','baud','baudrate','baudrates','bauwen','bauxiet','bauxietindustrie','bauxietmijn','bauxietsector','bauxietbedrijf','bauxietmaatschappij','bauxietmarkt','bauxietstad','bauxietwinning','bauke','baukje','bauwens','bauer','bauhuis','baumann','baur','baum','baudoin','bausch','bauman','bauw','bauwde','bauwden','bauwt','bauxietmijnen','baukes','baukjes'}

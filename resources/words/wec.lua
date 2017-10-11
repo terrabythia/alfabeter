@@ -1,0 +1,1 @@
+return {'weck','wecken','weckfles','weckglas','weckketel','weckpot','wechelderzande','weckglazen','weckketels','weckt','weckte','weckten','weckflessen','weckpotten'}

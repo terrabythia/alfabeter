@@ -1,0 +1,1 @@
+return {'oculair','oculatie','oculeermes','oculeren','oculist','oculairs','oculaties','oculeer','oculeermessen','oculeert','oculisten','oculeerde'}

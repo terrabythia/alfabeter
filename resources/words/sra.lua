@@ -1,0 +1,1 @@
+return {'sranantongo','sranan','srananman','srananmans'}

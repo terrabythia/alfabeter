@@ -1,0 +1,1 @@
+return {'dof','doffen','doffer','doffig','dofgroen','dofheid','doft','doff','doffe','doffers','doffertje','doffertjes','doffige','dofgroene','dofst','dofte','doften'}

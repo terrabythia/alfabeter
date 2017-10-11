@@ -1,0 +1,1 @@
+return {'pyjama','pyjamabroek','pyjamajasje','pyjamadag','pyjamajas','pyjamafeestje','pyjamas','pyjamaatje','pyjamaatjes','pyjamabroeken','pyjamajasjes'}

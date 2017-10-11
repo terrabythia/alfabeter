@@ -1,0 +1,1 @@
+return {'ayatollah','ayaanhirsiali','ayatollahkhomeini','aya','ayaan','ayad','ayatollahs','ayas','ayaans'}

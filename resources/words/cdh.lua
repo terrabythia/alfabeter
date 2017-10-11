@@ -1,0 +1,1 @@
+return {'cdhandel','cdhoes','cdhoesje','cdhoezen'}

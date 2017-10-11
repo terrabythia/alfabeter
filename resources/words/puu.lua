@@ -1,0 +1,1 @@
+return {'puur','puurheid','puurs','puurde','puurden','puurder','puurs','puurst','puurt','puurste'}

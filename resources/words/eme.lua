@@ -1,0 +1,1 @@
+return {'emelt','emendatie','emenderen','emerald','emeritaat','emeritus','emeritushoogleraar','emelgem','emerence','emerson','emelten','emendaties','emendeerde','emendeert','emeriti','emerences','emersons'}

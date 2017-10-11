@@ -1,0 +1,1 @@
+return {'cotangens','coterie','cothurne','cotillon','cottage','cotaal','coteren','cotus','cotequecote','cothen','cotonou','cottischealpen','coteries','coterietje','coterietjes','coterien','cothurnen','cotillons','cottages','coteerde','cote','cotale'}

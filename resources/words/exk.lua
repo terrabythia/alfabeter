@@ -1,0 +1,1 @@
+return {'exkamerlid','exkampioen','exkankerpatint','exkanselier','exkeeper','exkeizer','exkolonel','exkolonisator','exkoning','exkorpschef','exkraker','exkrakers','exkamerleden'}

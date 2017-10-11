@@ -1,0 +1,1 @@
+return {'wem','wemelen','wemeling','wemmel','wemmelaar','wemmels','wempe','wemekamp','wemmers','wemel','wemelde','wemelden','wemelingen','wemelt','wemmen','wemelende','wemmelse'}

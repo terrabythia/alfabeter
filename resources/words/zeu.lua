@@ -1,0 +1,1 @@
+return {'zeug','zeugenhouderij','zeugma','zeulen','zeuntje','zeur','zeurder','zeurderig','zeuren','zeurig','zeurkous','zeurpiet','zeurzak','zeurderigheid','zeurprobleem','zeugen','zeul','zeulde','zeulden','zeult','zeuntjes','zeurde','zeurden','zeurders','zeurige','zeurkousen','zeurpieten','zeurt','zeurzakken','zeurderige','zeurend','zeurende','zeugmas','zeugmata','zeurproblemen'}

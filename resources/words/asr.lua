@@ -1,0 +1,1 @@
+return {'asregen','asrest','asruf','asregens','asresten'}

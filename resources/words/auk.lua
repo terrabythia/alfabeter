@@ -1,0 +1,1 @@
+return {'auke','aukje','aukema','aukes','aukjes'}

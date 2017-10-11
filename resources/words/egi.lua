@@ -1,0 +1,1 @@
+return {'egina','egidius','egidius'}

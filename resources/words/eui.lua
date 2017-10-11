@@ -1,0 +1,1 @@
+return {'euingezetene','euinstelling','euingezetenen','euinstellingen'}

@@ -1,0 +1,1 @@
+return {'asceet','ascendant','ascendenten','ascese','ascetisch','ascetisme','ascorbinezuur','ascii','asceten','ascetische','ascetischer','ascendanten'}

@@ -1,0 +1,1 @@
+return {'hukken','huk','hukt','hukte'}

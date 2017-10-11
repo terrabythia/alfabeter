@@ -1,0 +1,1 @@
+return {'fazant','fazantenei','fazantenhaan','fazantenhen','fazantenhok','fazantenjacht','fazantennest','fazantenveer','fazanten','fazanteneieren','fazantenhanen','fazantenhennen','fazantenveren','fazen','fazantennesten'}

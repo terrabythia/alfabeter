@@ -1,0 +1,1 @@
+return {'etude','etui','etuis','etuitje','etudes','etuitjes'}

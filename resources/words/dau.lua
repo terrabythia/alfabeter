@@ -1,0 +1,1 @@
+return {'dauphin','dauw','dauwdruppel','dauwen','dauwpunt','dauwtrappen','dauwtrapper','dauwworm','dauwe','dauphin','dauphins','dauwde','dauwden','dauwdruppels','dauwt','dauwtrap','dauwtrappers','dauwtrapt','dauwwormen','dauwes','dauwdruppeltjes'}

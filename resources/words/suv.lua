@@ -1,0 +1,1 @@
+return {'suv','suvwagen','suva','suvaal','suvs','suvwagens'}

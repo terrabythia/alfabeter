@@ -1,0 +1,1 @@
+return {'ufo','ufojournalistiek','ufologe','ufos','ufootje'}

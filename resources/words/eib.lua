@@ -1,0 +1,1 @@
+return {'eiber','eibergen','eibergenaar','eiberger','eibergs','eibrink','eibers','eibertje'}

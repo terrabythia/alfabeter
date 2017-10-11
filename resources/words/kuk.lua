@@ -1,0 +1,1 @@
+return {'kukelen','kukeleku','kukelde','kukelden','kukelt'}

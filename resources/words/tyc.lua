@@ -1,0 +1,1 @@
+return {'tycoon','tycho','tycoons','tychos'}

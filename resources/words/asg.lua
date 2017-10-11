@@ -1,0 +1,1 @@
+return {'asgat','asgrauw','asgrijs','asgaten','asgrauwe','asgrijze'}

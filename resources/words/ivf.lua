@@ -1,0 +1,1 @@
+return {'ivf','ivfbehandeling','ivfkind','ivfbehandelingen','ivfklinieken'}

@@ -1,0 +1,1 @@
+return {'zambo','zamelen','zambezi','zambia','zambiaan','zambiaans','zamenhof','zaman','zamel','zamelde','zamelden','zamelt','zambos','zambiaanse'}

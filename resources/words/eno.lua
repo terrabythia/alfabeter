@@ -1,0 +1,1 @@
+return {'enorm','enormiteit','eno','enorme','enormer','enormiteiten','enos'}

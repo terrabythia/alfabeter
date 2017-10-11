@@ -1,0 +1,1 @@
+return {'exschrijver','exsenator','exsoldaat','exspeler','exspion','exstaatshoofd','exstaatssecretaris','exstudent','exslaven','exspelers','exstrijders','exstaatssecretarissen','exsoldaten','exstudenten'}

@@ -1,0 +1,1 @@
+return {'deiktisch','deinen','deining','deinzen','deins','deinze','deinzenaar','deinzes','deirdre','deijkers','deij','deiman','deijk','deira','dein','deinde','deinden','deinende','deiningen','deins','deinsde','deinsden','deinst','deint','deiktische','deinend','deiexmachina','deirdres'}

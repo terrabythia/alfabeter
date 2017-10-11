@@ -1,0 +1,1 @@
+return {'jef','jeff','jeffrey','jefke','jefferson','jefta','jeffreys','jefs','jeffs','jeffersons','jeftas'}

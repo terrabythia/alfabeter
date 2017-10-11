@@ -1,0 +1,1 @@
+return {'cup','cupduel','cupfinale','cupido','cupmaat','cupmatch','cupvoetbal','cupwinnaar','cuptoernooi','cupcake','cuperus','cupido','cuppers','cupidootje','cupidootjes','cups','cupduels','cupidos','cupfinales','cuptoernooien','cupwinnaars','cupje','cupjes','cupmaten'}

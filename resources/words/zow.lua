@@ -1,0 +1,1 @@
+return {'zowaar','zowat','zowel','zowaarlijkhelpemijgodalmachtig'}

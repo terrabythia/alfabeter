@@ -1,0 +1,1 @@
+return {'ishaq','ishaak','ishak','ishaqs'}

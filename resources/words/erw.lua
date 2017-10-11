@@ -1,0 +1,1 @@
+return {'erwt','erwten','erwtenbed','erwtenkever','erwtenplant','erwtenrijs','erwtensoep','erwetegem','erwin','erwich','erwtenpeulen','erwtenplanten','erwtje','erwtjes','erwins'}

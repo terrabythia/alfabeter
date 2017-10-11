@@ -1,0 +1,1 @@
+return {'nozem','nozempje','nozems'}

@@ -1,0 +1,1 @@
+return {'bavarois','bavet','baviaan','bavianen','bavegem','bavikhove','bavo','bavelaar','bavinck','baving','bavetje','bavetten','baviaantje','baviaantjes','bavaroistje','bavos','bavelse'}

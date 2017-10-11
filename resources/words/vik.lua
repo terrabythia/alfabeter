@@ -1,0 +1,1 @@
+return {'viking','vikingboot','vikingschip','vikingtijd','vik','vikram','viktor','viktoria','vikingboten','vikingen','vikings','vikingschepen','viks','vikrams','viktors','viktorias'}

@@ -1,0 +1,1 @@
+return {'ejaculaat','ejaculatie','ejaculeren','ejaculaties','ejaculeerde','ejaculaten'}

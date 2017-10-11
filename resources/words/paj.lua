@@ -1,0 +1,1 @@
+return {'pajot','pajots','pajottenland','pajottenlander','pajottenlands'}

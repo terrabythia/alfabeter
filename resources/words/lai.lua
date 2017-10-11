@@ -1,0 +1,1 @@
+return {'laisseraller','laisserfaire','laissezpasser','lai','laila','lais','lailas'}

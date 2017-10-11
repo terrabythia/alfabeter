@@ -1,0 +1,1 @@
+return {'vozen','voze','vozer'}

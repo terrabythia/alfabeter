@@ -1,0 +1,1 @@
+return {'amsterdam','amsterdammer','amsterdams','amsoi','amsterdammertje','amsterdammertjes','ams','amser','amstel','amstelgebied','amstelveen','amstelveens','amstelvener','amsterdamcentrum','amsterdamnoord','amsterdamoudzuid','amsterdamse','amsterdammers','amsterdammertje','amsterdammertjes','amsers','amstelveense'}

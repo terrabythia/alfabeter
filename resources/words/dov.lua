@@ -1,0 +1,1 @@
+return {'dove','doveman','dovemansgesprek','dovemansoren','doven','dovenetel','doveninstituut','dovenonderwijs','dovenontmoetingscentrum','dovenpastoraat','dovenschool','doventaal','doventelefoon','doventolk','dover','dovig','dovigheid','doveren','doves','dovenetels','doventolken','dovende','doveninstituten','dovenscholen','dovige'}

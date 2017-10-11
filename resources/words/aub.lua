@@ -1,0 +1,1 @@
+return {'aub','aubainmarie','aubade','aubergine','aubades','aubergines'}

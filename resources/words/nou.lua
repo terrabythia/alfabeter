@@ -1,0 +1,1 @@
+return {'nou','nougat','nouveaut','nouveauxriches','nouvelle','nouakchott','noud','nouma','nouwen','nour','nourdin','noureddine','nouri','nouschka','nout','nouws','nous','nouveauts','nouds','nours','nourdins','noureddines','nouris','nouschkas','nouts'}

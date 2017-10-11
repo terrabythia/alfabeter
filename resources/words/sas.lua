@@ -1,0 +1,1 @@
+return {'sassanieden','sas','sasdeur','sashimi','sasmeester','sassafras','sassen','sassenier','sassluis','sassanidisch','sashuis','saskia','sassenheim','sassenheimer','sassenheims','sascha','sasha','sasja','sassen','sasbrink','sasdeuren','sasmeesters','sasseniers','sast','saste','sasten','sassanidische','sassluizen','saskias','saschas','sashas','sasjas','sassenheimse'}

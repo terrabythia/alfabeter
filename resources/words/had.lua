@@ -1,0 +1,1 @@
+return {'hadith','had','hadden','hadecum','hadj','hadji','hades','hadjememaar','hadramaut','hadassa','hadassah','hadi','hadderingh','hadders','haddad','haddeman','hadjis','hadassas','hadassahs','hadis'}

@@ -1,0 +1,1 @@
+return {'zefier','zefiers','zefieren'}

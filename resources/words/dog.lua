@@ -1,0 +1,1 @@
+return {'dog','doge','dogger','dogkar','dogma','dogmageschiedenis','dogmaticus','dogmatiek','dogmatisch','dogmatiseren','dogmatisme','dogla','doggersbank','dogan','dogger','dogge','doggen','dogterom','dogen','doges','doggen','doggers','dogmas','dogmata','dogmatici','dogmatische','dogmatischer','dogmatiseerde','doglas','dogans'}

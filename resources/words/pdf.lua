@@ -1,0 +1,1 @@
+return {'pdfformaat','pdf','pdf'}

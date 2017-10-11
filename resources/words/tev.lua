@@ -1,0 +1,1 @@
+return {'teveel','tevens','tevergeefs','tevoorschijn','tevoren','tevreden','tevredene','tevredenheid','tevredenheidsonderzoek','tevredenstellen','tevredenstelling','tevredenheidsenqute','tevelen','teven','tevergeefse','tevredener','tevredenere','tevredengesteld','tevredengestelde','tevredenst','tevredenste','tevredenstellend','tevredenen','tevredenheidsonderzoeken'}

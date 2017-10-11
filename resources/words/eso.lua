@@ -1,0 +1,1 @@
+return {'esoterie','esoterisch','esoterisme','esoterische'}

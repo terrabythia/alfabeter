@@ -1,0 +1,1 @@
+return {'soigneren','soigneur','soiree','soit','soigneer','soigneerde','soigneerden','soigneert','soirees','soireetje','soireetjes','soigneurs'}

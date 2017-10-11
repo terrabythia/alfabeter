@@ -1,0 +1,1 @@
+return {'syfilis','syfilislijder','syfilitisch','syfilislijders','syfilitische'}

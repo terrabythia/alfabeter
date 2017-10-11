@@ -1,0 +1,1 @@
+return {'jipenjanneketaal','jippie','jipenjanneke','jip','jippe','jips','jippes'}

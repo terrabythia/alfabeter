@@ -1,0 +1,1 @@
+return {'oempa','oemar','oempas'}

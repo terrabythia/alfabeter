@@ -1,0 +1,1 @@
+return {'jujube','jujubes'}

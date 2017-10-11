@@ -1,0 +1,1 @@
+return {'gsleutel','gsleutels'}

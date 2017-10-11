@@ -1,0 +1,1 @@
+return {'ict','ictbedrijf','ictbeleid','ictbranche','ictsector','ictinfrastructuur','ictproject','icttoepassing','ictspecialist','ictbedrijven','ictprojecten','icttoepassingen'}

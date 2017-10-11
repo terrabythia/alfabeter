@@ -1,0 +1,1 @@
+return {'hezbollah','hezbollahstrijder','hezbollah','hezemans','hezbollahstrijders'}

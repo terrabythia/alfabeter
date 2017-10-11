@@ -1,0 +1,1 @@
+return {'oeuvre','oeuvrecatalogus','oeuvreprijs','oeuvreprijzen','oeuvres','oeuvrecatalogi'}

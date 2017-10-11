@@ -1,0 +1,1 @@
+return {'cyberbabe','cybercaf','cybercriminaliteit','cybercultuur','cybernetica','cyberneticus','cybernetisch','cyberpunk','cyberspace','cyberterrorisme','cyberwereld','cyborg','cybercafs','cybernetische','cyborgs','cyberpunks'}

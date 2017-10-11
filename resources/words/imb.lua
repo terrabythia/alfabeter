@@ -1,0 +1,1 @@
+return {'imbeciel','imbeciliteit','imbeciele','imbecielen','imbecieler','imbecielste','imbeciliteiten'}

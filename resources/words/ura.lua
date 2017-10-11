@@ -1,0 +1,1 @@
+return {'uraan','uraniet','uranium','uraniumerts','uraniummijn','uraniumoxide','uraniumverrijking','uraniumverrijkingsfabriek','uraniumwinning','uranografie','uraniumverwerkend','uraniumverrijkingsprogramma','uranus','uraniummijnen','uraniumverwerkende','uraniumoxiden'}

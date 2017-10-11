@@ -1,0 +1,1 @@
+return {'poujadisme','poulain','poularde','poule','pouleindeling','poulesysteem','poulet','poulewedstrijd','poulewinnaar','pousseren','poulefase','pouwels','pouw','pouls','pouwelse','poulissen','pouwer','poutsma','poulisse','poulus','pourier','poulardes','poules','pousseerde','pousseerden','pousseert','poulains','poulewedstrijden','poulewinnaars'}

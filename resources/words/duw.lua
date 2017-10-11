@@ -1,0 +1,1 @@
+return {'duw','duwbak','duwboot','duweenheid','duwen','duwstel','duwvaart','duwwerk','duwer','duwfout','duwel','duwbakken','duwboten','duwde','duwden','duweenheden','duwers','duwstellen','duwt','duwtje','duwtjes','duwend','duwende'}

@@ -1,0 +1,1 @@
+return {'nuchter','nuchterheid','nuchterling','nucleair','nucleon','nucleotiden','nucleus','nuclenezuur','nuclearisering','nuchelmans','nuchterder','nuchtere','nuchterst','nucleaire','nuclenezuren','nuclei','nuchterlingen'}

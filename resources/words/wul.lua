@@ -1,0 +1,1 @@
+return {'wulf','wulk','wulp','wulpennest','wulps','wulpsheid','wulpen','wulvergem','wulveringem','wulms','wullems','wulffraat','wullink','wulff','wulken','wulpen','wulpennesten','wulpse','wulpser','wulpst','wulven'}

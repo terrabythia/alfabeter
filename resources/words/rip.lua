@@ -1,0 +1,1 @@
+return {'ripdeal','riposte','riposteren','rippen','ripper','rips','ripspapier','rip','riphagen','rip','ripmeester','rippen','ripken','riposteer','riposteerde','riposteerden','riposteert','riposten','ripostes','ripsen','rip','ripdeals','rippers','ript','ripte'}

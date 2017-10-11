@@ -1,0 +1,1 @@
+return {'mkz','mkzcrisis','mkzepidemie','mkzuitbraak','mkzvirus'}

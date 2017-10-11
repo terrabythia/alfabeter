@@ -1,0 +1,1 @@
+return {'ruderaal','rudiment','rudimentair','ruddervoorde','rudi','rudolf','rudolfsteiner','rudy','rudie','rudo','rudolph','rudolphus','rudge','ruding','ruderale','rudimentaire','rudimenten','rudis','rudies','rudos','rudolfs','rudolphs','rudolphus','rudys'}

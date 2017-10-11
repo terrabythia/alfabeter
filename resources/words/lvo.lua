@@ -1,0 +1,1 @@
+return {'lvormig','lvormige'}

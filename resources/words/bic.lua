@@ -1,0 +1,1 @@
+return {'bic','bicarbonaat','biceps','bicommunautair','biconcaaf','biconvex','bicepspees','bicker','bicarbonaten','bicepsen','bicommunautaire','biconcave','biconvexe','bics','biculturele','biccen'}

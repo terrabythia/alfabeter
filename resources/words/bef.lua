@@ -1,0 +1,1 @@
+return {'bef','befaamd','befaamdheid','beffen','befkraag','beflijster','befloersen','befaamde','befaamder','beflijsters','befloers','befloerst','befloerste','befloersten','befkragen','beft','befte'}

@@ -1,0 +1,1 @@
+return {'hausse','hausseperiode','haussier','hautrelif','hautain','hautecouture','hautecuisine','hauw','hauwtje','hautecouturewinkel','hautcongo','hauer','hauser','hautvast','hau','hausses','haussiers','hautaine','hautainer','hautainere','hauwen','hauwtjes','hautrelifs','hautecouturewinkels'}

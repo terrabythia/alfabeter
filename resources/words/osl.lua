@@ -1,0 +1,1 @@
+return {'oslo','osloconfrontatie','osloos','oslor'}

@@ -1,0 +1,1 @@
+return {'miquel','miquels'}

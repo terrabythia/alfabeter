@@ -1,0 +1,1 @@
+return {'tumbler','tumor','tumorcel','tumorgroei','tumorweefsel','tumtum','tumult','tumultueus','tumulus','tumormassa','tumorvorming','tummers','tump','tuma','tumblers','tumoren','tumors','tumuli','tumulten','tumultueuze','tumorcellen'}

@@ -1,0 +1,1 @@
+return {'coifferen','coiffeur','coiffeuse','coiffure','cointreau','coiffeerde','coiffeert','coiffeurs','coiffeuses','coiffures','coiffeuseje','coiffeusetje'}

@@ -1,0 +1,1 @@
+return {'elysisch','elyse','elysisch','elysische','elysische'}

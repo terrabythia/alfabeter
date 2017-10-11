@@ -1,0 +1,1 @@
+return {'oker','okerachtig','okergeel','okerkleurig','okersoep','okegem','okerachtige','okergele','okerkleurige'}

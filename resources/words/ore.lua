@@ -1,0 +1,1 @@
+return {'oreade','oregano','oremus','orenmaffia','oreren','oreel','oreaden','oreer','oreerde','oreerden','oreert','oren','oremussen'}

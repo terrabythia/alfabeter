@@ -1,0 +1,1 @@
+return {'rul','rulheid','rulijs','ruling','rullen','rullig','rullens','rulkens','rulle','ruller','rullige','rulst','rulings'}

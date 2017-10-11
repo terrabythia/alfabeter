@@ -1,0 +1,1 @@
+return {'unaniem','unanimiteit','unanimiteitsregel','una','unanieme','unas'}

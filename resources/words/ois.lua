@@ -1,0 +1,1 @@
+return {'oisterwijk','oisterwijker','oisterwijks','oisterwijkse'}

@@ -1,0 +1,1 @@
+return {'haelen','haenen','haerkens','haegens','haeck','haemers','haen','haex','haesen','haest'}

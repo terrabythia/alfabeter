@@ -1,0 +1,1 @@
+return {'vapeur','vaporisator','vaporiseren','vapeurs','vapeurtjes','vaporisatoren','vaporisators','vaporiseerde'}

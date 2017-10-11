@@ -1,0 +1,1 @@
+return {'vomeren','vomeer','vomeerde','vomeert'}

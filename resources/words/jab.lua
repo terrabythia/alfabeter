@@ -1,0 +1,1 @@
+return {'jabot','jabotjes','jabroer','jabbeke','jaber','jabbar','jabotje','jabots','jabroers','jabers'}

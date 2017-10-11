@@ -1,0 +1,1 @@
+return {'azoren','azoriaan','azoriaans','azorisch','azoriaanse'}

@@ -1,0 +1,1 @@
+return {'aval','avaleren','avalist','avance','avanceren','avantlalettre','avantgarde','avantgardetoneel','avantgardisme','avantgardist','avantgardistisch','avantpremire','avantscne','avatar','avarua','ava','avalon','avanceer','avanceerde','avanceert','avances','avantgardes','avaleerde','avantgardistische','avantpremires','avantgardisten','avantscnes','avas','avalons'}

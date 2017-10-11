@@ -1,0 +1,1 @@
+return {'lozen','lozing','lozingseis','lozingsnorm','lozingspijp','lozingspunt','lozingsrecht','lozingsvergunning','lozingenbesluit','lozingssituatie','lozingsverbod','lozeman','loze','lozer','lozingen','lozingspunten','lozingsvergunningen','lozers','lozingseisen','lozingsnormen','lozingspijpen'}

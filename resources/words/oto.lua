@@ -1,0 +1,1 @@
+return {'otoscoop','otoliet','otoscopen'}

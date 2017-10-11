@@ -1,0 +1,1 @@
+return {'mocassin','mocht','mocking','mocassins','mochten'}

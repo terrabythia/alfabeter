@@ -1,0 +1,1 @@
+return {'oftalmie','oftalmologie','oftalmoloog','oftewel','oftalmologen'}

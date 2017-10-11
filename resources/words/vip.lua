@@ -1,0 +1,1 @@
+return {'vip','vipbehandeling','vipdorp','vips','vipplaats','viproom','vipruimte','viptribune','vipdorpen','vipje','vipplaatsen','viprooms','vipruimten','vipruimtes','viptribunes'}

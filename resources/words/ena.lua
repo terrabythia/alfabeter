@@ -1,0 +1,1 @@
+return {'enakskind','enantiomeer','enantiomorf','ename','enakskinderen','enantiomeren','enantiomorfe'}

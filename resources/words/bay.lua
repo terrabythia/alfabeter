@@ -1,0 +1,1 @@
+return {'bayer','bayram','bayat','bayrak','bayrams'}

@@ -1,0 +1,1 @@
+return {'kajak','kajakken','kajapoetolie','kajuit','kajuitsjongen','kajuitswachter','kajuitzeiljacht','kajotster','kaj','kaj','kaja','kajakkers','kajaks','kajuiten','kajuitsjongens','kajuitzeiljachten','kajotsters','kajs','kajas'}

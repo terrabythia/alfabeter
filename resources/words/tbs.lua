@@ -1,0 +1,1 @@
+return {'tbs','tbser','tbsers','tbsbehandeling','tbsinrichting','tbsinrichtingen','tbskliniek','tbsmaatregel','tbspatint','tbsinstelling','tbsgestelden','tbsinstellingen','tbsplaatsen','tbsklinieken','tbspatinten'}

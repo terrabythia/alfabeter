@@ -1,0 +1,1 @@
+return {'ghana','ghanees','ghazel','ghazidsja','ghazi','ghanezen','ghanese','ghazelen'}

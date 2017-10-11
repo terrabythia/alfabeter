@@ -1,0 +1,1 @@
+return {'nuntiatuur','nuntius','nunspeet','nunspeets','nunspeter','nuno','nuninga','nunes','nunnink','nuntiaturen','nuntii','nuntiussen','nunos','nunspeetse'}

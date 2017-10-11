@@ -1,0 +1,1 @@
+return {'wubbo','wubbels','wubben','wubs','wubbe','wubbos'}

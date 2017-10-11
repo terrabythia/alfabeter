@@ -1,0 +1,1 @@
+return {'gabardine','gabbe','gabben','gabber','gabberhouse','gabarit','gabon','gabonees','gaborone','gabril','gaby','gabe','gabi','gabor','gabriel','gabriela','gabriella','gabrielle','gabrille','gabel','gabeler','gabardines','gabs','gabbers','gabrils','gabes','gabis','gabors','gabriels','gabrielas','gabriellas','gabrielles','gabrilles','gabys'}

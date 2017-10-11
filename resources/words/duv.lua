@@ -1,0 +1,1 @@
+return {'duvel','duvelen','duvels','duvelstoejager','duveltje','duvekot','duvelde','duvelse','duvelt','duveltjes','duvelstoejagers'}

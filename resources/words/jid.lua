@@ -1,0 +1,1 @@
+return {'jiddisch','jiddische','jid','jiddisj','jidden','jiddisje'}

@@ -1,0 +1,1 @@
+return {'ruw','ruwaard','ruwaardschap','ruwbladig','ruwbouw','ruwdoek','ruwen','ruweolieprijs','ruwharig','ruwheid','ruwijzer','ruwkruid','ruwte','ruwvoer','ruwweg','ruwstaal','ruwaards','ruwbladige','ruwde','ruwe','ruwer','ruwere','ruwharige','ruwst','ruwste','ruwt','ruwheden'}

@@ -1,0 +1,1 @@
+return {'ave','avegaar','avenant','avenue','averecht','averechts','averij','avers','aversie','aversief','averuit','avekapelle','avelgem','averbode','avereest','averink','averesch','avezaat','avegaars','averechtse','averechtser','averechtst','averijen','avenues','aversies','aversieve','averechte','avemarias','aves','aveetje','avemariaatje','avemariaatjes','avelgemse'}

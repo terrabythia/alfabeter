@@ -1,0 +1,1 @@
+return {'ippon','ippel','ippons'}

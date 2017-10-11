@@ -1,0 +1,1 @@
+return {'nylon','nylonkous','nylonweefsel','nylonkoord','nylongrondstof','nylondraad','nylonkousen','nylons','nylonweefsels','nylonkoorden','nylondraden','nylondraadje'}

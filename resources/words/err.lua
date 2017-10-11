@@ -1,0 +1,1 @@
+return {'errata','erratalijst','erratisch','erratum','errol','erren','erratische','errols'}

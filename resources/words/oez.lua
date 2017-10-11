@@ -1,0 +1,1 @@
+return {'oezbeek','oezbeeks','oezbeekse','oezbekistan'}

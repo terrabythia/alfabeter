@@ -1,0 +1,1 @@
+return {'wig','wigge','wiggen','wiggenbeen','wigvormig','wigwam','wiggert','wigger','wigman','wigbers','wigboldus','wigchert','wiggenbeenderen','wiggenbenen','wiggetje','wiggetjes','wigje','wigjes','wigvormige','wigwams','wiggerts'}

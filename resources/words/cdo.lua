@@ -1,0 +1,1 @@
+return {'cdopname','cdopnames','cdopnamen'}

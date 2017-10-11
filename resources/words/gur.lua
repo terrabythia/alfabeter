@@ -1,0 +1,1 @@
+return {'gurkha','gure','gurkhas'}

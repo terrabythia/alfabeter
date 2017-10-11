@@ -1,0 +1,1 @@
+return {'orografie','orografisch','orontes','orografische'}

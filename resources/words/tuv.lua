@@ -1,0 +1,1 @@
+return {'tuvalu','tuvaluaan','tuvaluaans','tuvaluaanse'}

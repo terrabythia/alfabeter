@@ -1,0 +1,1 @@
+return {'egproducent','egproducenten'}

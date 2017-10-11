@@ -1,0 +1,1 @@
+return {'australisch','australische','australi','australir','auscultatie','ausculteren','ausdauer','auspicium','auspicin','ausputzer','aussie','austraal','auslaut','aussieengels','auschwitzleugen','auschwitz','australischealpen','austin','aussems','ausma','ausems','ausema','austen','australirs','ausculteer','ausculteert','aussies','australe','ausculteerde','ausputzers','austins'}

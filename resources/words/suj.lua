@@ -1,0 +1,1 @@
+return {'sujet','sujetten'}

@@ -1,0 +1,1 @@
+return {'exraadslid','exrebellenleider','exrechercheur','exrenner','exrijkswachter','exroker','exrokers','exrebellen'}

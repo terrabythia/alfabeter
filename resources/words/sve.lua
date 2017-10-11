@@ -1,0 +1,1 @@
+return {'sven','svenja','svetlana','svens','svenjas','svetlanas'}

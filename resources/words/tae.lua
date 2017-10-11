@@ -1,0 +1,1 @@
+return {'taekwondo','taekwondoka','taekema','taede','taeke','taedes','taekes'}

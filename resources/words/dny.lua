@@ -1,0 +1,1 @@
+return {'dnya','dnyas'}

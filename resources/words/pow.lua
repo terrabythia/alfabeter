@@ -1,0 +1,1 @@
+return {'power','powerhouse','powerliften','powerlifter','powerlifting','powerplay','powerpop','powertennis','powisi','poweranalyse','powerbox','powerknop','powernap','powervrouw','powell','powerlifters'}

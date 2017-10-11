@@ -1,0 +1,1 @@
+return {'tjoepen','tjok','tjokken','tjokvol','tjonge','tjotter','tjon','tjoelker','tjoonk','tjoemp','tjoept','tjoepte','tjokt','tjokte','tjokvolle','tjotters'}

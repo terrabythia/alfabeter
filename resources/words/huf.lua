@@ -1,0 +1,1 @@
+return {'hufter','hufterigheid','hufterig','huft','huffmeijer','hufters'}

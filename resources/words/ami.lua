@@ -1,0 +1,1 @@
+return {'amicaal','amice','amict','amigo','aminen','aminozuur','aminozuurvolgorde','amine','amin','amie','amina','amine','amir','amira','amit','amiri','amini','amier','amicale','amicaler','amices','amicten','aminozuren','amicaalst','amigos','amies','amins','aminas','amines','amirs','amiras','amits'}

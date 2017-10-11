@@ -1,0 +1,1 @@
+return {'ecclesia','ecclesiastisch','ecclesiastische'}

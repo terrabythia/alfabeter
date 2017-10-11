@@ -1,0 +1,1 @@
+return {'djogo','djorken','djoeke','djogos','djorkte','djoekes'}

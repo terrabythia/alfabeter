@@ -1,0 +1,1 @@
+return {'atelier','atelierbezoek','ateliermeisje','atelierruimte','atelierwoning','aterling','atelierhouder','atelierroute','atechnisch','atenaar','ate','atema','aten','ateliermeisjes','atelierruimten','atelierruimtes','ateliers','aten','aterlingen','atelierwoningen','ateliertje','atelierhouders','ates','atelierbezoeken'}

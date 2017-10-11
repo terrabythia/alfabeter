@@ -1,0 +1,1 @@
+return {'usance','usantie','usantin','usances','usanties'}

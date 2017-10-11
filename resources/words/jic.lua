@@ -1,0 +1,1 @@
+return {'jicht','jichtaanval','jichtig','jichtknobbel','jichtlijder','jichtpijn','jichtaanvallen','jichtige','jichtknobbels','jichtlijders','jichtpijnen'}

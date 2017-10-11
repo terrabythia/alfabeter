@@ -1,0 +1,1 @@
+return {'ectoderm','ectoplasma','ectoplastisch','ectoplastische'}

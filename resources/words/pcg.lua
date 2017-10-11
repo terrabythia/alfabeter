@@ -1,0 +1,1 @@
+return {'pcgebruik','pcgebruiker','pcgebruikers'}

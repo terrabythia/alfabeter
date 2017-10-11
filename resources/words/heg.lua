@@ -1,0 +1,1 @@
+return {'heg','hegnochsteg','hegeliaans','hegemoniaal','hegemonie','hegge','heggen','heggenmus','heggenrank','heggenschaar','hegschaar','hegger','hegeman','hegen','heger','heggenscharen','heggetje','heggetjes','hegje','hegjes','hegscharen','hegemoniale','heggenmussen','heggenranken','hegeliaanse'}

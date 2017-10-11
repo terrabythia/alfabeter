@@ -1,0 +1,1 @@
+return {'lexicaal','lexicograaf','lexicografie','lexicografisch','lexicologie','lexicologisch','lexicoloog','lexicon','lex','lexica','lexicale','lexicografen','lexicografische','lexicologen','lexicologische','lexicons','lex'}

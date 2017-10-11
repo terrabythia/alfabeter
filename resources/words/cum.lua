@@ -1,0 +1,1 @@
+return {'cumlaude','cumsuis','cumarine','cumul','cumulatie','cumulatief','cumuleren','cumulus','cummerband','cumuleerbaar','cumulaties','cumulatieve','cumulatiever','cumuleer','cumuleerde','cumuleerden','cumuleert','cumulerende','cumuls','cumuli','cummerbands'}

@@ -1,0 +1,1 @@
+return {'ulo','uloschool','uloscholen'}

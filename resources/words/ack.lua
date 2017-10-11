@@ -1,0 +1,1 @@
+return {'ackermann','ackerman','ackema'}

@@ -1,0 +1,1 @@
+return {'juut','juul','juultje','juurlink','juuls','juultjes'}

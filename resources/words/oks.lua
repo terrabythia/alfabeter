@@ -1,0 +1,1 @@
+return {'oksaal','oksel','okselfris','okselholte','okselstandig','okselstuk','okseltruitje','okshoofd','okselstick','okselhaar','okselzweet','oksana','okselholten','okselholtes','oksels','okselstukken','okseltje','okseltjes','okshoofden','oksalen','okselfrisse','okselstandige','oksaaltje','okselsticks','oksanas','okselharen','okselhaartjes'}

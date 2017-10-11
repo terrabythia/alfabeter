@@ -1,0 +1,1 @@
+return {'zopas','zopen','zoplankton','zopleiding','zopfi','zopleidingen'}

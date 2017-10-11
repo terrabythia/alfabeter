@@ -1,0 +1,1 @@
+return {'fagocyt','fagocytose','fagot','fagottist','fagel','fagotten','fagottisten','fagocyten'}

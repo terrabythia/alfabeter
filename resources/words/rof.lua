@@ -1,0 +1,1 @@
+return {'roffel','roffelaar','roffelen','roffelig','roffelschaaf','roffelwerk','roffelzaag','roffelsen','roffelaars','roffelde','roffelden','roffelige','roffels','roffelt','roffeltje','roffeltjes','roffelende','roffelzagen','roffelschaven'}

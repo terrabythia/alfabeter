@@ -1,0 +1,1 @@
+return {'luanda','luandees','luana','luanas'}

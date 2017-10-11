@@ -1,0 +1,1 @@
+return {'whiplash','whirlpool','whiskey','whisky','whiskysoda','whiskyfles','whiskyglas','whist','whisten','whister','whistspel','whistspeler','whitespirit','whizzkid','whiskygrog','whitley','whitney','white','whiplashes','whirlpools','whiskys','whiskyflessen','whiskyglazen','whistavonden','whisters','whistspelers','whizzkids','whiskygrogs','whitleys','whitneys'}

@@ -1,0 +1,1 @@
+return {'koala','koalabeer','koalas','koalaberen'}

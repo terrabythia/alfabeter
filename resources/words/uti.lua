@@ -1,0 +1,1 @@
+return {'utilisatie','utiliseren','utilisme','utilistisch','utilitair','utilitarisme','utilitaristisch','utiliteit','utiliteitsbeginsel','utiliteitsbouw','utiliteitsgebouw','utility','utilitys','utiliteitsbouwer','utilisaties','utiliseerde','utiliseert','utilitaire','utilitaristische','utilitaristischer','utiliteitsgebouwen','utilistische','utiliteiten'}

@@ -1,0 +1,1 @@
+return {'mevr','mevrouw','mevrouwen','mevissen','mevis','mevrouwde','mevrouwt','mevrouwtje','mevrouwtjes'}

@@ -1,0 +1,1 @@
+return {'zoveel','zoveeljarig','zoveelste','zovelen','zover','zoverre','zovele','zoveeljarige'}

@@ -1,0 +1,1 @@
+return {'hodgkin','hodes','hodiamont','hodzelmans','hodge'}

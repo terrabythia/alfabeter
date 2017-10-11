@@ -1,0 +1,1 @@
+return {'egypte','egyptenaar','egyptisch','egyptische','egyptologie','egyptoloog','egyptenaars','egyptologen','egyptenaren'}

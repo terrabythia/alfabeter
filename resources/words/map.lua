@@ -1,0 +1,1 @@
+return {'map','mappenstructuur','mappenlijst','maputo','mapje','mapjes','mappen'}

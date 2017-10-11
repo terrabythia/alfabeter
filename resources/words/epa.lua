@@ -1,0 +1,1 @@
+return {'epacta','epacten','epateren','epaulet','epauletten','epateerde','epauletje'}

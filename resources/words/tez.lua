@@ -1,0 +1,1 @@
+return {'tezamen','tezelfdertijd','tezen'}

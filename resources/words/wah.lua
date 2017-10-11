@@ -1,0 +1,1 @@
+return {'wahabiet','wahabisme','wahabitisch','wahid','wahlen','wahabieten','wahabitische','wahids'}

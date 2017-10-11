@@ -1,0 +1,1 @@
+return {'izegem','izegemmenaar','izegems','izenberge','izeboud','izelaar','izegemse'}

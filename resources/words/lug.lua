@@ -1,0 +1,1 @@
+return {'luguber','lugt','lugtenburg','lugthart','lugtmeijer','lugten','luguberder','lugubere'}

@@ -1,0 +1,1 @@
+return {'ulaan','ulaanbaatar','ulanen'}

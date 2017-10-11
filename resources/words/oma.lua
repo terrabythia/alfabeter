@@ -1,0 +1,1 @@
+return {'oma','omafiets','omarmen','omarming','omaans','oman','omani','omar','omas','omaatje','omaatjes','omarm','omarmd','omarmde','omarmden','omarmingen','omarmt','omarmend','omaanse','omafietsen','omars'}

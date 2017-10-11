@@ -1,0 +1,1 @@
+return {'sumak','summa','summarium','summier','summierlijk','summum','sumo','sumoworstelaar','sumoworstelen','summerschool','sumba','sumbawa','summer','sumter','summae','summaria','summierder','summiere','sumoworstelaars','summas','summers'}

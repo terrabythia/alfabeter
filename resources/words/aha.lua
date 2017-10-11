@@ -1,0 +1,1 @@
+return {'aha','ahaerlebnis','ahaeffect','ahaervaring','ahaerlebnissen','ahaervaringen'}

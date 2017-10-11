@@ -1,0 +1,1 @@
+return {'askar','askegel','askleur','askleurig','askruik','askruisje','askussen','askamp','askes','askleurige','askruisjes','askarren','askegels','askussens'}

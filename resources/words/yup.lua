@@ -1,0 +1,1 @@
+return {'yup','yuppen','yuppenstel','yuppie','yuppieachtig','yuppies','yuppieachtige'}

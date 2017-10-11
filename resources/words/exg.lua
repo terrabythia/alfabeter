@@ -1,0 +1,1 @@
+return {'exgedetineerde','exgeliefde','exgeneraal','exgevangene','exgijzelaar','exgouverneur','exgedetineerden','exgijzelaars'}

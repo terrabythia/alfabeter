@@ -1,0 +1,1 @@
+return {'aow','aower','aowpremie','aowuitkering','aowers','aowpremies','aowuitkeringen'}

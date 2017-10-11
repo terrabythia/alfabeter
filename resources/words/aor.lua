@@ -1,0 +1,1 @@
+return {'aoristus','aorta','aortaklep','aortas','aoristi'}

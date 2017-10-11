@@ -1,0 +1,1 @@
+return {'tig','tigris','tigchelaar','tigelaar','tiggelman','tiggelaar','tiggeloven','tiggeler'}

@@ -1,0 +1,1 @@
+return {'zutendaal','zutphen','zutphenaar','zutphens','zutt','zut','zutphense'}

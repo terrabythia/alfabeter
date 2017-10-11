@@ -1,0 +1,1 @@
+return {'juweel','juweelkever','juwelen','juwelenkistje','juwelenroof','juwelier','juweliersbranche','juweliersloep','juweliersvak','juwelierswinkel','juwelierszaak','juwelig','juweliersketen','juweliershuis','juweelkevers','juweeltje','juweeltjes','juwelendoosje','juwelendoosjes','juwelenkistjes','juweliers','juwelierswinkels','juwelierszaken','juwelige'}

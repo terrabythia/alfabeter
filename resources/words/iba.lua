@@ -1,0 +1,1 @@
+return {'ibankieren','iban','iban','ibankierde','ibans'}

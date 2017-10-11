@@ -1,0 +1,1 @@
+return {'hub','hubertusbrood','hubertusdag','hubbleconstante','hubert','hubertina','hubertus','hubrecht','hubregtse','huber','hubbers','hubeek','hubens','hubertusbroden','hubs','huberts','hubertinas','hubertus','hubrechts'}

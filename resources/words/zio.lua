@@ -1,0 +1,1 @@
+return {'zion','zionisme','zionist','zionistisch','zionisten','zionistische','zionistischer','zions'}

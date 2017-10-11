@@ -1,0 +1,1 @@
+return {'cyaan','cyaankali','cyanide','cyanose'}

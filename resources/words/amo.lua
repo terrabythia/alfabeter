@@ -1,0 +1,1 @@
+return {'amoebe','amok','amokmaker','amoreel','amorf','amortisatie','amortisatiefonds','amortiseren','amourette','amoureus','amoebeabces','amoebedysenterie','amoxicilline','amortisatiekas','amoer','amor','amon','amos','amoeben','amokmakers','amorele','amoreler','amorfe','amortisaties','amortiseerde','amortiseert','amourettes','amoureuze','amoebes','amoebeabcessen','amons','amos'}

@@ -1,0 +1,1 @@
+return {'ertsgebergte','ertegen','ertegenaan','ertegenin','ertegenop','ertegenover','ertoe','erts','ertsader','ertsbergen','ertsen','ertsgroeve','ertslaag','ertsmijn','ertstanker','ertussen','ertussendoor','ertussenin','ertussenuit','ertsoverslagbedrijf','ertvelde','ertsaders','ertsgroeven','ertslagen','ertsmolens','ertstankers'}

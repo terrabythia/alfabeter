@@ -1,0 +1,1 @@
+return {'duel','duelleren','duellist','duet','duetvorm','duediligence','duediligenceonderzoek','duetfragment','duelkracht','duenk','duerink','duelleer','duelleerde','duelleerden','duelleert','duellen','duellisten','duels','duetten','duediligenceonderzoeken','duetfragmenten'}

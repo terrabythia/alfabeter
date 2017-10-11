@@ -1,0 +1,1 @@
+return {'bivak','bivakkeren','bivakmuts','bivakplaats','bivakzak','bivakkeer','bivakkeerde','bivakkeerden','bivakkeert','bivakken','bivakmutsen','bivakkerende','bivakplaatsen'}

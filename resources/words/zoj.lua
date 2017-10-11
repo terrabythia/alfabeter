@@ -1,0 +1,1 @@
+return {'zojuist','zoja','zojas'}

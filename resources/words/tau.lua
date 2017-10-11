@@ -1,0 +1,1 @@
+return {'taug','taupe','taupekleurig','taurine','tautologie','tautologisch','taurusgebergte','taurus','tauw','tausch','taupekleurige','tautologien','tautologische'}

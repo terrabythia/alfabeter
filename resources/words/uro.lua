@@ -1,0 +1,1 @@
+return {'urologie','urologisch','uroloog','uroscopie','urologen','urologische'}

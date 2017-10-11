@@ -1,0 +1,1 @@
+return {'mycelium','mycologie','mycologisch','mycoloog','mycoplasma','mycene','mycologen','mycologische'}

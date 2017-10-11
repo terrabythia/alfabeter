@@ -1,0 +1,1 @@
+return {'juk','jukbeen','jukboog','jukebox','jukken','jukema','jukbeenderen','jukbenen','jukbogen','jukdragende','jukt','jukte','jukeboxen'}

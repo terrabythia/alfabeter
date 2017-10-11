@@ -1,0 +1,1 @@
+return {'aldente','aldaar','aldehyde','aldoor','aldoordringend','aldra','aldus','aldert','aldo','alders','aldenhoven','aldenzee','alderden','aldewereld','aldenkamp','aldoordringende','alderts','aldos'}

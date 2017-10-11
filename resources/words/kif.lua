@@ -1,0 +1,1 @@
+return {'kif','kift','kiften','kiffen','kiftte'}

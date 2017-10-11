@@ -1,0 +1,1 @@
+return {'dtp','dtpprik','dtpprikken'}

@@ -1,0 +1,1 @@
+return {'muf','muffen','muffig','muffigheid','muffin','mufheid','mufte','muffe','muffer','muffige','muffiger','muffins','mufst','muft','muften'}

@@ -1,0 +1,1 @@
+return {'azteek','azteken','azteeks','azteekse'}

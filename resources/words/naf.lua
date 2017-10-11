@@ -1,0 +1,1 @@
+return {'nafeest','naffer','nafluiten','nafta','naftaleen','naftaline','naft','naftali','nafloot','nafloten','nafluit','naffers','naftalis'}

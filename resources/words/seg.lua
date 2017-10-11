@@ -1,0 +1,1 @@
+return {'segment','segmentaal','segmentatie','segmenteren','segmentering','segregatie','segregeren','segrijn','segmentatiebasis','segers','seger','segeren','segaar','seghers','segerink','segmentaties','segmenteer','segmenteerde','segmenteerden','segmenteert','segmenten','segmentje','segregeerde','segregeert','segmentale','segmenteringen','segregaties','segmentjes'}

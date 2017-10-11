@@ -1,0 +1,1 @@
+return {'naogen','naoogst','naoorlogs','naomi','naoual','naoog','naoogde','naoogt','naoorlogse','naomis','naouals'}

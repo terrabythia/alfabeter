@@ -1,0 +1,1 @@
+return {'lopen','lopend','lopendebandwerk','loper','loperig','loperpaar','lopertje','lopenzaad','lopik','loppem','loppersum','lopes','lopez','lopulalan','lopende','loperige','lopers','lopertjes','lopikse','loppemse'}

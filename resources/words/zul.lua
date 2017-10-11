@@ -1,0 +1,1 @@
+return {'zulk','zulke','zulks','zulle','zullen','zult','zulte','zulten','zultspek','zullik','zulte','zulzeke','zul','zullende'}

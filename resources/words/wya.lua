@@ -1,0 +1,1 @@
+return {'wyandotte','wyatt','wyandottes','wyatts'}

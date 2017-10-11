@@ -1,0 +1,1 @@
+return {'ezine','ezinga','ezines'}

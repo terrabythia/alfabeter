@@ -1,0 +1,1 @@
+return {'ostensief','ostensorium','ostentatie','ostentatief','osteologie','osteopathie','osteoporose','ostracisme','ostrogotisch','ostrogoten','osteoma','osteopaat','ostaijen','ostendorf','ost','ostentatieve','ostentatiever','osteopaten','ostrogotische','ostentatiefst','ostensieve','ostentaties','osteomata'}

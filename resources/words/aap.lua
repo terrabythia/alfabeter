@@ -1,0 +1,1 @@
+return {'aap','aapnootmies','aapachtig','aapje','aapjes','aapmens','aapachtige','aapachtiger','aapmensen','aapte','aapten'}

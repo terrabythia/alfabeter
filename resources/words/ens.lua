@@ -1,0 +1,1 @@
+return {'ensceneren','enscenering','ensemble','ensemblecultuur','ensembleklank','ensemblespel','ensemblestuk','ensemblewerk','ensemblemuziek','enschede','enschedees','enscheder','ensink','ensing','enserink','ensceneer','ensceneerde','ensceneerden','ensceneert','ensceneringen','ensembles','enschedese','ensemblestukken'}

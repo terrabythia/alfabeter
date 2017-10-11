@@ -1,0 +1,1 @@
+return {'muhamed','muhammad','muhammed','muhameds','muhammads','muhammeds'}

@@ -1,0 +1,1 @@
+return {'lysine','lysol','lysanne','lysander','lysanders'}

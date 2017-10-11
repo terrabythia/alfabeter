@@ -1,0 +1,1 @@
+return {'juan','juana','juanita','juanito','juans','juanas','juanitas','juanitos'}

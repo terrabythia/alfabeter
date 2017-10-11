@@ -1,0 +1,1 @@
+return {'axel','axel','axelaar','axels','axelle','axels','axelles','axelse'}

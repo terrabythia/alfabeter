@@ -1,0 +1,1 @@
+return {'lecithine','lectine','lector','lectoraat','lectrice','lectuur','lectuurbak','lectuurgids','lectuurlijst','lectuurplank','lechajim','leco','lechner','leclercq','leclaire','lectoraten','lectoren','lectors','lectrices','lectuurbakken','lectuurgidsen','lecithinen','lecos'}

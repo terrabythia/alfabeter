@@ -1,0 +1,1 @@
+return {'fideel','fidecommis','fidibus','fiduciair','fiduciaire','fiducie','fidelcastro','fidder','fidom','fidel','fidele','fideler','fiduciaires','fideelst','fidecommissen'}

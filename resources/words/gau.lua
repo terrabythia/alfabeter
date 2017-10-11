@@ -1,0 +1,1 @@
+return {'gauchisme','gaucho','gaufreren','gaullisme','gaullist','gaullistisch','gausscurve','gauw','gauwdief','gauwdieverij','gauwigheid','gauwte','gauss','gautamaboeddha','gauss','gauke','gauthier','gauchos','gauwdieven','gauwdieverijen','gauwer','gauwst','gauwste','gaufreerde','gaullisten','gaullistische','gauwigheden','gaukes','gauthiers'}

@@ -1,0 +1,1 @@
+return {'kobalt','kobaltblauw','kobaltbom','kobalterts','kobbe','kobold','kobbegem','kobus','kobe','kobussen','kobaltblauwe','kobben','kobolden','kobolds','kobaltbommen','kobaltertsen','kobes','kobus'}

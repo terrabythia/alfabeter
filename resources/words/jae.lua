@@ -1,0 +1,1 @@
+return {'jaeger','jaegerondergoed','jaegers','jaegertje','jaegertjes'}

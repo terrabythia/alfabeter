@@ -1,0 +1,1 @@
+return {'omenom','ome','omega','omelet','omen','omerta','omer','omeg','omeletten','omes','omegas','omers'}

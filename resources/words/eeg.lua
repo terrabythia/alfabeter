@@ -1,0 +1,1 @@
+return {'eeg','eega','eegs','eegas','eegaatje'}

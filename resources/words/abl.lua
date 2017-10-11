@@ -1,0 +1,1 @@
+return {'ablatief','ablaut','ablutie','ablatie','ablatieven','abluties','ablutin'}

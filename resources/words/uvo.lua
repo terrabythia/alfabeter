@@ -1,0 +1,1 @@
+return {'uvormig','uvormige'}

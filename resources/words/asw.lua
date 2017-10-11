@@ -1,0 +1,1 @@
+return {'aswoensdag','aswenteling','aswolk','aswentelingen'}

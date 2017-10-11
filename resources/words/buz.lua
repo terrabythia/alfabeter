@@ -1,0 +1,1 @@
+return {'buzzer','buza','buzzers'}

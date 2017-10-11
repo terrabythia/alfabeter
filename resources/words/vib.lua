@@ -1,0 +1,1 @@
+return {'vibrafonist','vibrafoon','vibratie','vibrato','vibrator','vibreren','vibratoloos','vibraties','vibratoren','vibrators','vibreer','vibreerde','vibreerden','vibreert','vibrerend','vibrerende','vibrafonisten','vibrafoons','vibratoloze'}

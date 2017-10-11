@@ -1,0 +1,1 @@
+return {'vuren','vurenhout','vurenhouten','vurig','vurigheid','vuriglijk','vurste','vural','vurige','vuriger','vurigere','vurigst','vurigste','vurend','vurende','vuriglijke'}

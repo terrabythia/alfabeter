@@ -1,0 +1,1 @@
+return {'fiber','fiberglas','fibreus','fibril','fibrillatie','fibrilleren','fibrine','fibromyalgie','fibroom','fibrose','fibula','fibulae','fibrillen','fibreuze','fibers','fibrilleerde','fibromen','fibulas','fibrillaties'}

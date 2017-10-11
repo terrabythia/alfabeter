@@ -1,0 +1,1 @@
+return {'poinsettia','pointe','pointer','pointeren','pointilleren','pointillisme','pointillistisch','pointill','pointeloos','poiesz','poirters','pointeer','pointeerde','pointeert','pointers','pointes','pointilleert','pointills','pointilleerde','pointillistische','poinsettias','pointeloze'}

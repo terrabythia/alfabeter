@@ -1,0 +1,1 @@
+return {'sos','sostenuto','sosef'}

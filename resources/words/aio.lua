@@ -1,0 +1,1 @@
+return {'aio','aioli','aioplaats','aiostelsel','aios','aioplaatsen'}

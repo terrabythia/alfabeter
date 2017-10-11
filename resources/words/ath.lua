@@ -1,0 +1,1 @@
+return {'athematisch','atheneum','atherosclerose','athesme','athest','athestisch','atheens','athene','athener','athena','athenea','atheneums','athesten','athematische','athestische','atheners','athenas'}

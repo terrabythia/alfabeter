@@ -1,0 +1,1 @@
+return {'wok','wokkel','wokken','wokke','wokkels','wokt','wokte'}

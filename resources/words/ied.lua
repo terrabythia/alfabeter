@@ -1,0 +1,1 @@
+return {'ieder','iedere','iedereen','iedema','iedereens','ieders','iedern'}

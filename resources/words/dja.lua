@@ -1,0 +1,1 @@
+return {'djah','djak','djakken','djati','djatiboom','djatihout','djamel','djamila','django','djatibomen','djakte','djaks','djatis','djamels','djamilas','djangos'}

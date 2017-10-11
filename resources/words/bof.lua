@@ -1,0 +1,1 @@
+return {'bof','boffen','boffer','bofkont','boffers','boft','bofte','boften','bofkonten'}

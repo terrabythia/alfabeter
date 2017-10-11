@@ -1,0 +1,1 @@
+return {'saya','sayed','sayas','sayeds'}

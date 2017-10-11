@@ -1,0 +1,1 @@
+return {'hateenheid','hatelijk','hatelijkheid','hatemail','haten','hater','hatsjie','hattrick','hatsiekadee','hattem','hattemer','hattems','hati','hatiaan','hatiaans','hatice','hattink','hatzmann','hato','hatelijke','hatelijker','hatelijkheden','hatelijkst','hatelijkste','haters','hattricks','hatemails','hatend','hatende','hatiaanse','hateenheden','hatices','hattemse'}

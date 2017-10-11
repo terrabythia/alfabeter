@@ -1,0 +1,1 @@
+return {'riyal','riyad','riyals','riyads'}

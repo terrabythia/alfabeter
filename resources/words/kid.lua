@@ -1,0 +1,1 @@
+return {'kid','kidde','kidnappen','kidnapper','kidnapping','kidneyboon','kidoesj','kidane','kidden','kidnap','kidnapt','kidnapte','kidneybonen','kids','kidnappers','kidnappings'}

@@ -1,0 +1,1 @@
+return {'oscar','oscaruitreiking','oscillatie','oscillator','oscilleren','oscillograaf','oscillogram','oscilloscoop','oscarnominatie','oscarwilde','oscars','oscillaties','oscillatoren','oscillators','oscilleer','oscilleerde','oscilleerden','oscilleert','oscillogrammen','oscillerende','oscilloscopen','oscillografen'}

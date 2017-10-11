@@ -1,0 +1,1 @@
+return {'pygmee','pygmeenvolk','pygmeen','pygmeenvolken'}

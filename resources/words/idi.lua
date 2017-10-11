@@ -1,0 +1,1 @@
+return {'idiolect','idiomatisch','idioom','idioot','idiosyncrasie','idiosyncratisch','idiotsavant','idioterie','idioticon','idiotie','idiotisme','idiamin','iding','idiomatische','idiomen','idioots','idiootst','idiosyncrasien','idiosyncratische','idiote','idioten','idioter','idiotica','idiotismen','idioticons','idiolecten','idioterien'}

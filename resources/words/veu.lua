@@ -1,0 +1,1 @@
+return {'veulen','veulen','veurenaar','veurens','veurnaar','veurne','veurns','veuger','veugelers','veurink','veul','veugen','veulings','veulens','veulentje','veulentjes'}

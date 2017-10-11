@@ -1,0 +1,1 @@
+return {'pigment','pigmentatie','pigmentvlek','pigskin','pigmentpapier','pigmans','pigge','pigmenten','pigmentvlekken','pigmentvlekjes'}

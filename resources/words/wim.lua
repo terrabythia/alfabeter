@@ -1,0 +1,1 @@
+return {'wimber','wimberg','wimpel','wimper','wim','wimkan','wimkok','wimmertingen','wimmer','wimbergen','wimbers','wimpelde','wimpelden','wimpelen','wimpels','wimpelt','wimpeltje','wimpeltjes','wimpers','wimpertje','wimpertjes','wims'}

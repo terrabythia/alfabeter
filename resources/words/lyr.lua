@@ -1,0 +1,1 @@
+return {'lyricus','lyriek','lyrisch','lyrisme','lyrische','lyrischer','lyrici'}

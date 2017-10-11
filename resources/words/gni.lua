@@ -1,0 +1,1 @@
+return {'gniffelen','gniffel','gniffelde','gniffelden','gniffelt','gniffelend'}

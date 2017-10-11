@@ -1,0 +1,1 @@
+return {'tuut','tuur','tuur','tuurde','tuurden','tuurt','tuurs'}

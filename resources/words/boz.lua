@@ -1,0 +1,1 @@
+return {'boze','boze','bozig','bozkurt','bozuwa','bozer','bozige'}

@@ -1,0 +1,1 @@
+return {'phwaarde','phwaarden','phwaardes'}

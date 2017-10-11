@@ -1,0 +1,1 @@
+return {'cyste','cysteaaltje','cystenier','cystisch','cysten','cystische','cystenieren','cystes','cysteaaltjes'}

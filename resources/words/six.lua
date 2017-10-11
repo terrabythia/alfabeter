@@ -1,0 +1,1 @@
+return {'sixpack','sixtijns','six','sixma','sixpacks','sixtijnse'}

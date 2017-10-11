@@ -1,0 +1,1 @@
+return {'srilanka','srilankaan','srilankaans','srikrisjna','sri','srilankaanse','srilankanen'}

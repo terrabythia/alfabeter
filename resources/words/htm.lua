@@ -1,0 +1,1 @@
+return {'htm','html','html','htm'}

@@ -1,0 +1,1 @@
+return {'kavalje','kavel','kavelen','kavelindeling','kaveling','kavelprijs','kavelruil','kavelsloot','kaviaar','kavelaars','kavaljes','kavelde','kavelden','kavelindelingen','kavelingen','kavels','kavelsloten','kavelt','kaveltje','kaveltjes'}

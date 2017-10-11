@@ -1,0 +1,1 @@
+return {'oen','oenig','oenologie','oenologisch','oenoloog','oene','oenema','oenen','oenige','oenologen','oenologische','oenes'}

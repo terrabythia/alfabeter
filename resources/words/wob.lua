@@ -1,0 +1,1 @@
+return {'wob','wobbe','wobben','wobma','wobbes'}

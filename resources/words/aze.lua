@@ -1,0 +1,1 @@
+return {'azen','azertyklavier','azerbeidzjaan','azerbeidzjaans','azerbeidzjan','azeri','azende','azerbeidzjaanse','azertyklavieren'}

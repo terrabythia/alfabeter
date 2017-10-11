@@ -1,0 +1,1 @@
+return {'kyra','kyran','kyras','kyrans'}

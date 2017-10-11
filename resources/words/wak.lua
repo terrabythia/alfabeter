@@ -1,0 +1,1 @@
+return {'wak','wake','waken','wakend','waker','wakerdijk','wakke','wakker','wakkeren','wakkerheid','wakkerschudden','wakaman','wakeboard','wakken','wakker','wakelkamp','wakende','wakerdijken','wakers','wakken','wakkerde','wakkerden','wakkerder','wakkere','wakkergeschud','wakkerst','wakkert','wakst','wakamans'}

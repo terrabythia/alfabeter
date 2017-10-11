@@ -1,0 +1,1 @@
+return {'sok','sokkel','sokkerig','sokophouder','sokkenwol','sokjes','sokkels','sokkeltje','sokkeltjes','sokken','sokophouders','sokje'}

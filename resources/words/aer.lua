@@ -1,0 +1,1 @@
+return {'aerobic','aerobics','aeroclub','aerodroom','aerodynamica','aerodynamisch','aeronaut','aeronautiek','aeronautisch','aeroob','aerosol','aerostatica','aerobiccen','aeroelasticiteit','aerosolverpakking','aerts','aerdt','aernout','aertssen','aertsen','aerssens','aerobe','aeroclubs','aerodynamische','aerosolen','aerobict','aerobicte','aeronauten','aerosolverpakkingen'}

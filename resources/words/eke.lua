@@ -1,0 +1,1 @@
+return {'eken','eke','ekeraar','ekeren','ekers','ekelmans','eken','ekelschot','eker','ekema','ekes'}

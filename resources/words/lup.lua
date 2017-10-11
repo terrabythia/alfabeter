@@ -1,0 +1,1 @@
+return {'lupine','lupus','lupineveld','lupe','lupker','luppes','lups','luppens','lupinen','lupines','lupinevelden','lupes'}

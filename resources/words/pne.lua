@@ -1,0 +1,1 @@
+return {'pneumatiek','pneumatisch','pneumatologie','pneumonie','pneumothorax','pneumatische','pneumothoraxen'}

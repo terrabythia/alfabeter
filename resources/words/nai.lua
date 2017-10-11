@@ -1,0 +1,1 @@
+return {'naijl','naijlde','naijlden','naijleffect','naijlen','naijling','naijlt','naijver','naijverig','naijveriger','naijverigere','naijverigst','naijverigste','nairobi','nairobisch','nail','naim','naima','naipal','naijverige','naijleffecten','naijlend','naijlende','nails','naims','naimas'}

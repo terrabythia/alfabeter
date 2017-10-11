@@ -1,0 +1,1 @@
+return {'kuper','kuperus','kuppen','kup'}

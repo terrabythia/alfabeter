@@ -1,0 +1,1 @@
+return {'kjeld','kjell','kjelds','kjells'}

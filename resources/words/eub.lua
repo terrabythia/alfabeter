@@ -1,0 +1,1 @@
+return {'eubegroting','eubiotiek','eubeleid','eubijdrage','euboea'}

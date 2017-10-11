@@ -1,0 +1,1 @@
+return {'erbijzeggen','erbarmelijk','erbarmen','erbij','erbijhoren','erbijkrijgen','erbijroepen','erbinnen','erboven','erbovenop','erbuiten','erbovenuit','erbekaaidvanafkomen','erben','erbrink','erbarm','erbarmd','erbarmde','erbarmelijke','erbarmelijker','erbarmelijkere','erbarmelijkst','erbarmelijkste','erbarmt','erbens'}

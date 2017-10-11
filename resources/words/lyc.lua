@@ -1,0 +1,1 @@
+return {'lyceum','lychee','lycopeen','lycra','lycklama','lycea','lyceums','lychees'}

@@ -1,0 +1,1 @@
+return {'yin','yin','ying','yins','yings'}

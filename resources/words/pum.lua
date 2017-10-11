@@ -1,0 +1,1 @@
+return {'pummel','pummelachtig','pummelig','pump','pummelige','pummels','pummeltje','pummeltjes','pumps','pummelachtige'}

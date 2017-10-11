@@ -1,0 +1,1 @@
+return {'hymen','hymne','hymnisch','hymnologie','hymneboek','hymnedichter','hymettos','hymens','hymnen','hymnes','hymnische','hymneboeken','hymnedichters'}

@@ -1,0 +1,1 @@
+return {'eideling','eider','eiderdons','eidereend','eidetisch','eidooier','eidhof','eidereenden','eidelingen','eiders','eidetische','eidooiers'}

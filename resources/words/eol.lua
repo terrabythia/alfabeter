@@ -1,0 +1,1 @@
+return {'eoliet','eolisch','eolusharp','eolischeeilanden','eolieten','eolische','eolusharpen'}

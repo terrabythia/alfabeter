@@ -1,0 +1,1 @@
+return {'emfase','emfatisch','emfyseem','emfatische'}

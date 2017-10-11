@@ -1,0 +1,1 @@
+return {'ijk','ijken','ijker','ijkfunctie','ijking','ijkkantoor','ijkmaat','ijkmeester','ijkmerk','ijkprijs','ijkpunt','ijkwezen','ijklijn','ijkers','ijkingen','ijkkantoren','ijkmaten','ijkmeesters','ijkt','ijkte','ijkten','ijkmerken','ijkprijzen','ijkpunten'}

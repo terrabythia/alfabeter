@@ -1,0 +1,1 @@
+return {'urn','urne','urnenmuur','urnenveld','urntje','urnen','urnenvelden','urntjes'}

@@ -1,0 +1,1 @@
+return {'upgrade','upgraden','upgrading','upgradede','upgrades','upgradet'}

@@ -1,0 +1,1 @@
+return {'atjees','atjeer','atjeh','atjar','atjeers','atje','atjes','atjese'}

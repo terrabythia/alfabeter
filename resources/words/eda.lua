@@ -1,0 +1,1 @@
+return {'edammer','edam','edamvolendam','edammer','edammers','edams','edammers','edammertje','edammertjes','edamse'}

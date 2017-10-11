@@ -1,0 +1,1 @@
+return {'fmfrequentie','fmfrequenties'}

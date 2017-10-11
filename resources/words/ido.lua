@@ -1,0 +1,1 @@
+return {'idolaat','idolatrie','idool','ido','idolate','idolen','idos'}

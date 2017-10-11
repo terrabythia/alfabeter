@@ -1,0 +1,1 @@
+return {'fjord','fjordenkust','fjordenpaard','fjodor','fjorden','fjordenkusten','fjordenpaarden','fjodors'}

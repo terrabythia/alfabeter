@@ -1,0 +1,1 @@
+return {'inquisiteur','inquisitie','inquisitoir','inquisitoriaal','inquisiteurs','inquisitoriale'}

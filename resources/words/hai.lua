@@ -1,0 +1,1 @@
+return {'haiku','hairspray','hairstylist','haiderabad','haifa','haije','haitink','haico','haider','haisma','haitsma','haitjema','haile','haikus','hairsprays','hairstylisten','haicos','haiders','haijes'}

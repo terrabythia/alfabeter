@@ -1,0 +1,1 @@
+return {'cis','ciseleerder','ciseleren','ciseleur','cisplatina','cisplatine','cistercinzer','cisterne','cisgenese','ciska','cisco','cis','ciske','cisse','cissy','ciseleer','ciseleerden','ciseleert','cissen','cistercinzers','ciseleerde','ciseleerders','ciseleurs','cisternen','cis','ciskas','ciskes','cisses','cissys'}

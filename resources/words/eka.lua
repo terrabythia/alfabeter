@@ -1,0 +1,1 @@
+return {'ekaart','ekamper','ekaarten'}

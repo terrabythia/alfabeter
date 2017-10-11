@@ -1,0 +1,1 @@
+return {'smuiger','smuk','smukken','smul','smulgraag','smullen','smuller','smullerij','smulpaap','smulpapen','smulpartij','smurf','smurrie','smulweb','smulders','smuigers','smukt','smukte','smukten','smulde','smulden','smulgrage','smullerijen','smullers','smulletje','smulletjes','smulpartijen','smult','smuigertje','smulpaapte','smurfen'}

@@ -1,0 +1,1 @@
+return {'gat','gate','gaten','gatenkaas','gatenplant','gateway','gatlikker','gatlikkerij','gatsometer','gatlikken','gatan','gatsonides','gatlikkers','gatten','gatenplanten','gates','gatlikkerijen','gatenkazen','gatlikte','gatsometers','gatans'}

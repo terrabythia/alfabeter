@@ -1,0 +1,1 @@
+return {'kuub','kuur','kuurgast','kuuroord','kuurbad','kuurhotel','kuurcentrum','kuurpark','kuurnaar','kuurne','kuurns','kuurstra','kuus','kuunders','kuurde','kuurden','kuurgasten','kuurt','kuurtje','kuurtjes','kuuroorden','kuurhotels','kuurcentra'}

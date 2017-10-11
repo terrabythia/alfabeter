@@ -1,0 +1,1 @@
+return {'etmaal','etmaalgemiddelde','etmaaltemperatuur','etman','etmaaltje','etmalen','etmaalgemiddelden','etmaaltemperaturen'}

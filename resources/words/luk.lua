@@ -1,0 +1,1 @@
+return {'lukken','lukraak','luk','luka','lukas','lukasz','luke','lukassen','lukkien','luken','lukkes','lukken','lukasse','luk','lukrake','lukt','lukte','lukten','luks','lukas','lukas','lukasz','lukes'}

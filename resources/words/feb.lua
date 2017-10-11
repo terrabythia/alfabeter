@@ -1,0 +1,1 @@
+return {'februaristaking','februari','februarimaand','februarinummer','febe','februaristakingen','febes'}

@@ -1,0 +1,1 @@
+return {'ikzucht','ikzuchtig','ikzelf','ikzuchtige','ikzuchtiger','ikzuchtigere','ikzuchtigst','ikzuchtigste'}

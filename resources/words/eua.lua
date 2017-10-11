@@ -1,0 +1,1 @@
+return {'euambassadeur','euambtenaar','euambassadeurs','euambtenaren'}

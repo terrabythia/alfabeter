@@ -1,0 +1,1 @@
+return {'govert','govaert','govers','goverde','govaarts','goverts'}

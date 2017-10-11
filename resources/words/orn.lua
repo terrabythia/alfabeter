@@ -1,0 +1,1 @@
+return {'ornaat','ornament','ornamenteel','ornamenteren','ornamentiek','ornement','ornithologie','ornithologisch','ornitholoog','orni','ornamentele','ornamenten','ornementen','ornithologen','ornithologische','ornamenteerde','ornis'}

@@ -1,0 +1,1 @@
+return {'atrium','atrofie','atrofiren','atropine','atriumfibrilleren','atria','atriums','atrofieerde'}

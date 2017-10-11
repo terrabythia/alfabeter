@@ -1,0 +1,1 @@
+return {'emoe','emolumenten','emoticon','emotie','emotietv','emotiecultuur','emotieloos','emotionaliteit','emotioneel','emotioneren','emotievol','emons','emonts','emonds','emoes','emoties','emotievolle','emotioneelst','emotioneelste','emotionele','emotioneler','emoticons','emotieloze','emotioneels','emotioneerde'}

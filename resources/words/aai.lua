@@ -1,0 +1,1 @@
+return {'aai','aaibaar','aaibaarheid','aaibaarheidsfactor','aaien','aaiing','aaibaarheidsgehalte','aaigem','aaij','aaide','aaiden','aait','aaitje','aaitjes','aaibare'}

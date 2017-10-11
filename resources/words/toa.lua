@@ -1,0 +1,1 @@
+return {'toast','toasten','toaster','toastje','toastjes','toastte','toastten','toasters'}

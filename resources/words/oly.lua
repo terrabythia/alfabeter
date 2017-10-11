@@ -1,0 +1,1 @@
+return {'olympisch','olympus','olympiade','olympiajol','olympisch','olympir','olympiaden','olympiades','olympische','olympische','olympirs','olympiajollen'}

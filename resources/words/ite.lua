@@ -1,0 +1,1 @@
+return {'iter','iters','item','iteratie','iteratief','iteratiemethode','iteratieproces','iteratiestap','iteratiestappen','itereren','itegem','ite','itempje','itempjes','items','iteraties','iteratieslagen','iteratieve','iteratieven','ites','itegemse'}

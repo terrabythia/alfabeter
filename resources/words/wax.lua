@@ -1,0 +1,1 @@
+return {'waxcoat','waxinelichtje','waxine','waxinelichtjes','waxcoats'}

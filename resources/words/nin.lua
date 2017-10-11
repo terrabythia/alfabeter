@@ -1,0 +1,1 @@
+return {'nina','ninoofs','ninove','ninovenaar','ninovieter','ninja','nine','nini','ninja','ninke','nino','ninaber','ninjas','ninas','nines','ninis','ninjas','ninkes','ninos'}

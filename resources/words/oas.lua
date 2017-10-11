@@ -1,0 +1,1 @@
+return {'oase','oasis','oasestad','oasen','oases','oasetje','oasetjes'}

@@ -1,0 +1,1 @@
+return {'puck','puck','pucks','pucks'}

@@ -1,0 +1,1 @@
+return {'obduceren','obductie','obdam','obdeijn','obducties'}

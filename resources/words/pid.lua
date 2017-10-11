@@ -1,0 +1,1 @@
+return {'pidgin','pidestal','pidestallen','pidestals','pidestalletje','pidgins'}

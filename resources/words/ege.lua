@@ -1,0 +1,1 @@
+return {'egel','egelantier','egelgras','egelskop','egelstelling','egelvis','egem','eger','egeschezee','egelmeers','egelantieren','egelantiers','egelantierstruiken','egels','egelskoppen','egelstellingen','egeltje','egeltjes','egelvissen','egesche'}

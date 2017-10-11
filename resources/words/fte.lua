@@ -1,0 +1,1 @@
+return {'fteren','fte','ftes','fteer','fteerde','fteerden','fteert'}

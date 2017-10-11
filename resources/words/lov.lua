@@ -1,0 +1,1 @@
+return {'lovegame','lovehandles','loven','lovenswaardig','lover','loverboy','loverdak','loverwerk','lovendegem','lovenjoel','lovink','lovely','loves','loven','lovers','lovertje','lovertjes','lovend','lovende','lovenswaardige','loverboys','lovegames','lovelys','lovendegemse'}

@@ -1,0 +1,1 @@
+return {'node','nodeloos','noden','nodig','nodigen','nodiger','nodeloze','nodelozer','nodigde','nodigden','nodige','nodigst','nodigt','nodigers','nodeloost'}

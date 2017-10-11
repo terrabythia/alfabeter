@@ -1,0 +1,1 @@
+return {'elk','elkaar','elkaars','elkander','elke','elkeen','elke','elkerbout','elkhuizen','elkink','elkanders','elkes'}

@@ -1,0 +1,1 @@
+return {'rimboe','rimpel','rimpelen','rimpelig','rimpeling','rimpelloos','rimram','rimpelbehandeling','rimpelroos','rimpelvorming','rim','rimboes','rimpelde','rimpelden','rimpelende','rimpelige','rimpeliger','rimpelingen','rimpelloze','rimpels','rimpelt','rimpeltje','rimpeltjes','rims'}

@@ -1,0 +1,1 @@
+return {'ajuin','ajuinachtig','ajuinbol','ajuinzaad','ajuus','ajuinen','ajuintje','ajuintjes','ajuinachtige','ajuinbollen'}

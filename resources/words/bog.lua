@@ -1,0 +1,1 @@
+return {'bog','bogaard','bogen','bogengang','bogey','bogie','bogaarden','bogaert','bogaerts','bogota','bogotaan','bogotaans','bogdan','bogert','bogers','bogerd','bogaart','bogaard','bogaers','bogerman','bogman','bogaars','bogie','bogema','bogaarden','bogengangen','bogeys','bogotaanse','bogdans'}

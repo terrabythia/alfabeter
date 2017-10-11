@@ -1,0 +1,1 @@
+return {'zog','zogeheten','zogen','zogenaamd','zogenoemd','zogezegd','zogwater','zogeografie','zogamie','zogenaamde','zogenoemde','zogende'}

@@ -1,0 +1,1 @@
+return {'pfeiffer','pfeiffer','pfennings','pfeifer','pfeijffer'}

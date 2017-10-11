@@ -1,0 +1,1 @@
+return {'zuren','zurig','zurigheid','zuring','zuringzout','zuringzuur','zurkel','zur','zure','zurige','zuriger'}

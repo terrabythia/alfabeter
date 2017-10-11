@@ -1,0 +1,1 @@
+return {'issue','issa','issam','isse','issues','issas','issams'}

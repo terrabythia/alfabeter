@@ -1,0 +1,1 @@
+return {'pvdaer','pvdalid','pvdafractie','pvdaleider','pvdafractievoorzitter','pvdakamerlid','pvdawethouder','pvdaraadslid','pvda','pvdd','pvdder','pvddlid','pvdv','pvdver','pvdvlid','pvdaers','pvdaleden','pvdders','pvddleden','pvdvers','pvdvleden'}

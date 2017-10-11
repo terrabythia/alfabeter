@@ -1,0 +1,1 @@
+return {'gin','gintonic','ginder','ginds','ging','gingivitis','ginkgo','ginkgobiloba','ginnegappen','ginseng','ginst','ginter','ginderachter','gingelom','gina','ginette','ginger','gini','ginny','gino','ginjaar','gindse','gingen','ginkgos','ginnegap','ginnegappend','ginnegappende','ginnegapt','ginnegapte','ginnegapten','ginas','ginettes','gingers','ginis','ginnys','ginos'}

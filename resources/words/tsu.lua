@@ -1,0 +1,1 @@
+return {'tsunami','tsuba','tsunamis','tsubas'}

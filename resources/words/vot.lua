@@ -1,0 +1,1 @@
+return {'vota','voteren','votief','votiefkerk','votiefmis','votiefsteen','votum','voteerde','voteerden','voteert','votiefmissen','votiefstenen','votieve','votums','votiefkerken'}

@@ -1,0 +1,1 @@
+return {'aseksueel','aselect','asem','asemen','asemmer','asepsis','aseptisch','asen','aselectie','aseksuele','aselecte','asemmers','aseptische','asemde'}

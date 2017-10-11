@@ -1,0 +1,1 @@
+return {'nuk','nukkig','nukkigheid','nukerke','nukualofa','nukken','nukkige','nukkiger','nukkigste'}

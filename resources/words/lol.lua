@@ -1,0 +1,1 @@
+return {'lol','lolbroek','lolbroekerij','lolita','lollen','lollepot','lolletje','lollig','lolly','lola','lolita','lolkema','lolde','lolden','lollepotten','lolletjes','lollige','lolliger','lolligere','lolligst','lolligste','lollys','lolt','lolbroeken','lolligs','lolitas','lollytje','lolas','lolitas'}

@@ -1,0 +1,1 @@
+return {'waoer','waouitkering','waogat','wao','waopremie','waoers','waouitkeringen'}

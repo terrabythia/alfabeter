@@ -1,0 +1,1 @@
+return {'big','bigbang','bigamie','bigamisch','bigamist','bigband','bigbangtheorie','biggel','biggelen','biggen','biggenkruid','bigot','bigotterie','bigbandleider','bigbandmuziek','bigamische','bigamisten','bigde','bigden','biggelde','biggelden','biggelt','biggetje','biggetjes','bigotte','bigotter','bigt','bigbands','bigotst','bigbandleiders'}

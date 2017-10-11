@@ -1,0 +1,1 @@
+return {'gnoe','gnomisch','gnomon','gnoom','gnosis','gnostici','gnosticisme','gnosticus','gnostiek','gnostieken','gnostisch','gnome','gnodde','gnoes','gnomen','gnomische','gnomons','gnostische'}

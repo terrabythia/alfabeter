@@ -1,0 +1,1 @@
+return {'nimbostratus','nimbus','nimby','nimf','nimmer','nimmermeer','nimrod','nimh','nimbussen','nimfen','nimrods'}

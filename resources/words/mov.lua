@@ -1,0 +1,1 @@
+return {'move','moven','moveren','moveer','moveerde','moveerden','moveert','moverende','movede','moves','movet'}

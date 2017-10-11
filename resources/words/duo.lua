@@ -1,0 +1,1 @@
+return {'duo','duobaan','duobak','duoblok','duodecimo','duodenum','duopartner','duopassagier','duopolie','duopresentatie','duorijder','duozitting','duovoorzitterschap','duoticket','duosprong','duozit','duong','duos','duootje','duootjes','duopassagiers','duobanen','duoblokken','duozittingen','duodecimootje','duodecimos','duotickets','duobakken'}
