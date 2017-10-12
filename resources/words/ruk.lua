@@ -1,1 +1,1 @@
-return {'ruk','rukken','rukker','rukwind','rukkelingenloon','rukkelingenaandejeker','rukt','rukte','rukten','rukwinden','rukkende','rukkers'}
+return {'ruk','rukken','rukker','rukwind','rukt','rukte','rukten','rukwinden','rukkende','rukkers'}

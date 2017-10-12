@@ -1,1 +1,1 @@
-return {'agnost','agnosticisme','agnosticus','agnostisch','agnes','agneta','agnusdei','agnetha','agnostici','agnostische','agnosten','agnes','agnetas','agnethas'}
+return {'agnost','agnosticisme','agnosticus','agnostisch','agnes','agneta','agnetha','agnostici','agnostische','agnosten','agnes','agnetas','agnethas'}

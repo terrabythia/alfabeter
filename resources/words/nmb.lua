@@ -1,1 +1,1 @@
-return {'nmbs','nmbsstation','nmbsstations'}
+return {'nmbs'}

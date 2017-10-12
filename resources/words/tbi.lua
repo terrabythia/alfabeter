@@ -1,1 +1,1 @@
-return {'tbiljet','tbilisi','tbiljetten'}
+return {'tbilisi'}

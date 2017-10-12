@@ -1,1 +1,1 @@
-return {'orchidee','orchis','orchideen','orchissen'}
+return {'orchidee','orchis','orchideeen','orchissen'}

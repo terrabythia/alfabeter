@@ -1,1 +1,1 @@
-return {'aawvoorziening','aaw'}
+return {'aaw'}

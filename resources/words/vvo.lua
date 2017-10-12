@@ -1,1 +1,0 @@
-return {'vvorm','vvormig','vvormige','vvormen'}

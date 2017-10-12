@@ -1,1 +1,1 @@
-return {'jipenjanneketaal','jippie','jipenjanneke','jip','jippe','jips','jippes'}
+return {'jippie','jip','jippe','jips','jippes'}

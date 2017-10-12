@@ -1,1 +1,1 @@
-return {'oslo','osloconfrontatie','osloos','oslor'}
+return {'oslo','osloconfrontatie','osloos','osloer'}

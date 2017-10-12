@@ -1,1 +1,1 @@
-return {'gotisch','goteling','goth','gothic','gotiek','gotisch','gotspe','gottegot','gotie','gothicnovel','gotem','goten','gotenburg','gotenburger','gotenburgs','gottem','gottmer','gotink','gottenbos','gotische','gotelingen','goten','gotische','goths','gothicnovels'}
+return {'gotisch','goteling','goth','gothic','gotiek','gotisch','gotspe','gottegot','gotterdammerung','gotem','goten','gotenburg','gotenburger','gotenburgs','gottem','gotakanaal','gottmer','gotink','gottenbos','gotische','gotelingen','goten','gotische','goths'}

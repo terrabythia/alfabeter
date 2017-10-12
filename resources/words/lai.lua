@@ -1,1 +1,1 @@
-return {'laisseraller','laisserfaire','laissezpasser','lai','laila','lais','lailas'}
+return {'laiciseren','laicisme','laicisering','lai','laila','lais','laiciseerde','lais','lailas','lais'}

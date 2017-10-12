@@ -1,1 +1,1 @@
-return {'ayersrock','ayesha','ayeshas'}
+return {'ayesha','ayeshas'}

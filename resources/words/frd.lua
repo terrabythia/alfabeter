@@ -1,1 +1,0 @@
-return {'frdric','frdrique','frdrics','frdriques'}

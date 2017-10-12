@@ -1,1 +1,1 @@
-return {'als','alsdewiedeweerga','alsdan','alsem','alsembeker','alsemkruid','alsemwijn','alsjeblief','alsjeblieft','alsmaar','alsmede','alsnog','alsnu','alsof','alsook','alstoen','alstublieft','alsemachtig','alsemberg','alserda','alssema','alsema','alsbrugman','alsemachtige','als'}
+return {'als','alsdan','alsem','alsembeker','alsemkruid','alsemwijn','alsjeblief','alsjeblieft','alsmaar','alsmede','alsnog','alsnu','alsof','alsook','alstoen','alstublieft','alsemachtig','alsemberg','alserda','alssema','alsema','alsemachtige','als'}

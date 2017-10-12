@@ -1,1 +1,1 @@
-return {'eemien','eemnes','eems','eemsjadekanaal','eemsvechtkanaal','eemshaven','eemsmond','eem'}
+return {'eemien','eemnes','eems','eemshaven','eemsmond','eem'}

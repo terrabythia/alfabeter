@@ -1,1 +1,1 @@
-return {'awwpremie','awwuitkering','aww'}
+return {'aww'}

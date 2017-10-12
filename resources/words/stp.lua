@@ -1,1 +1,0 @@
-return {'stphane','stphanie','stphanes','stphanies'}

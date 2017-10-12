@@ -1,1 +1,1 @@
-return {'suez','suezkanaal','sue','suelmann','sueters','sues'}
+return {'suede','suez','suezkanaal','sue','suelmann','sueters','sues'}

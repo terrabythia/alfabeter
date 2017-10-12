@@ -1,1 +1,1 @@
-return {'erudiet','eruditie','eruit','eruitliggen','eruitzien','eruptie','eruptief','erudiete','eruitgehaald','eruitzag','eruitziet','erupties','eruptieve','eruitgezien','eruitzagen'}
+return {'erudiet','eruditie','eruit','eruitzien','eruptie','eruptief','erudiete','eruitgehaald','eruitzag','eruitziet','erupties','eruptieve','eruitgezien','eruitzagen'}

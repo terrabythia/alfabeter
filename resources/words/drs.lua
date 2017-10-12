@@ -1,1 +1,0 @@
-return {'drs','drstitel','drs'}

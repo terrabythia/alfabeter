@@ -1,1 +1,0 @@
-return {'vteken','vtekens'}

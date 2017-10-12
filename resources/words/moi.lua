@@ -1,1 +1,1 @@
-return {'moireren','moir','moira','moison','moinat','moireerde','moiras'}
+return {'moireren','moire','moira','moise','moison','moinat','moireerde','moiras','moises'}

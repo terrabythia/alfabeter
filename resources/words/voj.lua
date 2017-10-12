@@ -1,1 +1,1 @@
-return {'voj','vojschool','vojscholen'}
+return {'voj'}

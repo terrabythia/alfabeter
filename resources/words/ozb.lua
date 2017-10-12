@@ -1,1 +1,1 @@
-return {'ozbaanslag','ozbbelasting','ozbopbrengst','ozbtarief','ozb','ozbtarieven'}
+return {'ozb'}

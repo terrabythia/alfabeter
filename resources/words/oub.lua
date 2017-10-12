@@ -1,1 +1,1 @@
-return {'oubaas','oublie','oublitte','oubollig','oubolligheid','oublieijzer','ouborg','oubazen','oubollige','oubolliger','oubolligste','oublitten','oublieijzers','oublies'}
+return {'oubaas','oublie','oubliette','oubollig','oubolligheid','ouborg','oubazen','oubollige','oubolliger','oubolligste','oublietten','oublies'}

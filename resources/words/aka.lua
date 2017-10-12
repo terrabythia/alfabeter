@@ -1,1 +1,1 @@
-return {'akant','akant','akanten'}
+return {'akant','akanten'}

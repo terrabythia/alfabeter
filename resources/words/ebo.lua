@@ -1,1 +1,1 @@
-return {'eboek','ebook','ebola','ebolavirus','eboniet','ebonieten','ebo','ebony','eboeken','ebooks','ebonys'}
+return {'ebola','ebolavirus','eboniet','ebonieten','ebo','ebony','ebonys'}

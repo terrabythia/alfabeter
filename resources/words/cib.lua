@@ -1,1 +1,1 @@
-return {'ciborie','cibories','ciborin'}
+return {'ciborie','cibories','ciborien'}

@@ -1,1 +1,1 @@
-return {'cao','caoafspraak','caoakkoord','caobeleid','caobepaling','caobespreking','caobod','caoconflict','caoeis','caoloon','caoonderhandelingen','caooverleg','caovoorstel','caoutchouc','caos','caoafspraken','caolonen','caoonderhandelaars','caopartijen','caoschalen','caobepalingen'}
+return {'cao','caoutchouc','caos'}

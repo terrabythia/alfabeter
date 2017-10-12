@@ -1,1 +1,1 @@
-return {'atrium','atrofie','atrofiren','atropine','atriumfibrilleren','atria','atriums','atrofieerde'}
+return {'atrium','atrofie','atrofieren','atropine','atriumfibrilleren','atria','atriums','atrofieerde'}

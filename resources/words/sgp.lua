@@ -1,1 +1,1 @@
-return {'sgp','sgper','sgplid','sgpers','sgpleden'}
+return {'sgp','sgper','sgpers'}

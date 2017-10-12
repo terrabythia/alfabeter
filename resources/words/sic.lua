@@ -1,1 +1,1 @@
-return {'sic','sicav','siccatief','sickbuildingsyndroom','sicksinussyndroom','siciliaan','siciliaans','sicili','sicco','siccama','siccatieven','sicavs','siciliaanse','siccos'}
+return {'sic','sicav','siccatief','sickbuildingsyndroom','sicksinussyndroom','siciliaan','siciliaans','sicilie','sicco','siccama','siccatieven','sicavs','siciliaanse','siccos'}

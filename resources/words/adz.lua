@@ -1,1 +1,1 @@
-return {'adzjari'}
+return {'adzjarie'}

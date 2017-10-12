@@ -1,1 +1,1 @@
-return {'coquille','coqauvin','coquilles'}
+return {'coquille','coquilles'}

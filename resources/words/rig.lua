@@ -1,1 +1,1 @@
-return {'rigide','rigiditeit','rigormortis','rigorisme','rigoureus','rigueur','riga','rigter','rigterink','righarts','rigoureuze','rigoureuzer','rigoureust','rigider','rigiedst'}
+return {'rigide','rigiditeit','rigorisme','rigoureus','rigueur','riga','rigter','rigterink','righarts','rigoureuze','rigoureuzer','rigoureust','rigider','rigiedst'}

@@ -1,1 +1,1 @@
-return {'vvder','vvdfractie','vvdleider','vvdkamerlid','vvdwethouder','vvd','vvdlid','vvdminister','vvders','vvdleden'}
+return {'vvder','vvd','vvders'}

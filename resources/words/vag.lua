@@ -1,1 +1,1 @@
-return {'vagant','vagantenpozie','vagebond','vagebonderen','vagelijk','vagen','vagevuur','vagina','vaginaal','vaginisme','vagevuur','vaganten','vage','vagebondeert','vagebonden','vager','vaginas','vaginale','vagere'}
+return {'vagant','vagantenpoezie','vagebond','vagebonderen','vagelijk','vagen','vagevuur','vagina','vaginaal','vaginisme','vagevuur','vaganten','vage','vagebondeert','vagebonden','vager','vaginas','vaginale','vagere'}

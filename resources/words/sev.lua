@@ -1,1 +1,1 @@
-return {'seventies','sevenum','severine','severs','severens','seven','severein','severijn','sevink','severin','sevriens','sevenich','severijnse','sevim','severijnen','sevenumse'}
+return {'seventies','sevres','sevenum','severine','severs','severens','seven','severein','severijn','sevink','severin','sevriens','sevenich','severijnse','sevim','severijnen','sevenumse'}

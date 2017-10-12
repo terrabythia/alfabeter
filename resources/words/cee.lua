@@ -1,1 +1,1 @@
-return {'ceel','cees','ceesbuddingh','ceelen','ceelie','ceeltje','ceeltjes','cees'}
+return {'ceel','cees','ceelen','ceelie','ceeltje','ceeltjes','cees'}

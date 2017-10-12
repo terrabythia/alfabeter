@@ -1,1 +1,1 @@
-return {'euverdrag','euvel','euveldaad','euvelmoed','euverband','euvoorzitter','euvoorzitterschap','euving','euveldaden','euvele','euvelen','euvels','euveltje','euveltjes','euverdragen'}
+return {'euvel','euveldaad','euvelmoed','euving','euveldaden','euvele','euvelen','euvels','euveltje','euveltjes'}

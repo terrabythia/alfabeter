@@ -1,1 +1,1 @@
-return {'sowieso','sowkerk','sow','sowkerken'}
+return {'sowieso','sow'}

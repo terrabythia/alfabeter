@@ -1,1 +1,1 @@
-return {'egaal','egalisatie','egalisatiefonds','egaliseren','egalisering','egalitair','egalitarisme','egard','egards','ega','egadischeeilanden','egas','egale','egaler','egalisatiefondsen','egalisaties','egaliseer','egaliseerde','egaliseerden','egaliseert','egalitaire','egaalst'}
+return {'egaal','egalisatie','egalisatiefonds','egaliseren','egalisering','egalitair','egalitarisme','egard','egards','ega','egas','egale','egaler','egalisatiefondsen','egalisaties','egaliseer','egaliseerde','egaliseerden','egaliseert','egalitaire','egaalst'}

@@ -1,1 +1,1 @@
-return {'pdfformaat','pdf','pdf'}
+return {'pdf','pdf'}

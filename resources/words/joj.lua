@@ -1,1 +1,1 @@
-return {'jojo','jojoeffect','jojobeleid','jojon','jojoetappe','jojanneke','jojootje','jojootjes','jojos','jojode','jojannekes'}
+return {'jojo','jojobeleid','jojoen','jojanneke','jojootje','jojootjes','jojos','jojode','jojannekes'}

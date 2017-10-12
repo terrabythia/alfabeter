@@ -1,1 +1,1 @@
-return {'rara','rarefactie','rarekiek','rarigheid','rariteit','rariteitenkabinet','rariteitenkamer','rariteitenverzameling','rare','rarigheden','rariteiten','rariteitenkabinetten','rariteitenverzamelingen','rariteitenkamers','raraeaves'}
+return {'rara','rarefactie','rarekiek','rarigheid','rariteit','rariteitenkabinet','rariteitenkamer','rariteitenverzameling','rare','rarigheden','rariteiten','rariteitenkabinetten','rariteitenverzamelingen','rariteitenkamers'}

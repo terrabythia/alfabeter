@@ -1,1 +1,1 @@
-return {'layout','layouten','layla','layton','layouts','layoutte','laylas','laytons'}
+return {'layla','layton','laylas','laytons'}

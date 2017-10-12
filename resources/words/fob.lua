@@ -1,1 +1,1 @@
-return {'fobie','fobisch','fobische','fobien'}
+return {'fobie','fobisch','fobische','fobieen'}

@@ -1,1 +1,1 @@
-return {'ups','upsendowns','upsanddowns'}
+return {'ups'}

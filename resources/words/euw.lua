@@ -1,1 +1,1 @@
-return {'euwetgeving','euwe'}
+return {'euwe'}

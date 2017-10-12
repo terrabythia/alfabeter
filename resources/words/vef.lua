@@ -1,1 +1,0 @@
-return {'veffect','veffecten'}

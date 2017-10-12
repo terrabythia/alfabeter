@@ -1,1 +1,1 @@
-return {'psoriasis','psoriasispatinten'}
+return {'psoriasis','psoriasispatienten'}

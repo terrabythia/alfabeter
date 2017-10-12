@@ -1,1 +1,1 @@
-return {'ciabatta','ciaagent','cia','cian','ciabattas','cians'}
+return {'ciabatta','cia','cian','ciabattas','cians'}

@@ -1,1 +1,1 @@
-return {'suzerein','suzereiniteit','suzannemetdemooieogen','suzan','suzanne','suzuki','suzanna','suze','suzette','suzie','suzy','suzans','suzannas','suzannes','suzes','suzettes','suzies','suzys'}
+return {'suzerein','suzereiniteit','suzan','suzanne','suzuki','suzanna','suze','suzette','suzie','suzy','suzans','suzannas','suzannes','suzes','suzettes','suzies','suzys'}

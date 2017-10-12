@@ -1,1 +1,1 @@
-return {'italiaan','italiaans','italiaanstalig','itali','italiaan','italianisant','italianiseren','italisch','itafdeling','italiaansschiereiland','italo','italiaanse','italianen','italiaanstalige','italianiseerde','italianen','italische','italianisanten','italos'}
+return {'italiaan','italiaans','italiaanstalig','italie','italiaan','italianisant','italianiseren','italisch','italo','italiaanse','italianen','italiaanstalige','italianiseerde','italianen','italische','italianisanten','italos'}

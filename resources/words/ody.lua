@@ -1,1 +1,1 @@
-return {'odyssee','odyssees','odysseen'}
+return {'odyssee','odyssees','odysseeen'}

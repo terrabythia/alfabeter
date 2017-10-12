@@ -1,1 +1,1 @@
-return {'dtp','dtpprik','dtpprikken'}
+return {'dtp'}

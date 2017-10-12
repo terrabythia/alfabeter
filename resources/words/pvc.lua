@@ -1,1 +1,1 @@
-return {'pvc','pvcbuis','pvcbuizen','pvcprijzen'}
+return {'pvc'}

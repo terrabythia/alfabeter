@@ -1,1 +1,1 @@
-return {'urbaan','urbanisatie','urbanisatiegraad','urbaniseren','urbanisme','urbanistisch','urbaniteit','urbietorbi','urbanus','urban','urbane','urbaniseerde','urbanistische'}
+return {'urbaan','urbanisatie','urbanisatiegraad','urbaniseren','urbanisme','urbanistisch','urbaniteit','urbanus','urban','urbane','urbaniseerde','urbanistische'}

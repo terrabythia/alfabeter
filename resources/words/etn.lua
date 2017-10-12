@@ -1,1 +1,1 @@
-return {'etniciteit','etnisch','etnocentrisch','etnocentrisme','etnograaf','etnografica','etnografie','etnografisch','etnologie','etnologisch','etnoloog','etnomusicoloog','etna','etnischculturele','etnischreligieuze','etnische','etnografen','etnografische','etnologen','etnologische','etnocentrische'}
+return {'etniciteit','etnisch','etnocentrisch','etnocentrisme','etnograaf','etnografica','etnografie','etnografisch','etnologie','etnologisch','etnoloog','etnomusicoloog','etna','etnische','etnografen','etnografische','etnologen','etnologische','etnocentrische'}

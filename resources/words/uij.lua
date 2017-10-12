@@ -1,1 +1,1 @@
-return {'uijzer','uijl','uijttewaal','uijen'}
+return {'uijl','uijttewaal','uijen'}

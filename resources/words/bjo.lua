@@ -1,1 +1,1 @@
-return {'bjorn','bjorns'}
+return {'bjorn','bjorn','bjorns','bjorns'}

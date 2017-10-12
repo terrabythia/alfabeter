@@ -1,1 +1,1 @@
-return {'tryout','trypsine','tryptofaan','tryoutvoorstelling','tryouts','tryoutvoorstellingen'}
+return {'trypsine','tryptofaan'}

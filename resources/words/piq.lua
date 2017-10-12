@@ -1,1 +1,1 @@
-return {'piqu'}
+return {'pique'}

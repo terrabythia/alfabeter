@@ -1,1 +1,0 @@
-return {'ovstudentenkaart','ovstudentenjaarkaart','ovstudentenjaarkaarten','ovstudentenkaarten'}

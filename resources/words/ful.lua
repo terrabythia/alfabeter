@@ -1,1 +1,1 @@
-return {'fullcolour','fullhouse','fulltime','fulltimebaan','fulltimer','fulminant','fulmineren','fulp','fulpen','fullcolourdruk','fulco','fulltimebanen','fulmineer','fulmineerde','fulmineerden','fulmineert','fulltimers','fulminante','fullhouses','fulcos'}
+return {'fulltime','fulltimebaan','fulltimer','fulminant','fulmineren','fulp','fulpen','fullcolourdruk','fulco','fulltimebanen','fulmineer','fulmineerde','fulmineerden','fulmineert','fulltimers','fulminante','fulcos'}

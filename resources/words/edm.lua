@@ -1,1 +1,1 @@
-return {'edmond','edmund','edme','edmonds','edmunds','edmes'}
+return {'edmond','edmund','edmee','edmonds','edmunds','edmees'}

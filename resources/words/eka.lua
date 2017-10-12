@@ -1,1 +1,1 @@
-return {'ekaart','ekamper','ekaarten'}
+return {'ekamper'}

@@ -1,1 +1,0 @@
-return {'tvkabel','tvkanaal','tvkijken','tvkijker','tvkok','tvkomiek','tvkritiek','tvkomieken','tvkanalen','tvkijkers'}

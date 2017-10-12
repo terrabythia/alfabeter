@@ -1,1 +1,1 @@
-return {'lewiscarroll','lewis','lewerissa','lewis'}
+return {'lewis','lewerissa','lewis'}

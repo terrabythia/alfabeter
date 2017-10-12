@@ -1,1 +1,1 @@
-return {'seor','seora','seorita','seoel','seoeler','seoels','seoul','seouler','seouls','seoras','seores','seoritas'}
+return {'seoel','seoeler','seoels','seoul','seouler','seouls'}

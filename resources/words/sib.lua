@@ -1,1 +1,1 @@
-return {'siberisch','siberische','siberi','sibbe','sibille','sibillijns','sibbenkunde','siberir','sibel','sibren','sibon','sibma','sibbing','sibbel','sibum','sibbald','sibben','sibillen','sibillijnse','sibels','sibrens'}
+return {'siberisch','siberische','siberie','sibbe','sibille','sibillijns','sibbenkunde','siberier','sibel','sibren','sibon','sibma','sibbing','sibbel','sibum','sibbald','sibben','sibillen','sibillijnse','sibels','sibrens'}

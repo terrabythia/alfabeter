@@ -1,1 +1,1 @@
-return {'elohim','elocutie','eloquent','eloquentie','elobeid','elodie','eloise','elora','eloy','elonore','elout','eloquente','eloquenter','eloquentste','elodies','eloises','eloras','eloys','elonores'}
+return {'elohim','elocutie','eloquent','eloquentie','elodie','eloise','elora','eloy','elout','eloquente','eloquenter','eloquentste','elodies','eloises','eloras','eloys'}

@@ -1,1 +1,1 @@
-return {'ibankieren','iban','iban','ibankierde','ibans'}
+return {'iban','iban','ibans'}

@@ -1,1 +1,1 @@
-return {'usance','usantie','usantin','usances','usanties'}
+return {'usance','usantie','usantien','usances','usanties'}

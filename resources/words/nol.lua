@@ -1,1 +1,1 @@
-return {'nol','nolensvolens','nolle','nollen','nolte','nol','nola','nolan','nolle','nol','nolla','nolle','nolet','nollen','nolten','noldus','nolen','noll','nolting','nollet','nols','nolas','nolans','nolles','nols','nollas','nolles'}
+return {'nol','nolle','nollen','nolte','nol','nola','nolan','nolle','nolet','nollen','nolten','noldus','nolen','noll','nolting','nollet','nols','nolas','nolans','nolles'}

@@ -1,1 +1,0 @@
-return {'csleutel','csleutels'}

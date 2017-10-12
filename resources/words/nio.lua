@@ -1,1 +1,1 @@
-return {'niobe','nioise','niobes'}
+return {'niobe','niobes'}

@@ -1,1 +1,0 @@
-return {'iqtest','iqtesten','iqtests'}

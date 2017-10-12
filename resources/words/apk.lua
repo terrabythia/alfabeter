@@ -1,1 +1,1 @@
-return {'apk','apkkeuring'}
+return {'apk'}

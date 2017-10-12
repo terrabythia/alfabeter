@@ -1,1 +1,1 @@
-return {'ism','isme','ismailia','ismal','ismael','ismail','ismal','ismen','ismes','ismaels','ismails','ismals','ismals'}
+return {'isme','ismailia','ismael','ismael','ismail','ismail','ismen','ismes','ismaels','ismails','ismaels','ismails'}

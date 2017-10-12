@@ -1,1 +1,1 @@
-return {'erytrocyt','erytropotine','erytrocyten'}
+return {'erytrocyt','erytropoetine','erytrocyten'}

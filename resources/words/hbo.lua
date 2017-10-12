@@ -1,1 +1,1 @@
-return {'hbo','hboer','hbodiploma','hboinstelling','hboniveau','hboopleiding','hboraad','hbostudent','hbostudie','hbov','hboverpleegkunde','hbom','hboers','hboinstellingen','hboopleidingen','hbostudenten','hbommen'}
+return {'hbo','hboer','hboers'}

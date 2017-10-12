@@ -1,1 +1,1 @@
-return {'oekraens','oekraense','oekrane','oekaze','oekene','oekraner','oekazen','oekazes','oekraners','oekense'}
+return {'oekraiens','oekraiense','oekraine','oekaze','oekene','oekrainer','oekazen','oekazes','oekrainers','oekense'}

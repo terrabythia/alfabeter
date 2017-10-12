@@ -1,1 +1,1 @@
-return {'oweer','owen','oweers','owens'}
+return {'oweeer','owen','oweeers','owens'}

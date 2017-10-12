@@ -1,1 +1,1 @@
-return {'loipe','loiblpas','loire','lois','loijenga','loijen','loi','loipen','loipes','lois'}
+return {'loipe','loiblpas','loire','lois','loic','lois','loijenga','loijen','loi','loipen','loipes','lois','loics','lois'}

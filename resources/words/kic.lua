@@ -1,1 +1,1 @@
-return {'kick','kickboksen','kickbokser','kicken','kickandrush','kickandrushvoetbal','kickboksgala','kickstart','kickstarter','kick','kicken','kickbokst','kickbokste','kicks','kickboks','kickboksers','kickt','kickte','kicks'}
+return {'kick','kickboksen','kickbokser','kicken','kickboksgala','kickstart','kickstarter','kick','kicken','kickbokst','kickbokste','kicks','kickboks','kickboksers','kickt','kickte','kicks'}

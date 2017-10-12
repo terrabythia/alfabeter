@@ -1,1 +1,1 @@
-return {'aimabel','aimee','aim','aime','aimabele','aimees','aims','aimes'}
+return {'aimabel','aimee','aime','aimee','aimabele','aimees','aimes','aimees'}

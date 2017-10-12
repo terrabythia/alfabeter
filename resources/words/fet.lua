@@ -1,1 +1,1 @@
-return {'feta','fetakaas','fetisj','fetisjisme','fetisjist','fetisjistisch','fetisjkarakter','feteris','fetter','fetisjen','fetisjisten','fetisjistische','fetisje'}
+return {'feta','fetakaas','fetisj','fetisjisme','fetisjist','fetisjistisch','fetisjkarakter','feteren','feteris','fetter','fetisjen','feteer','feteerde','feteerden','feteert','fetisjisten','fetisjistische','fetisje'}

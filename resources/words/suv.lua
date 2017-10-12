@@ -1,1 +1,1 @@
-return {'suv','suvwagen','suva','suvaal','suvs','suvwagens'}
+return {'suv','suva','suvaal','suvs'}

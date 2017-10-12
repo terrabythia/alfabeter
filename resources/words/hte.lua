@@ -1,1 +1,0 @@
-return {'htelier','hteliers'}

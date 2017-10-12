@@ -1,1 +1,0 @@
-return {'cdboekje','cdbon','cdbox','cdbrander','cdboxen','cdbranders'}

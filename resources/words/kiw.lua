@@ -1,1 +1,1 @@
-return {'kiwi','kiwiijs','kiwiyoghurt','kiwis','kiwietje'}
+return {'kiwi','kiwiyoghurt','kiwis','kiwietje'}

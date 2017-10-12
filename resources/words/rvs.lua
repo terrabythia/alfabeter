@@ -1,1 +1,1 @@
-return {'rvs','rvswasbak','rvswasbakken'}
+return {'rvs'}

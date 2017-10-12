@@ -1,1 +1,0 @@
-return {'exdividend','exdanser','exdelinquent','exdictator','exdiplomaat','exdirecteur','exdochter','exdoelman','exdominee','exdwangarbeider','exdelinquenten','exdictators','exdienstplichtigen','exdirecteuren','exdrugsverslaafden','exdwangarbeiders'}

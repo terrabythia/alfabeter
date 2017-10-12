@@ -1,1 +1,1 @@
-return {'erdoor','erdoorheen','erdoorheenkrijgen','erdal','erdogan','erdkamp','erdtsieck','erdem','erdmann','erdals'}
+return {'erdoor','erdoorheen','erdal','erdogan','erdkamp','erdtsieck','erdem','erdmann','erdals'}

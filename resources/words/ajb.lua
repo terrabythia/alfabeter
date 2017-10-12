@@ -1,1 +1,1 @@
-return {'ajb','ajb'}
+return {'ajb'}

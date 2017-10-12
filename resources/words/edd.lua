@@ -1,1 +1,1 @@
-return {'eddie','eddymerckx','eddo','eddy','eddies','eddos','eddys'}
+return {'eddie','eddo','eddy','eddies','eddos','eddys'}

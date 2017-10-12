@@ -1,1 +1,1 @@
-return {'ecard','ecarteren','ecart','ecarteerde','ecarteert','ecards'}
+return {'ecarteren','ecarte','ecarteerde','ecarteert'}

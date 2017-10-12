@@ -1,1 +1,1 @@
-return {'loafer','loafers','loanjoe'}
+return {'loafer','loafers'}

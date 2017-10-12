@@ -1,1 +1,1 @@
-return {'atv','atvdag','atvdagen'}
+return {'atv'}

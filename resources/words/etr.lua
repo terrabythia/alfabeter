@@ -1,1 +1,1 @@
-return {'etrusken','etruskisch','etruskischeapennijnen'}
+return {'etrusken','etruskisch'}

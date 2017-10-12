@@ -1,1 +1,1 @@
-return {'husky','husselen','hussiet','huseyin','hussain','hussein','hustinx','husson','husken','hussaarts','husslage','husmann','husein','huskys','hussel','husselde','husselt','hussieten','huseyins','hussains','husseins'}
+return {'husky','husselen','hussiet','huseyin','hussain','hussein','huseyin','hustinx','husson','husken','hussaarts','husslage','husmann','husein','huskys','hussel','husselde','husselt','hussieten','huseyins','hussains','husseins','huseyins'}

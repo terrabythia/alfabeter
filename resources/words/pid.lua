@@ -1,1 +1,1 @@
-return {'pidgin','pidestal','pidestallen','pidestals','pidestalletje','pidgins'}
+return {'pidgin','pidgins'}

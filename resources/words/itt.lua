@@ -1,1 +1,1 @@
-return {'itt','itter','itterbeek'}
+return {'itter','itterbeek'}

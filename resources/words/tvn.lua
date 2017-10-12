@@ -1,1 +1,0 @@
-return {'tvnet','tvnetwerk','tvnieuws','tvnetten','tvnetwerken'}

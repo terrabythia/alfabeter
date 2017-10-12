@@ -1,1 +1,0 @@
-return {'ikfiguur','ikfiguren'}

@@ -1,1 +1,1 @@
-return {'etymologicon','etymologie','etymologisch','etymologiseren','etymoloog','etymologen','etymologica','etymologien','etymologische','etymologiseert','etymologicons','etymologiseerde'}
+return {'etymologicon','etymologie','etymologisch','etymologiseren','etymoloog','etymologen','etymologica','etymologieen','etymologische','etymologiseert','etymologicons','etymologiseerde'}

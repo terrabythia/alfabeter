@@ -1,1 +1,1 @@
-return {'abceilanden','abcwapens','abc','abcboek','abcboeken','abces','abcesvorming','abchazi','abcoude','abcessen','abctje','abcs'}
+return {'abc','abces','abcesvorming','abchazie','abcoude','abcessen','abctje','abcs'}

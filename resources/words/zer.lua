@@ -1,1 +1,1 @@
-return {'zerk','zerken','zero','zerotolerance','zerotolerancebeleid','zerp','zerpheid','zerkegem','zeroual','zere','zerpe','zeros','zerootje'}
+return {'zerk','zerken','zero','zerotolerancebeleid','zerp','zerpheid','zerkegem','zeroual','zere','zerpe','zeros','zerootje'}

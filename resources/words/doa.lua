@@ -1,1 +1,1 @@
-return {'doa','doan','doas'}
+return {'doan'}

@@ -1,1 +1,1 @@
-return {'waverzekering','wave','waver','waves','waverse'}
+return {'wave','waver','waves','waverse'}

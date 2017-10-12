@@ -1,1 +1,1 @@
-return {'toss','tossen','toste','tosti','tostiijzer','tostiapparaat','tosefta','tossavond','tosca','toscaan','toscaans','toscaansearchipel','toscane','tos','tossings','tos','tost','tosten','tostis','tostiapparaten','toscaanse','tostiijzers','tosses','tos','tos','toscas'}
+return {'toss','tossen','toste','tosti','tostiapparaat','tosefta','tossavond','tosca','toscaan','toscaans','toscane','tos','tossings','tos','tost','tosten','tostis','tostiapparaten','toscaanse','tosses','tos','tos','toscas'}

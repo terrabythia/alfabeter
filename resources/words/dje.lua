@@ -1,1 +1,1 @@
-return {'djellaba','djemb','djeroek','djedda','djellabas','djeroeks','djembs'}
+return {'djellaba','djembe','djeroek','djedda','djellabas','djeroeks','djembes'}

@@ -1,1 +1,1 @@
-return {'maori','maosme','maost','maostisch','maonniek','mao','maozedong','maoris','maonnieke','maosten','maostische'}
+return {'maori','maoisme','maoist','maoistisch','mao','maoris','maoisten','maoistische'}

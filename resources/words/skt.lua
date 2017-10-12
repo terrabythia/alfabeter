@@ -1,1 +1,0 @@
-return {'sktsje','sktsjesilen','sktsjes'}

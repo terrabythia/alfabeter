@@ -1,1 +1,1 @@
-return {'mexicaan','mexicaans','mexicaanse','mexico','mexicostad','mex','mexx','mexicanen','mex','mexx'}
+return {'mexicaan','mexicaans','mexicaanse','mexico','mex','mexx','mexicanen','mex','mexx'}

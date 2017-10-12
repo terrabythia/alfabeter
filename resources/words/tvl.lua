@@ -1,1 +1,1 @@
-return {'tvloos','tvlandschap','tvloze'}
+return {'tvloos','tvloze'}

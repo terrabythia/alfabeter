@@ -1,1 +1,1 @@
-return {'eugenese','eugenetica','eugenetisch','eugrondwet','eugemiddelde','eugene','eugenia','eugenie','eugne','eugelink','eugenetische','eugenes','eugenias','eugenies','eugnes'}
+return {'eugenese','eugenetica','eugenetisch','eugene','eugenia','eugenie','eugene','eugelink','eugenetische','eugenes','eugenias','eugenies','eugenes'}

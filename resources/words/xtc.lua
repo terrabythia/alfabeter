@@ -1,1 +1,1 @@
-return {'xtc','xtcbende','xtcgebruik','xtchandel','xtclaboratoria','xtcpil','xtcproductie','xtcsmokkel','xtczaak','xtctabletten','xtcpillen'}
+return {'xtc'}

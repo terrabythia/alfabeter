@@ -1,1 +1,1 @@
-return {'dzjoengaarsepoort','dzjoengarije'}
+return {'dzjoengarije'}

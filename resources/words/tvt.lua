@@ -1,1 +1,1 @@
-return {'tvtoespraak','tvtoestel','tvtoren','tvtje','tvtoestellen'}
+return {'tvtje'}

@@ -1,1 +1,1 @@
-return {'hirarchie','hirarchiek','hirarchisch','hiratisch','hiroglief','hirogliefen','hiroglifisch','hiroglyfe','hiroglyfisch','hiroglyfenschrift','hirogliefenschrift','hirohito','hiroshima','hirsiali','hironymus','hirsch','hira','hirdes','hirs','hirschfeld','hirsi','hiralal','hirarchieke','hirarchieker','hirarchien','hirarchische','hirarchischer','hiratische','hiroglifische','hiroglyfen','hiroglyfische','hiras'}
+return {'hirohito','hiroshima','hirsch','hira','hirdes','hirs','hirschfeld','hirsi','hiralal','hiras'}

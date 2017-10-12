@@ -1,1 +1,1 @@
-return {'erbijzeggen','erbarmelijk','erbarmen','erbij','erbijhoren','erbijkrijgen','erbijroepen','erbinnen','erboven','erbovenop','erbuiten','erbovenuit','erbekaaidvanafkomen','erben','erbrink','erbarm','erbarmd','erbarmde','erbarmelijke','erbarmelijker','erbarmelijkere','erbarmelijkst','erbarmelijkste','erbarmt','erbens'}
+return {'erbarmelijk','erbarmen','erbij','erbinnen','erboven','erbovenop','erbuiten','erbovenuit','erben','erbrink','erbarm','erbarmd','erbarmde','erbarmelijke','erbarmelijker','erbarmelijkere','erbarmelijkst','erbarmelijkste','erbarmt','erbens'}

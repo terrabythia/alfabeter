@@ -1,1 +1,1 @@
-return {'ajacied','ajaxsupporter','ajakkes','ajampangang','ajasses','ajax','ajacieden','ajaxsupporters'}
+return {'ajacied','ajaxsupporter','ajakkes','ajasses','ajax','ajacieden','ajaxsupporters'}

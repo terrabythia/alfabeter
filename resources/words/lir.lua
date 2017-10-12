@@ -1,1 +1,1 @@
-return {'lira','lire','liren','lires','liras'}
+return {'lira','lire','lires','liras'}

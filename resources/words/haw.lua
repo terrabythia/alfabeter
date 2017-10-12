@@ -1,1 +1,1 @@
-return {'hawahemd','hawaburger','hawkingstraling','hawa','hawinkels','hawaburgers','hawahemden','hawas'}
+return {'hawaihemd','hawaiburger','hawkingstraling','hawa','hawinkels','hawaiburgers','hawaihemden','hawas'}

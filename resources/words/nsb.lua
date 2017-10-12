@@ -1,1 +1,1 @@
-return {'nsber','nsbfamilie','nsb','nsbers','nsbfamilies'}
+return {'nsber','nsb','nsbers'}

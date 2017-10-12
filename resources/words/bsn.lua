@@ -1,1 +1,1 @@
-return {'bsn','bsnstelsel','bsns'}
+return {'bsn','bsns'}

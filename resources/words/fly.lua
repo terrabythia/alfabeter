@@ -1,1 +1,1 @@
-return {'flyover','flyer','flyeren','flydrive','flydrivevakantie','flyingfishcove','flynn','flyers','flyovers','flydrivevakanties','flynns'}
+return {'flyer','flyeren','flynn','flyers','flynns'}

@@ -1,1 +1,1 @@
-return {'wozwaarde','woz','wozbeschikking','wozwaarden'}
+return {'woz'}

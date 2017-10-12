@@ -1,1 +1,0 @@
-return {'eaudecologne','eaudetoilette','eaudecolognefles','eaudetoiletteje','eaudecologneflessen','eauxdecologne','eauxdetoilette'}

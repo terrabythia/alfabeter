@@ -1,1 +1,1 @@
-return {'coifferen','coiffeur','coiffeuse','coiffure','cointreau','coiffeerde','coiffeert','coiffeurs','coiffeuses','coiffures','coiffeuseje','coiffeusetje'}
+return {'coifferen','coiffeur','coiffeuse','coiffure','cointreau','coincident','coincidenten','coincidentie','coincideren','coitaal','coiteren','coitus','coiffeerde','coiffeert','coiffeurs','coiffeuses','coincideert','coincidenties','coincideerde','coiteerde','coiffures','coiffeuseje','coiffeusetje','coitale'}

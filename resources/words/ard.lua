@@ -1,1 +1,1 @@
-return {'ardeens','ardennen','ardennenoffensief','arduin','arduinen','arduinsteen','ardennerham','ardensehesp','ards','ard','arda','ardenner','ardens','ardooie','ardenne','arden','ardon','ardesch','arde','arden','arduinstenen','ardeense','ards','ardas'}
+return {'ardeens','ardennen','ardennenoffensief','arduin','arduinen','arduinsteen','ards','ard','arda','ardenner','ardens','ardooie','ardenne','arden','ardon','ardesch','arde','arden','arduinstenen','ardeense','ards','ardas'}

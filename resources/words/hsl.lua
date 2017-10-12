@@ -1,1 +1,1 @@
-return {'hsl','hsloost'}
+return {'hsl'}

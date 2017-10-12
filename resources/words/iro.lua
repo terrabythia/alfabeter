@@ -1,1 +1,1 @@
-return {'ironicus','ironie','ironisch','ironiseren','ironieteken','ironische','ironischer','ironiseer','ironiseerde','ironiseerden','ironiseert','ironiserende','ironien'}
+return {'ironicus','ironie','ironisch','ironiseren','ironieteken','ironische','ironischer','ironiseer','ironiseerde','ironiseerden','ironiseert','ironiserende','ironieen'}

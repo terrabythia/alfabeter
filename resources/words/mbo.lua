@@ -1,1 +1,1 @@
-return {'mbo','mbodiploma','mboniveau','mboopleiding','mboer','mboinstelling','mboers','mboinstellingen','mboleerlingen','mboscholen','mbostudenten','mboopleidingen'}
+return {'mbo','mboer','mboers'}

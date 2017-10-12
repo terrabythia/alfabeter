@@ -1,1 +1,1 @@
-return {'javaan','javaans','javaaap','javakoffie','javamens','javasuiker','javel','java','javatrog','javazee','javier','javaanse','javanen','javase','javaapen','javamensen','javiers'}
+return {'javaan','javaans','javakoffie','javamens','javasuiker','javel','java','javatrog','javazee','javier','javaanse','javanen','javase','javamensen','javiers'}

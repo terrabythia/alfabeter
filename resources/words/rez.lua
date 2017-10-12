@@ -1,1 +1,1 @@
-return {'rezdechaussee','rezen','reza','rezelman','rezdechaussees','rezas'}
+return {'rezen','reza','rezelman','rezas'}

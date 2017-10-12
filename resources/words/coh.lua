@@ -1,1 +1,1 @@
-return {'cohabitatie','cohabiteren','coherent','coherentie','cohesie','cohesieland','cohort','cohorte','coheffing','cohen','coherente','cohesiefondsen','cohorten','cohabiteerde','cohesielanden'}
+return {'cohabitatie','cohabiteren','coherent','coherentie','cohesie','cohesieland','cohort','cohorte','cohen','coherente','cohesiefondsen','cohorten','cohabiteerde','cohesielanden'}

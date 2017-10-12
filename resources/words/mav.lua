@@ -1,1 +1,1 @@
-return {'mavo','mavoopleiding','mavoadvies','mavodiploma','mavoleerling','mavoniveau','mavoschool','mavo4leerling','mavoeindexamen','mavis','mavos','mavoscholen','mavoleerlingen','mavo4leerlingen','mavis'}
+return {'mavo','mavoadvies','mavodiploma','mavoleerling','mavoniveau','mavoschool','mavis','mavos','mavoscholen','mavoleerlingen','mavis'}

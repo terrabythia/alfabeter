@@ -17,10 +17,14 @@ local tileCollection
 -- TODO: the tiles should accelerate over time
 local gravity = 2.5
 
+local ready = false
 local mouseDown = false
 
 local floor
 local tileCharFont
+
+local tileSound
+local tileSound2
 
 function Level:initialize(width, height)
 
@@ -28,6 +32,8 @@ function Level:initialize(width, height)
     self.width = width
     self.height = height
 
+    tileSound = love.audio.newSource("resources/sounds/tick.wav", "static")
+    tileSound2 = love.audio.newSource("resources/sounds/tick2.wav", "static")
     tileCharFont = love.graphics.newFont(30)
 
     -- build the floor
@@ -143,6 +149,12 @@ function Level:update(dt)
     for i = 1, #tiles do
         local tile = tiles[i]
         if tile.isStationary then
+            -- when the tiles are all stationary for the first time
+            -- the game is ready to receive mouse events
+            ready = true
+            if tile.acceleration > 1 then
+                tileSound2:play()
+            end
             tile.acceleration = 1
         else
             -- todo: get better at math!
@@ -165,10 +177,10 @@ function Level:draw()
 
     local tiles = tileCollection.tiles;
     for i = 1, #tiles do
+
         -- try to move the body to the bottom of the screen
         local tile = tiles[i]
         local actualX, actualY = world:move(tile, tile.x, tile.y + ((gravity * 3) + (tile.acceleration)))
-
 
         tile.isStationary = actualY == tile.y
         tile.x, tile.y = actualX, actualY
@@ -194,6 +206,8 @@ function Level:draw()
 end
 
 function Level:mousepressed(x, y)
+
+    if not ready then return end
 
     if #tileCollection.selection > 2 then
         local tile = tileCollection:findByPosition(love.mouse.getPosition())

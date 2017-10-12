@@ -1,1 +1,0 @@
-return {'tvormig','tvoorlog','tvopname','tvoptreden','tvormige','tvomroepen','tvopnamen','tvopnames','tvoptredens'}

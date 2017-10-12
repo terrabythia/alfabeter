@@ -1,1 +1,1 @@
-return {'lsd','lsdverslaving'}
+return {'lsd'}

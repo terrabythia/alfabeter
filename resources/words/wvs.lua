@@ -1,1 +1,1 @@
-return {'wvs','wvstr'}
+return {'wvs'}

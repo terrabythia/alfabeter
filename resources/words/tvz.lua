@@ -1,1 +1,0 @@
-return {'tvzender','tvzendtijd','tvzenders'}

@@ -1,1 +1,1 @@
-return {'neigen','neiging','neigem','neilarmstrong','neisse','neil','neijenhuis','neijmeijer','neijts','neijman','neijndorff','neijnens','neijzen','neijssen','neig','neigde','neigden','neigend','neigingen','neigt','neigende','neils'}
+return {'neigen','neiging','neigem','neisse','neil','neijenhuis','neijmeijer','neijts','neijman','neijndorff','neijnens','neijzen','neijssen','neig','neigde','neigden','neigend','neigingen','neigt','neigende','neils'}

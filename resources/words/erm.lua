@@ -1,1 +1,1 @@
-return {'ermede','ermee','ermitage','ermelo','ermeloos','ermelor','ermers','ermen','ermstrang','ermes','ermitages','ermelose'}
+return {'ermede','ermee','ermitage','ermelo','ermeloos','ermeloer','ermers','ermen','ermstrang','ermes','ermitages','ermelose'}

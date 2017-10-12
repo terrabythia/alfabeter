@@ -1,1 +1,1 @@
-return {'imeinummer','imei','imelda','imeldas'}
+return {'imei','imelda','imeldas'}

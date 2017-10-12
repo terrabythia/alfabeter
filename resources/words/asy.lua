@@ -1,1 +1,1 @@
-return {'asymmetrie','asymmetrisch','asymptoot','asymptotiek','asymptotisch','asynchroon','asyndeton','asystolie','asymptotische','asymmetrien','asymmetrische','asynchrone','asymptoten','asyndeta','asystolien'}
+return {'asymmetrie','asymmetrisch','asymptoot','asymptotiek','asymptotisch','asynchroon','asyndeton','asystolie','asymptotische','asymmetrieen','asymmetrische','asynchrone','asymptoten','asyndeta','asystolieen'}

@@ -1,1 +1,1 @@
-return {'coffeeshop','coffeeshopbeleid','coffeeshophouder','cofferdam','coffene','cofinanciering','cofficint','coffeng','coffie','coffeeshophouders','coffeeshops','cofficinten','cofferdammen'}
+return {'coffeeshop','coffeeshopbeleid','coffeeshophouder','cofferdam','coffeine','cofinanciering','coffeng','coffie','coffeeshophouders','coffeeshops','cofferdammen'}

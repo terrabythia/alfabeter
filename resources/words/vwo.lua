@@ -1,1 +1,1 @@
-return {'vwo','vwoer','vwodiploma','vwoeindexamen','vwoexamen','vwoleerling','vwoniveau','vwoopleiding','vwoscholiere','vwoschool','vwoexamens','vwoleerlingen','vwoers','vwoscholen'}
+return {'vwo','vwoer','vwoers'}

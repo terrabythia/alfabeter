@@ -1,1 +1,1 @@
-return {'tbc','tbcbestrijding','tbconderzoek','tbctest','tbcbacillen','tbcgevallen'}
+return {'tbc'}

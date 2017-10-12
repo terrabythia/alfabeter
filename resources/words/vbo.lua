@@ -1,1 +1,1 @@
-return {'vbo','vboschool','vboafdelingen','vboleerlingen','vboscholen'}
+return {'vbo'}

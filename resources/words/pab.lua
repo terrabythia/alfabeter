@@ -1,1 +1,1 @@
-return {'pabo','pabostudent','pabostudenten','pablopicasso','pablo','pabst','pabos','pablos'}
+return {'pabo','pabostudent','pabostudenten','pablo','pabst','pabos','pablos'}

@@ -1,1 +1,0 @@
-return {'exjournalist','exjunk'}

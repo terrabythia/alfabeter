@@ -1,1 +1,1 @@
-return {'asurn','asuncionees','asuncin','asurnen'}
+return {'asurn','asuncionees','asuncion','asurnen'}

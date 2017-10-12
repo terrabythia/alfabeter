@@ -1,1 +1,1 @@
-return {'srebrenica','sren','srens'}
+return {'srebrenica'}

@@ -1,1 +1,1 @@
-return {'utrecht','utrechtenaar','utrechts','utrechter','utrechtseheuvelrug','utrechtse','utrechtenaren','utrechters','utrechtenaars'}
+return {'utrecht','utrechtenaar','utrechts','utrechter','utrechtse','utrechtenaren','utrechters','utrechtenaars'}

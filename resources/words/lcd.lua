@@ -1,1 +1,1 @@
-return {'lcd','lcdscherm','lcdschermen','lcdschermpje'}
+return {'lcd'}

@@ -1,1 +1,1 @@
-return {'glycerine','glycerinezeep','glycerol','glycine','glycogeen','glycol','glycoprotene','glyfosaat','glypten','glyptiek','glyptotheek','glycines','glycinen','glyptotheken','glycolen'}
+return {'glycerine','glycerinezeep','glycerol','glycine','glycogeen','glycol','glycoproteine','glyfosaat','glypten','glyptiek','glyptotheek','glycines','glycinen','glyptotheken','glycolen'}

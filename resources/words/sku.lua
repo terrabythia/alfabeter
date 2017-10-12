@@ -1,1 +1,1 @@
-return {'skunk','skunks'}
+return {'skunk','skutsje','skutsjesilen','skunks','skutsjes'}

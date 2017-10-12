@@ -1,1 +1,1 @@
-return {'jai','jaime','jaimy','jair','jairam','jais','jaimes','jaimys','jairs'}
+return {'jai','jaime','jaimy','jair','jair','jairam','jais','jaimes','jaimys','jairs','jairs'}

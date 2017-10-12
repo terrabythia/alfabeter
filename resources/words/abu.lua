@@ -1,1 +1,1 @@
-return {'abuis','abundant','abusief','abusievelijk','abu','abudhabi','abuja','abubakar','abu','abuizen','abusieve','abundante','abubakars'}
+return {'abuis','abundant','abusief','abusievelijk','abu','abuja','abubakar','abu','abuizen','abusieve','abundante','abubakars'}

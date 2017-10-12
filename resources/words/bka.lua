@@ -1,1 +1,0 @@
-return {'bkant','bkantjes','bkantje'}

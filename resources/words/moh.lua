@@ -1,1 +1,1 @@
-return {'mohammed','mohikaan','mohair','mohammedaan','mohammedaans','mohammedaanse','mohammedanisme','mohairen','moheel','mohamed','mohammedali','mohamad','mohammad','mohr','mohan','mohnen','mohammadi','mohikanen','mohammedanen','moheels','mohamads','mohameds','mohammads','mohammeds'}
+return {'mohammed','mohikaan','mohair','mohammedaan','mohammedaans','mohammedaanse','mohammedanisme','mohairen','moheel','mohamed','mohamad','mohammad','mohr','mohan','mohnen','mohammadi','mohikanen','mohammedanen','moheels','mohamads','mohameds','mohammads','mohammeds'}

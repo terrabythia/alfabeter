@@ -1,1 +1,1 @@
-return {'jij','jijbak','jijen','jijzelf','jijvorm','jijde','jijden','jijt','jijbakken'}
+return {'jij','jijen','jijzelf','jijde','jijden','jijt'}

@@ -1,1 +1,1 @@
-return {'queeste','querulant','querulantisme','queruleren','query','questionnaire','queue','queuen','queenannestijl','querido','queenie','quentin','quekel','queens','quelle','querulanten','querys','questionnaires','queues','queruleerde','queesten','queenies','quentins'}
+return {'queeste','querulant','querulantisme','queruleren','query','questionnaire','queue','queueen','querido','queenie','quentin','quekel','queens','quelle','querulanten','querys','questionnaires','queues','queruleerde','queesten','queenies','quentins'}

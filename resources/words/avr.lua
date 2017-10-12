@@ -1,1 +1,1 @@
-return {'avroprogramma','avraham','avrahams'}
+return {'avraham','avrahams'}

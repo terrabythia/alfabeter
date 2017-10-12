@@ -1,1 +1,1 @@
-return {'eoliet','eolisch','eolusharp','eolischeeilanden','eolieten','eolische','eolusharpen'}
+return {'eoliet','eolisch','eolusharp','eolieten','eolische','eolusharpen'}

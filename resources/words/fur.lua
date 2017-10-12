@@ -1,1 +1,1 @@
-return {'furie','furieus','furore','furies','furieuze','furieuzer','furin','furieust'}
+return {'furie','furieus','furore','furies','furieuze','furieuzer','furien','furieust'}

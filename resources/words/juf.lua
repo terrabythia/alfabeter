@@ -1,1 +1,1 @@
-return {'juf','juffer','jufferachtig','jufferen','juffershondje','juffertje','juffie','juffrouw','juffrouwen','juffertjeintgroen','juffendag','juffermans','juffen','jufferachtige','juffers','juffershondjes','juffertjes','juffies','jufs','juffertjesintgroen'}
+return {'juf','juffer','jufferachtig','jufferen','juffershondje','juffertje','juffie','juffrouw','juffrouwen','juffendag','juffermans','juffen','jufferachtige','juffers','juffershondjes','juffertjes','juffies','jufs'}

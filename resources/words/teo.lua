@@ -1,1 +1,1 @@
-return {'teonzenvoordele','teonzent','teo','teos'}
+return {'teo','teos'}

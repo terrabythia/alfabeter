@@ -1,1 +1,1 @@
-return {'yahtzee','yahtzeen','yahia','yahya','yahtzeet','yahtzeede','yahias','yahyas'}
+return {'yahtzee','yahtzeeen','yahia','yahya','yahtzeet','yahtzeede','yahias','yahyas'}

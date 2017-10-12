@@ -1,1 +1,1 @@
-return {'zopas','zopen','zoplankton','zopleiding','zopfi','zopleidingen'}
+return {'zopas','zopen','zopfi'}

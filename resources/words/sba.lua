@@ -1,1 +1,0 @@
-return {'sbastien','sbastiens'}

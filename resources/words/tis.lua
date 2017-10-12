@@ -1,1 +1,1 @@
-return {'tissue','tisdiefendiefjesmaat','tisselt','tist','tissen','tissingh','tissink','tis','tissues','tists'}
+return {'tissue','tisselt','tist','tissen','tissingh','tissink','tis','tissues','tists'}

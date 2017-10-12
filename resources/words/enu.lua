@@ -1,1 +1,1 @@
-return {'enumeratie','enuntiatief','enummer','enuntiatieve','enummers'}
+return {'enumeratie','enuntiatief','enuntiatieve'}

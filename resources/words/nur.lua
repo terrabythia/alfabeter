@@ -1,1 +1,1 @@
-return {'nurk','nurks','nurksheid','nurse','nur','nur','nuri','nuria','nurmohamed','nurken','nurkse','nurksen','nurkser','nurses','nurs','nuris','nurias'}
+return {'nurk','nurks','nurksheid','nurse','nur','nurnberg','nur','nuri','nuria','nurmohamed','nurken','nurkse','nurksen','nurkser','nurses','nurs','nuris','nurias'}

@@ -1,1 +1,1 @@
-return {'tav','taveerne','taverne','taverne','tavenier','tavares','taveernen','tavernen','taveernes','tavernes'}
+return {'taveerne','taverne','taverne','tavenier','tavares','taveernen','tavernen','taveernes','tavernes'}

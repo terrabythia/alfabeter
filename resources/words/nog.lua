@@ -1,1 +1,1 @@
-return {'nogoarea','nog','noga','nogablok','nogakraam','nogal','nogalwiedes','nogataart','nogmaals','nogablokken','nogoareas'}
+return {'nog','noga','nogablok','nogakraam','nogal','nogataart','nogmaals','nogablokken'}

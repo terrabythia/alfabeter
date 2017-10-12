@@ -1,1 +1,0 @@
-return {'lvormig','lvormige'}

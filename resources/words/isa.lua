@@ -1,1 +1,1 @@
-return {'isa','isaac','isaacnewton','isaak','isabel','isabella','isabelle','isadora','isaiah','isak','isac','isa','isas','isaacs','isaaks','isabels','isabellas','isabelles','isadoras','isaiahs','isaks','isacs','isas'}
+return {'isa','isaac','isaak','isabel','isabella','isabelle','isadora','isaiah','isak','isaac','isai','isas','isaacs','isaaks','isabels','isabellas','isabelles','isadoras','isaiahs','isaks','isaacs','isais'}

@@ -1,1 +1,1 @@
-return {'educatie','educatiecentrum','educatief','educt','educatieprogramma','educatiereis','eduard','eduarddouwesdekker','edu','eduardo','eduardus','educaties','educatieve','educatiever','edus','eduards','eduardos','eduardus','educatieprogrammas'}
+return {'educatie','educatiecentrum','educatief','educt','educatieprogramma','educatiereis','eduard','edu','eduardo','eduardus','educaties','educatieve','educatiever','edus','eduards','eduardos','eduardus','educatieprogrammas'}

@@ -1,1 +1,1 @@
-return {'dvd','dvdrecorder','dvdrom','dvdspeler','dvdfilm','dvds','dvdfilms','dvdspelers'}
+return {'dvd','dvds'}

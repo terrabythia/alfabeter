@@ -1,1 +1,0 @@
-return {'tllicht','tllampen','tllichten'}

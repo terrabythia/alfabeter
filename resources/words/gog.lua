@@ -1,1 +1,1 @@
-return {'gogme','gogogirl','gogetter','gogo','gogo','gogen','gogogirls','gogetters'}
+return {'gogme','gogogirl','gogo','gogen','gogogirls'}

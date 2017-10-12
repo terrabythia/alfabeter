@@ -1,1 +1,1 @@
-return {'kzsyndroom','kzs'}
+return {'kzs'}

@@ -1,1 +1,1 @@
-return {'agaat','agaathfonds','agaathlening','agamie','agape','agapen','agaragar','agaten','agave','agaveplant','agame','agana','agathachristie','agata','agatha','agathe','agaven','agaves','agaveplanten','agatas','agathas','agathes'}
+return {'agaat','agaathfonds','agaathlening','agamie','agape','agapen','agaragar','agaten','agave','agaveplant','agame','agana','agata','agatha','agathe','agaven','agaves','agaveplanten','agatas','agathas','agathes'}

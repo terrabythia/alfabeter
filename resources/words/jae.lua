@@ -1,1 +1,1 @@
-return {'jaeger','jaegerondergoed','jaegers','jaegertje','jaegertjes'}
+return {'jaeger','jaegerondergoed','jael','jaegers','jaegertje','jaegertjes','jaels'}

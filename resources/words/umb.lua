@@ -1,1 +1,1 @@
-return {'umbrisch','umbri','umbrir','umberto'}
+return {'umbrisch','umbrie','umbrier','umberto'}

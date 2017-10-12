@@ -1,1 +1,1 @@
-return {'dnsserver','dns'}
+return {'dns'}

@@ -1,1 +1,1 @@
-return {'gag','gaga','gage','gagel','gaggelen','gagaoezi','gagels','gages','gageslagen','gaggel','gags','gaggelde'}
+return {'gag','gaga','gage','gagel','gaggelen','gagaoezie','gagels','gages','gageslagen','gaggel','gags','gaggelde'}

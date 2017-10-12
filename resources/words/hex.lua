@@ -1,1 +1,1 @@
-return {'hexadecimaal','hexagonaal','hexagoon','hexagram','hexameter','hexader','hexspoor','hexadecimale','hexagonale','hexagonen','hexagrammen','hexameters','hexaders'}
+return {'hexadecimaal','hexagonaal','hexagoon','hexagram','hexameter','hexaeder','hexspoor','hexadecimale','hexagonale','hexagonen','hexagrammen','hexameters','hexaeders'}

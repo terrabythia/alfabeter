@@ -1,1 +1,1 @@
-return {'awbzpremie','awbz'}
+return {'awbz'}

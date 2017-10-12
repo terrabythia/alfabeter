@@ -1,1 +1,1 @@
-return {'ruche','ruchtbaar','ruchtbaarheid','ruchtbaarmaking','rucola','rucphen','rucphenaar','rucphens','ruck','ruches','ruchtbare','rucolas','rucphense'}
+return {'ruche','ruchtbaar','ruchtbaarheid','ruchtbaarmaking','rucola','rucksichtslos','rucphen','rucphenaar','rucphens','ruck','ruches','ruchtbare','rucolas','rucphense'}

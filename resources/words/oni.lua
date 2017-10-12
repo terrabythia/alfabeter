@@ -1,1 +1,1 @@
-return {'oninbaar','oningevuld','oningewijd','onintelligent','oninteressant','onintutief','onintutieve','onislamitisch','onink','oninbare','oningevulde','onintelligente','oninteressante','onislamitische','oningewijde'}
+return {'oninbaar','oningevuld','oningewijd','onintelligent','oninteressant','onintuitief','onintuitieve','onislamitisch','onink','oninbare','oningevulde','onintelligente','oninteressante','onislamitische','oningewijde'}

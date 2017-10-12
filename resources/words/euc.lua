@@ -1,1 +1,1 @@
-return {'eucommissaris','eucalyptus','eucharistie','eucharistieviering','eucharistisch','euclidisch','eucalyptusolie','eucalyptusboom','euclides','eucalyptussen','eucharistievieringen','eucharistische','euclidische','eucommissarissen','eucalyptusbomen'}
+return {'eucalyptus','eucharistie','eucharistieviering','eucharistisch','euclidisch','eucalyptusolie','eucalyptusboom','euclides','eucalyptussen','eucharistievieringen','eucharistische','euclidische','eucalyptusbomen'}

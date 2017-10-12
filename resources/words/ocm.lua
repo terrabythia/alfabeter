@@ -1,1 +1,1 @@
-return {'ocmw','ocmwvoorzitter','ocmwraad','ocmws'}
+return {'ocmw','ocmws'}

@@ -1,1 +1,1 @@
-return {'hevea','hevel','hevelbarometer','hevelen','hevelpomp','hevig','hevigheid','hever','heverlee','heverlees','heverleese','heverleenaar','hevelde','hevelden','hevelpompen','hevels','hevelt','heveltje','heveltjes','hevige','heviger','hevigere','hevigst','hevigste','heven','heveas'}
+return {'hevea','hevel','hevelbarometer','hevelen','hevelpomp','hevig','hevigheid','hever','heverlee','heverlees','heverleese','heverleeenaar','hevelde','hevelden','hevelpompen','hevels','hevelt','heveltje','heveltjes','hevige','heviger','hevigere','hevigst','hevigste','heven','heveas'}

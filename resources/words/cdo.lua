@@ -1,1 +1,0 @@
-return {'cdopname','cdopnames','cdopnamen'}

@@ -1,1 +1,1 @@
-return {'gft','gftafval'}
+return {'gft'}

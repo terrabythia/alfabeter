@@ -1,1 +1,1 @@
-return {'eustachiusbuis','eustatiaan','eustatiaans','eustrategie','euser','eussen','eustachius','eustachiusbuizen','eustatiaanse','eustatiaansen','eustatianen'}
+return {'eustachiusbuis','eustatiaan','eustatiaans','euser','eussen','eustachius','eustachiusbuizen','eustatiaanse','eustatiaansen','eustatianen'}

@@ -1,1 +1,1 @@
-return {'peacekeeping','peaudepche','peauter','pearl','pearls'}
+return {'peacekeeping','peauter','pearl','pearls'}

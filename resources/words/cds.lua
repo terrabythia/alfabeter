@@ -1,1 +1,1 @@
-return {'cdschijf','cdsingle','cdspeler','cds','cdsingles','cdspelers'}
+return {'cds'}

@@ -1,1 +1,1 @@
-return {'vaetvient','vaes','vaessen'}
+return {'vaes','vaessen'}

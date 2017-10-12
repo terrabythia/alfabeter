@@ -1,1 +1,1 @@
-return {'mbankieren','mba','mbabane','mbankierde'}
+return {'mba','mbabane'}

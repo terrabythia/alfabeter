@@ -1,1 +1,1 @@
-return {'gneis','gne'}
+return {'gneis'}

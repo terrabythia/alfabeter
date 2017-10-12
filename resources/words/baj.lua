@@ -1,1 +1,1 @@
-return {'bajadre','bajes','bajesklant','bajonet','bajonetaanval','bajonetfitting','bajonetschede','bajonetsluiting','bajesboot','bajema','bajadres','bajesklanten','bajonetaanvallen','bajonetsluitingen','bajonetten','bajonetfittingen','bajesen','bajesboten'}
+return {'bajadere','bajes','bajesklant','bajonet','bajonetaanval','bajonetfitting','bajonetschede','bajonetsluiting','bajesboot','bajema','bajaderes','bajesklanten','bajonetaanvallen','bajonetsluitingen','bajonetten','bajonetfittingen','bajesen','bajesboten'}

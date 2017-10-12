@@ -1,1 +1,1 @@
-return {'rfidchip','rfidtag','rfid','rfidtags'}
+return {'rfid'}

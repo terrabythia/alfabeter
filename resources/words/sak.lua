@@ -1,1 +1,1 @@
-return {'saks','saksen','saksisch','saksische','sak','sake','saki','sakkeren','sakkerloot','sakkers','saksenanhalt','sakser','sake','sakkers','sak','sakko','sakken','sakker','sakkerde','sakkerden','sakkerse','sakkert','sakes'}
+return {'saks','saksen','saksisch','saksische','sak','sake','saki','sakkeren','sakkerloot','sakkers','sakser','sake','sakkers','sak','sakko','sakken','sakker','sakkerde','sakkerden','sakkerse','sakkert','sakes'}

@@ -1,1 +1,1 @@
-return {'zmlk','zmlkschool','zmlkscholen'}
+return {'zmlk'}

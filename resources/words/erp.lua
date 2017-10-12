@@ -1,1 +1,1 @@
-return {'erpsysteem','erppakket','erpe','erpemere','erpskwerps','erpse'}
+return {'erpe','erpse'}

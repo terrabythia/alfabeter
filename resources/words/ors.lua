@@ -1,1 +1,1 @@
-return {'orsmaalgussenhoven','orsel','ors'}
+return {'orsel','ors'}

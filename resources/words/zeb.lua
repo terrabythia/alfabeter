@@ -1,1 +1,1 @@
-return {'zeboe','zebra','zebraachtig','zebracode','zebrahout','zebrapad','zebrastreep','zebraeffect','zebravink','zebedeus','zeb','zebregs','zeboes','zebras','zebraatje','zebraatjes','zebrapaden','zebrastrepen','zebracodes','zebravinken','zebs'}
+return {'zeboe','zebra','zebracode','zebrahout','zebrapad','zebrastreep','zebravink','zebedeus','zeb','zebregs','zeboes','zebras','zebraatje','zebraatjes','zebrapaden','zebrastrepen','zebracodes','zebravinken','zebs'}

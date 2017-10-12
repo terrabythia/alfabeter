@@ -1,1 +1,1 @@
-return {'abiljet','abiturint','abiotisch','abida','abigail','abiturinten','abiljetten','abiotische','abidas','abigails'}
+return {'abiturient','abiotisch','abida','abigail','abiturienten','abiotische','abidas','abigails'}

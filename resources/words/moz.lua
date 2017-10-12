@@ -1,1 +1,1 @@
-return {'mozaek','mozaektegel','mozaekvloer','mozasch','mozetta','mozzarella','mozaekwerk','mozaekbeeld','mozambikaan','mozambikaans','mozambique','mozart','mozes','mozilla','mozaeken','mozaektegels','mozaekvloeren','mozasche','mozambikaanse','mozettas','mozarts','mozes'}
+return {'mozaiek','mozaiektegel','mozaiekvloer','mozaisch','mozetta','mozzarella','mozaiekwerk','mozaiekbeeld','mozambikaan','mozambikaans','mozambique','mozart','mozes','mozilla','mozaieken','mozaiektegels','mozaiekvloeren','mozaische','mozambikaanse','mozettas','mozarts','mozes'}

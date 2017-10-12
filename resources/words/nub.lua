@@ -1,1 +1,1 @@
-return {'nubuck','nubischewoestijn','nubi'}
+return {'nubuck','nubie'}

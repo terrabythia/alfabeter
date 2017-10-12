@@ -1,1 +1,1 @@
-return {'wunderink','wunnink'}
+return {'wunseradiel','wunderink','wunnink'}

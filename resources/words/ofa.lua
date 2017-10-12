@@ -1,1 +1,0 @@
-return {'ofallpeople','ofallplaces'}

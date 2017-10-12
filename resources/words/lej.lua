@@ -1,1 +1,1 @@
-return {'lejzerzamenhof','lejeune'}
+return {'lejeune'}

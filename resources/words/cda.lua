@@ -1,1 +1,1 @@
-return {'cdaer','cdalid','cdafractie','cdaminister','cdaleider','cda','cdaers','cdaleden'}
+return {'cdaer','cda','cdaers'}

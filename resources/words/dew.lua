@@ -1,1 +1,1 @@
-return {'dewoord','dewelke','dewijl','dewilde','dewinter','dewolden','dewi','dewaele','dewever','dewaide','dewoorden','dewis'}
+return {'dewelke','dewijl','dewi','dewaele','dewever','dewaide','dewis'}

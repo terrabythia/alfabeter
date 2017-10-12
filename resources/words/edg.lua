@@ -1,1 +1,1 @@
-return {'edgar','edgarallanpoe','edgard','edgars','edgards'}
+return {'edgar','edgard','edgars','edgards'}

@@ -1,1 +1,1 @@
-return {'mebusje','mebus','mebius','mebusjes'}
+return {'mebius'}

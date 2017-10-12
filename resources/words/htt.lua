@@ -1,1 +1,1 @@
-return {'http','https','httenkse'}
+return {'http','https'}

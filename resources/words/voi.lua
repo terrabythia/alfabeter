@@ -1,1 +1,1 @@
-return {'voiceover','voicemail','voile','voiture','voicerecorder','voigt','voiceovers','voiles','voitures','voituurtje'}
+return {'voicemail','voile','voiture','voicerecorder','voigt','voiles','voitures','voituurtje'}

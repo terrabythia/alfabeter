@@ -1,1 +1,1 @@
-return {'sire','sirene','sirenegeloei','sirenenlied','sirenenzang','sirih','sirihblad','sirihdoos','sirihpruim','sirocco','siroop','sirtaki','sirra','sirius','sira','sirach','sirenen','sirenenzangen','sirenes','sirihbladeren','sirihpruimen','siropen','sirras','siroccos','sirtakis'}
+return {'sire','sirene','sirenegeloei','sirenenlied','sirenenzang','sirih','sirihblad','sirihdoos','sirihpruim','sirocco','siroop','sirtaki','sirius','sira','sirach','sirenen','sirenenzangen','sirenes','sirihbladeren','sirihpruimen','siropen','siroccos','sirtakis'}

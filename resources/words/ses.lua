@@ -1,1 +1,1 @@
-return {'sesam','sesambrood','sesamolie','sesampasta','sesamzaad','sesamzaadje','sessie','sessiemuzikant','sestertie','sesamstraat','sessink','sesink','sestig','sessies','sestertin','sesambroden','sessiemuzikanten','sesterties','sesamzaadjes','sesampastas','sesamzaden'}
+return {'sesam','sesambrood','sesamolie','sesampasta','sesamzaad','sesamzaadje','sessie','sessiemuzikant','sestertie','sesamstraat','sessink','sesink','sestig','sessies','sestertien','sesambroden','sessiemuzikanten','sesterties','sesamzaadjes','sesampastas','sesamzaden'}

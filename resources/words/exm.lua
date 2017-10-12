@@ -1,1 +1,0 @@
-return {'exman','exmanager','exmarinier','exmedewerker','exmilitair','exminister','exminnaar','exminnares','exmodel','exmonopolist','exmoslim','exmedewerkers','exmijnwerkers','exmilitairen','exministers','exmannen','exmoslims'}

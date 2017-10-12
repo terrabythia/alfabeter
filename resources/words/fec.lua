@@ -1,1 +1,1 @@
-return {'fecaal','fecalin','feces','fecale'}
+return {'fecaal','fecalien','feces','fecale'}

@@ -1,1 +1,1 @@
-return {'cbscijfer','cbskoersindex','cbs','cbscijfers'}
+return {'cbs'}

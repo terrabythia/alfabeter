@@ -1,1 +1,0 @@
-return {'ikverteller','ikvorm'}

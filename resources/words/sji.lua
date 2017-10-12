@@ -1,1 +1,1 @@
-return {'sjia','sjibbolet','sjiiet','sjiieten','sjiitisch','sjikse','sjilpen','sjirpen','sjiaislam','sjimmie','sjirk','sjiitische','sjibbolets','sjilp','sjilpt','sjilpte','sjirp','sjirpt','sjirpte','sjirpten','sjikses','sjimmies','sjirks'}
+return {'sjia','sjibbolet','sjiiet','sjiieten','sjiitisch','sjikse','sjilpen','sjirpen','sjimmie','sjirk','sjiitische','sjibbolets','sjilp','sjilpt','sjilpte','sjirp','sjirpt','sjirpte','sjirpten','sjikses','sjimmies','sjirks'}

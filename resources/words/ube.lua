@@ -1,1 +1,1 @@
-return {'ubels','ubeda'}
+return {'uberhaupt','ubermensch','ubels','ubeda','ubermenschen'}

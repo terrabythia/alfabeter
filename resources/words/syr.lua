@@ -1,1 +1,1 @@
-return {'syrisch','syri','syrir','syrah','syrische','syrischorthodox','syracusaan','syracusaans','syracuse','syracuser','syracusisch','syrischewoestijn','syrah','syria','syrirs','syrischorthodoxe','syracusaanse','syrahs','syrahtje','syrahs','syrias'}
+return {'syrisch','syrie','syrier','syrah','syrische','syracusaan','syracusaans','syracuse','syracuser','syracusisch','syrah','syria','syriers','syracusaanse','syrahs','syrahtje','syrahs','syrias'}

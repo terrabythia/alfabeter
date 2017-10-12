@@ -1,1 +1,1 @@
-return {'ezine','ezinga','ezines'}
+return {'ezinga'}

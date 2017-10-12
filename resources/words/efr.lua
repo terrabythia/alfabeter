@@ -1,1 +1,1 @@
-return {'efraim','efram','efraims','eframs'}
+return {'efraim','efraim','efraims','efraims'}

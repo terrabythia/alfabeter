@@ -1,1 +1,1 @@
-return {'tja','tjalk','tjalkschip','tjalkschipper','tjap','tjappen','tjaptjoi','tjab','tjauwmin','tjalling','tjalsma','tjalma','tjaden','tjan','tjallinks','tjalken','tjalkschepen','tjalkschippers','tjapte','tjabs','tjallings'}
+return {'tja','tjalk','tjalkschip','tjalkschipper','tjap','tjappen','tjaptjoi','tjabe','tjauwmin','tjalling','tjalsma','tjalma','tjaden','tjan','tjallinks','tjalken','tjalkschepen','tjalkschippers','tjapte','tjabes','tjallings'}

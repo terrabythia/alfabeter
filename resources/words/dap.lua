@@ -1,1 +1,1 @@
-return {'dapper','dapperheid','daphne','daphn','dap','dapper','dapperder','dappere','dapperst','dapperste','daphnes','daphns'}
+return {'dapper','dapperheid','daphne','daphne','dap','dapper','dapperder','dappere','dapperst','dapperste','daphnes','daphnes'}

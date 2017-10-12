@@ -1,1 +1,0 @@
-return {'tvversie','tvverslaggeefster','tvverslaggever','tvvoetbal'}

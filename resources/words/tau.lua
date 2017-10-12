@@ -1,1 +1,1 @@
-return {'taug','taupe','taupekleurig','taurine','tautologie','tautologisch','taurusgebergte','taurus','tauw','tausch','taupekleurige','tautologien','tautologische'}
+return {'tauge','taupe','taupekleurig','taurine','tautologie','tautologisch','taurusgebergte','taurus','tauw','tausch','taupekleurige','tautologieen','tautologische'}

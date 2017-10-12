@@ -1,1 +1,0 @@
-return {'bta','btablokker','btadeeltje','btavak','btaversie','btawetenschap','btaverval','btastralen','btastudie','btas','btastudenten','btastudies','btavakken','btawetenschappen','btablokkers','btadeeltjes'}

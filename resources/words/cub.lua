@@ -1,1 +1,1 @@
-return {'cuba','cubaan','cubaans','cubaanse','cubaan','cubeijs','cubapolitiek','cubanen','cubanen'}
+return {'cuba','cubaan','cubaans','cubaanse','cubaan','cubapolitiek','cubanen','cubanen'}

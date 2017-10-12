@@ -1,1 +1,1 @@
-return {'vigeren','vigeur','vigilante','vigileren','vigilie','vigiliedag','vignet','viggo','vigo','viguurs','vigeerde','vigeerden','vigeert','vigerende','vigilantes','vigiliedagen','vigilies','vigilin','vignetje','vignetten','vigerend','vigileerde','viggos','vigos','vignetjes'}
+return {'vigeren','vigeur','vigilante','vigileren','vigilie','vigiliedag','vignet','viggo','vigo','viguurs','vigeerde','vigeerden','vigeert','vigerende','vigilantes','vigiliedagen','vigilies','vigilien','vignetje','vignetten','vigerend','vigileerde','viggos','vigos','vignetjes'}

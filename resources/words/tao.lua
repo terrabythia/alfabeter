@@ -1,1 +1,1 @@
-return {'taosme','taostisch','tao','taostische','taos'}
+return {'taoisme','taoistisch','tao','taoistische','taos'}

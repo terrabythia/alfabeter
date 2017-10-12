@@ -1,1 +1,1 @@
-return {'mepatint','mepeloton','mep','meppen','mepper','meppel','meppelaar','meppelder','meppeler','meppels','meppelink','mepschen','meppers','mept','mepte','mepten','mepatinten','mepelotons','meppende','meppelse'}
+return {'mep','meppen','mepper','meppel','meppelaar','meppelder','meppeler','meppels','meppelink','mepschen','meppers','mept','mepte','mepten','meppende','meppelse'}

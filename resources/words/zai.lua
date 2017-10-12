@@ -1,1 +1,1 @@
-return {'zaid','zaidi','zaids'}
+return {'zaire','zairees','zaid','zaidi','zaids','zairese'}

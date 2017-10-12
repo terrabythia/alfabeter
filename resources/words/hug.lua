@@ -1,1 +1,1 @@
-return {'hugenoot','hugo','hugobrandtcorstius','hugoclaus','hugodegroot','hughes','hugen','huggers','hugenoten','hugos'}
+return {'hugenoot','hugo','hughes','hugen','huggers','hugenoten','hugos'}

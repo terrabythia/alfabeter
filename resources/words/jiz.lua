@@ -1,1 +1,1 @@
-return {'jizrel'}
+return {'jizreel'}

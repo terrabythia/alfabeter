@@ -1,1 +1,1 @@
-return {'aov','aovuitkering','aover','aovuitkeringen','aovers'}
+return {'aov','aover','aovers'}

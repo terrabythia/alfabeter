@@ -1,1 +1,1 @@
-return {'gequadrilleerd','gequadrilleerde','gequoteerd','gequoteerde','gequotiseerd','gequipeerd','gequipeerde','gequeruleerd'}
+return {'gequadrilleerd','gequadrilleerde','gequoteerd','gequoteerde','gequotiseerd','gequeruleerd'}

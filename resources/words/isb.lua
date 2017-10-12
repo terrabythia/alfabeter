@@ -1,1 +1,1 @@
-return {'isbn','isbnnummer','isbnnummers'}
+return {'isbn'}

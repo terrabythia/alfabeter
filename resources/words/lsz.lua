@@ -1,1 +1,0 @@
-return {'lszl','lszls'}

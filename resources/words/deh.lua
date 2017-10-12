@@ -1,1 +1,1 @@
-return {'dehelebubs','dehemelinprijzen','dehydratie','dehydreren','dehaan','dehaene','dehere','dehing','dehydreerde','dehydraties'}
+return {'dehydratie','dehydreren','dehaene','dehing','dehydreerde','dehydraties'}

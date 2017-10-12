@@ -1,1 +1,1 @@
-return {'tgv','tgv','tgv','tgvs'}
+return {'tgv','tgv','tgvs'}

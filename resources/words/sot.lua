@@ -1,1 +1,1 @@
-return {'soterisch','sotternie','sottovoce','sotthewes','sotternien','soterische'}
+return {'soterisch','sotternie','sotthewes','sotternieen','soterische'}

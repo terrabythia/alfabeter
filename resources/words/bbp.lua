@@ -1,1 +1,1 @@
-return {'bbp','bbpgroei'}
+return {'bbp'}

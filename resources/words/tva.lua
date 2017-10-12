@@ -1,1 +1,0 @@
-return {'tvaanbod','tvacteur','tvactie'}

@@ -1,1 +1,1 @@
-return {'oleander','oleografie','olene','olewesjolem','oleg','olen','oleanders','oleografien','oleandertje','olegs'}
+return {'oleander','oleografie','oleine','olewesjolem','oleg','olen','oleanders','oleografieen','oleandertje','olegs'}

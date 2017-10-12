@@ -1,1 +1,1 @@
-return {'riagg','rial','riant','riaggcentrum','riaggmedewerker','ria','rianne','riad','rian','riante','rianter','riantere','riantst','riantste','rials','riaggcentra','rias','riads','rians','riannes'}
+return {'riagg','rial','riant','ria','rianne','riad','rian','riante','rianter','riantere','riantst','riantste','rials','rias','riads','rians','riannes'}

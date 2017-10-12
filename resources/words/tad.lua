@@ -1,1 +1,1 @@
-return {'tadzjiek','tadzjieks','tadzjiekse','tadzjikistan','tadema','taddes'}
+return {'tadzjiek','tadzjieks','tadzjiekse','tadzjikistan','tadema','taddeus'}

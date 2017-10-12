@@ -1,1 +1,1 @@
-return {'opadhocbasis','opa','opaak','opaal','opaalglas','opaalsteen','opaciteit','opalen','opart','opaciteitsmeter','opas','opaalstenen','opaaltje','opaaltjes','opaatje','opaatjes','opake','opat','opaten'}
+return {'opa','opaak','opaal','opaalglas','opaalsteen','opaciteit','opalen','opart','opaciteitsmeter','opas','opaalstenen','opaaltje','opaaltjes','opaatje','opaatjes','opake','opat','opaten'}

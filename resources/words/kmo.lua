@@ -1,1 +1,1 @@
-return {'kmo','kmoer','kmomarkt','kmozone','kmos'}
+return {'kmo','kmoer','kmos'}

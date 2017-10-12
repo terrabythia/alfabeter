@@ -1,1 +1,1 @@
-return {'aufklrung'}
+return {'aufklarung'}

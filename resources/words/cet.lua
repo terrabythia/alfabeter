@@ -1,1 +1,1 @@
-return {'cetaceen','ceterisparibus','cetin'}
+return {'cetaceeen','cetin'}

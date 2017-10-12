@@ -1,1 +1,1 @@
-return {'hifi','hifiinstallatie','hifiapparatuur','hifitoren','hifiketen','hifiinstallaties','hifitorens'}
+return {'hifi','hifiapparatuur','hifitoren','hifiketen','hifitorens'}

@@ -1,1 +1,1 @@
-return {'pof','pofbroek','poffen','poffer','pofferd','poffertje','poffertjeskraam','poffertjespan','pofmais','pofmouw','pofmas','poffers','pofbroeken','poffers','poffertjes','poffertjeskramen','poffertjespannen','pofmouwen','poft','pofte','poften'}
+return {'pof','pofbroek','poffen','poffer','pofferd','poffertje','poffertjeskraam','poffertjespan','pofmais','pofmouw','pofmais','poffers','pofbroeken','poffers','poffertjes','poffertjeskramen','poffertjespannen','pofmouwen','poft','pofte','poften'}

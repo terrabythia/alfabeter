@@ -1,1 +1,1 @@
-return {'csardas','csar','csardassen','csars'}
+return {'csardas','csardassen'}

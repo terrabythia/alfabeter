@@ -1,1 +1,1 @@
-return {'cai','caipirinha','caissire','caisson','caissonwet','caissonziekte','cain','caine','caitlin','caitlyn','cai','caissires','caissons','cains','caines','caitlins','caitlyns'}
+return {'cai','caipirinha','caissiere','caisson','caissonwet','caissonziekte','cairo','cairoot','cairotisch','cain','caine','caitlin','caitlyn','cai','caissieres','caissons','cains','caines','caitlins','caitlyns'}

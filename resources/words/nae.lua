@@ -1,1 +1,1 @@
-return {'naef','naeve','naeveling','naessens','naefst','naevelingen','naever'}
+return {'naessens','nae'}

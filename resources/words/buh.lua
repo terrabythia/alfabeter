@@ -1,1 +1,1 @@
-return {'buhrs'}
+return {'buhne','buhrs','buhnes','buhnen'}

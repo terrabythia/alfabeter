@@ -1,1 +1,1 @@
-return {'puertoricaan','puertoricaans','puertorico','pueblo','pueriel','puebloindiaan','pueriele','puertoricaanse','puebloindianen','puertoricanen','pueblos'}
+return {'pueblo','pueriel','pueriele','pueblos'}

@@ -1,1 +1,1 @@
-return {'lloydslid','lloyd','lloydsleden','lloyds'}
+return {'lloyd','lloyds'}

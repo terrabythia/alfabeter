@@ -1,1 +1,1 @@
-return {'gaelic','gaetan','gaetano','gaemers','gaertner','gaetans','gaetanos'}
+return {'gaelic','gaetan','gaetano','gaetan','gaemers','gaertner','gaetans','gaetanos','gaetans'}

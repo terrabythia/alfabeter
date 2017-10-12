@@ -1,1 +1,1 @@
-return {'sahara','saharaatlas','sahel','sahoelplat','sahar','sahin','sahertian','sahars','sahels','sahins'}
+return {'sahara','sahel','sahoelplat','sahar','sahin','sahertian','sahars','sahels','sahins'}

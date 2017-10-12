@@ -1,1 +1,0 @@
-return {'exlibris','exleerling','exlegerleider','exleider','exleraar','exlid','exlibrissen','exlandgenoten','exleden','exleerlingen'}

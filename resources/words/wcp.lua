@@ -1,1 +1,0 @@
-return {'wcpapier','wcpot','wcpotten'}

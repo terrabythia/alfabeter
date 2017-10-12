@@ -1,1 +1,1 @@
-return {'mri','mriscan','mriscans'}
+return {'mri'}

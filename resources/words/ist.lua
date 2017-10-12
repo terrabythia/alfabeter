@@ -1,1 +1,1 @@
-return {'istmus','istri','ista'}
+return {'istmus','istrie','ista'}

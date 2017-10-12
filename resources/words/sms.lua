@@ -1,1 +1,1 @@
-return {'sms','smsen','smsje','smsjes','smsbericht','smsdienst','smsverkeer','smst','smste','smsberichten','smsberichtje','smsberichtjes','smsdiensten','smsten'}
+return {'sms','smsen','smsje','smsjes','smst','smste','smsten'}

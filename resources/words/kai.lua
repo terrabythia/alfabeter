@@ -1,1 +1,1 @@
-return {'kaiserbrtchen','kaiserbroodje','kaisoi','kai','kaiser','kaijser','kaizer','kaiserbroodjes','kais'}
+return {'kain','kain','kainsmerk','kainsteken','kaiserbrotchen','kaiserbroodje','kaisoi','kairo','kairoot','kairotisch','kai','kaiser','kaijser','kaizer','kains','kaiserbroodjes','kais','kains'}

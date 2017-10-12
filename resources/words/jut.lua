@@ -1,1 +1,1 @@
-return {'jut','jute','jutegaren','juten','jutespinnerij','jutezak','jutmis','juttemis','jutten','juttepeer','jutter','jutenjul','jut','jutland','jutlander','jutlands','juts','jutta','jutte','jutten','jutespinnerijen','jutezakken','jutte','jutteperen','jutters','juttas','juttes'}
+return {'jut','jute','jutegaren','juten','jutespinnerij','jutezak','jutmis','juttemis','jutten','juttepeer','jutter','jut','jutland','jutlander','jutlands','juts','jutta','jutte','jutten','jutespinnerijen','jutezakken','jutte','jutteperen','jutters','juttas','juttes'}

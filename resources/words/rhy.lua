@@ -1,1 +1,1 @@
-return {'rhythmandblues','rhythmandbluesmuziek','rhys','rhys'}
+return {'rhys','rhys'}

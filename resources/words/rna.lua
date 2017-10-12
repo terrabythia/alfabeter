@@ -1,1 +1,1 @@
-return {'rnamolecule','rna','rnamoleculen','rnamolecules'}
+return {'rna'}

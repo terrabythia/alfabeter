@@ -1,1 +1,1 @@
-return {'obenen','obedintie','obelisk','ober','obesitas','obersterreich','obe','oberink','oberman','obedinties','obelisken','obers','obertje','obes'}
+return {'obedientie','obelisk','ober','obesitas','oberosterreich','obe','oberink','oberman','obedienties','obelisken','obers','obertje','obes'}

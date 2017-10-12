@@ -1,1 +1,1 @@
-return {'awacsvliegtuig','awara','awari','awacs','awater','awad','awacsvliegtuigen','awaras','awaris'}
+return {'awara','awari','awacs','awater','awad','awaras','awaris'}

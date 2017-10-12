@@ -1,1 +1,1 @@
-return {'egbijdrage','egbert','egberdina','egbertus','egbers','egberink','egberts','egberdinas','egbertus'}
+return {'egbert','egberdina','egbertus','egbers','egberink','egberts','egberdinas','egbertus'}

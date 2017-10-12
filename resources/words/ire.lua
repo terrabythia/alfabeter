@@ -1,1 +1,1 @@
-return {'irenisch','irene','ireen','irena','ireland','irenische','ireens','irenas','irenes'}
+return {'irenisch','irene','irene','ireen','irena','ireland','irenische','ireens','irenas','irenes'}

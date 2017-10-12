@@ -1,1 +1,1 @@
-return {'lpg','lpgtank','lpgtanks'}
+return {'lpg'}

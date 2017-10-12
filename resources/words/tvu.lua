@@ -1,1 +1,0 @@
-return {'tvuitzending','tvuitzendingen'}

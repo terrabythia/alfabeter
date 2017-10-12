@@ -1,1 +1,1 @@
-return {'cedel','ceder','cederen','cederhout','cederhouten','cederolie','cedille','cederboom','cederrevolutie','cedric','cedels','cedeltje','ceders','cedilles','cedeerde','cedertje','cedrics','cederbomen','cederhoutje'}
+return {'cedel','ceder','cederen','cederhout','cederhouten','cederolie','cedille','cederboom','cederrevolutie','cedric','cedric','cedels','cedeltje','ceders','cedilles','cedeerde','cedertje','cedrics','cedrics','cederbomen','cederhoutje'}

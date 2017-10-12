@@ -1,1 +1,1 @@
-return {'deze','dezelfde','dezelve','dezen','dezer','dezerzijds','dezes','dezulke','dezulken','dezelfden'}
+return {'deze','dezelfde','dezelve','dezen','dezer','dezerzijds','dezes','dezulke','dezulken','dezelfden','deze'}

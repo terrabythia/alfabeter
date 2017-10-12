@@ -1,1 +1,0 @@
-return {'pcgebruik','pcgebruiker','pcgebruikers'}

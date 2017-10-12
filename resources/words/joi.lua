@@ -1,1 +1,1 @@
-return {'joinen','joint','jointventure','jointventures','join','joinde','joints','jointje','jointjes'}
+return {'joinen','joint','join','joinde','joints','jointje','jointjes'}

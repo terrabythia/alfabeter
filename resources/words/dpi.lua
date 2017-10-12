@@ -1,1 +1,1 @@
-return {'dpion','dpi'}
+return {'dpi'}

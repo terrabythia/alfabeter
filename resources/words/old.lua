@@ -1,1 +1,1 @@
-return {'oldboysnetwork','oldtimer','oldebroek','oldebroeker','oldebroeks','oldenzaal','oldenzaals','oldenzaler','oldenburg','olde','oldenhof','oldenboom','oldengarm','oldenkamp','oldersma','olden','oldeman','oldenziel','oldekamp','oldenhuis','oldenkotte','olders','oldtimers','oldenzaalse'}
+return {'oldtimer','oldebroek','oldebroeker','oldebroeks','oldenzaal','oldenzaals','oldenzaler','oldenburg','olde','oldenhof','oldenboom','oldengarm','oldenkamp','oldersma','olden','oldeman','oldenziel','oldekamp','oldenhuis','oldenkotte','olders','oldtimers','oldenzaalse'}

@@ -1,1 +1,1 @@
-return {'exhaustief','exhiberen','exhibitie','exhibitionisme','exhibitionist','exhibitionistisch','exhibitum','exhumatie','exhongerstakers','exhibeerde','exhibeert','exhibita','exhibities','exhibitionistische','exhaustieve','exhibitionisten','exhumaties'}
+return {'exhaustief','exhiberen','exhibitie','exhibitionisme','exhibitionist','exhibitionistisch','exhibitum','exhumatie','exhibeerde','exhibeert','exhibita','exhibities','exhibitionistische','exhaustieve','exhibitionisten','exhumaties'}

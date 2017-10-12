@@ -1,1 +1,1 @@
-return {'shkodr'}
+return {'shkoder'}

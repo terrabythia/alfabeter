@@ -1,1 +1,1 @@
-return {'beyonc','beyer','beyoncs'}
+return {'beyonce','beyer','beyonces'}

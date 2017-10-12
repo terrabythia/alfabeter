@@ -1,1 +1,1 @@
-return {'ehbo','ehboer','ehbodiploma','ehbopost','ehboers','ehbodiplomas','ehboposten'}
+return {'ehbo','ehboer','ehboers'}

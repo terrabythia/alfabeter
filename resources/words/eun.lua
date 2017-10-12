@@ -1,1 +1,1 @@
-return {'eunuch','euniveau','eunorm','eunuchen','eunormen'}
+return {'eunuch','eunuchen'}

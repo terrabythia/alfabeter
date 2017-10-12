@@ -1,1 +1,1 @@
-return {'ludiek','ludo','ludovicus','ludwigvanbeethoven','ludovic','ludovica','ludwig','ludieke','ludos','ludovics','ludovicas','ludovicus','ludwigs'}
+return {'ludiek','ludo','ludovicus','ludovic','ludovica','ludwig','ludieke','ludos','ludovics','ludovicas','ludovicus','ludwigs'}

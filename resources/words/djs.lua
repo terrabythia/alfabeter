@@ -1,1 +1,1 @@
-return {'djsets','djs'}
+return {'djs'}

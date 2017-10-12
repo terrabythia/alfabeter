@@ -1,1 +1,1 @@
-return {'alom','alomtegenwoordig','alomtegenwoordigheid','alomvattend','alomvattendheid','alopecia','aloud','alo','alofi','aloysius','aloys','alofs','alons','alonso','alomtegenwoordige','alomvattende','aloude','alos','aloys','aloysius'}
+return {'alom','alomtegenwoordig','alomtegenwoordigheid','alomvattend','alomvattendheid','alopecia','aloud','aloe','alofi','aloysius','aloys','alofs','alons','alonso','alomtegenwoordige','alomvattende','aloude','aloes','aloys','aloysius'}

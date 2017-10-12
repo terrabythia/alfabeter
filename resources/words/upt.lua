@@ -1,1 +1,1 @@
-return {'uptodate','uptempo'}
+return {'uptempo'}

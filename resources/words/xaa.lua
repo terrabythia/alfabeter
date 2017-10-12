@@ -1,1 +1,0 @@
-return {'xaantal','xaantallen'}

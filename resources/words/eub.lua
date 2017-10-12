@@ -1,1 +1,1 @@
-return {'eubegroting','eubiotiek','eubeleid','eubijdrage','euboea'}
+return {'eubiotiek','euboea'}

@@ -1,1 +1,1 @@
-return {'hepatitis','heptameter','hepatitisbinjectie','heptader','heppen','heppener','hepkema','heppe','hepen','heptameters','hepatitisbinjecties'}
+return {'hepatitis','heptameter','heptaeder','heppen','heppener','hepkema','heppe','hepen','heptameters'}

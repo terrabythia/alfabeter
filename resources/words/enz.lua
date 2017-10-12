@@ -1,1 +1,1 @@
-return {'enz','enzoverder','enzovoort','enzovoorts','enzym','enzymatisch','enzoferrari','enzo','enzerink','enzymen','enzymatische','enzos'}
+return {'enzoverder','enzovoort','enzovoorts','enzym','enzymatisch','enzo','enzerink','enzymen','enzymatische','enzos'}

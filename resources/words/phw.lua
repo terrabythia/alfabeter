@@ -1,1 +1,0 @@
-return {'phwaarde','phwaarden','phwaardes'}

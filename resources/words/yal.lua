@@ -1,1 +1,1 @@
-return {'yaleslot','yalin','yalcin','yalins'}
+return {'yaleslot','yalcin','yalcin','yalcins'}

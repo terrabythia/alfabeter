@@ -1,1 +1,1 @@
-return {'adhd','adhdkind','adhoc','adhocbeleid','adhocbeslissing','adherent','adhesie','adhesiebetuiging','adhortatief','adhominem','adhv','adhoccommissie','adhocbesluit','adhin','adhdkinderen','adhocbeslissingen','adherente','adhesiebetuigingen','adhortatieven'}
+return {'adhd','adherent','adhesie','adhesiebetuiging','adhortatief','adhin','adherente','adhesiebetuigingen','adhortatieven'}

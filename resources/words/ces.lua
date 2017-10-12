@@ -1,1 +1,1 @@
-return {'ces','cesarisme','cesartherapie','cesium','cessie','cessionaris','cesuur','cesar','cessies','cessionarissen','cesuren','cessen','cesars'}
+return {'ces','cesarisme','cesartherapie','cesium','cessie','cessionaris','cesuur','cesar','cesar','cessies','cessionarissen','cesuren','cessen','cesars','cesars'}

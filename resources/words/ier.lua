@@ -1,1 +1,1 @@
-return {'ier','ierland','iers','ierse','iersengels','iersezee','ieren'}
+return {'ier','ierland','iers','ierse','ieren'}

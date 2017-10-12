@@ -1,1 +1,1 @@
-return {'inoptimaforma','inoefenen','inofficieel','inontvangstneming','inoperabel','inopportuun','ino','inofficile','inoogst','inoogstte','inopportune','inoperabele','inos'}
+return {'inoefenen','inofficieel','inontvangstneming','inoperabel','inopportuun','ino','inofficiele','inoogst','inoogstte','inopportune','inoperabele','inos'}

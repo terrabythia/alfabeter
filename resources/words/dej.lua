@@ -1,1 +1,1 @@
-return {'dejure','dejeuner','dejeuneren','dejeunertje','dejeunertjes','dejonghe','dejaeghere','dejan','dejong','dejeuneer','dejeuneerde','dejeuneerden','dejeuneert','dejeuners','dejans'}
+return {'dejeuner','dejeuneren','dejeunertje','dejeunertjes','dejonghe','dejaeghere','dejan','dejong','dejeuneer','dejeuneerde','dejeuneerden','dejeuneert','dejeuners','deja','dejans'}

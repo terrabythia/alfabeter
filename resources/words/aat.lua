@@ -1,1 +1,1 @@
-return {'aattest','aat','aats','aatjes','aattesten'}
+return {'aat','aats','aatjes'}

@@ -1,1 +1,1 @@
-return {'mix','mixcd','mixage','mixedgrill','mixedpickles','mixen','mixer','mixes','mixtum','mixture','mixtuur','mixtape','mixed','mixdranken','mixende','mixers','mixt','mixte','mixten','mixturen','mixtures'}
+return {'mix','mixage','mixen','mixer','mixes','mixtum','mixture','mixtuur','mixtape','mixed','mixdranken','mixende','mixers','mixt','mixte','mixten','mixturen','mixtures'}

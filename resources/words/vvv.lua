@@ -1,1 +1,1 @@
-return {'vvv','vvvkantoor','vvvkantoren','vvvs'}
+return {'vvv','vvvs'}

@@ -1,1 +1,0 @@
-return {'ychromosoom','ychromosomen'}

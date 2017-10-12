@@ -1,1 +1,1 @@
-return {'afasie','afatisch','afat','afatische','afasiepatinten'}
+return {'afasie','afatisch','afat','afatische','afasiepatienten'}

@@ -1,1 +1,0 @@
-return {'exwereldkampioen','exwerkgever','exwerknemer','exwethouder','exwielrenner','exwinnaar','exwerknemers','exwethouders'}

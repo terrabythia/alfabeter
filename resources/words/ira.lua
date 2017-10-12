@@ -1,1 +1,1 @@
-return {'iraaks','iraakse','iraans','iraanse','irak','irakees','iran','iranir','iranirs','irakoorlog','iraki','iraklion','iranees','ira','ira','irakezen','iras'}
+return {'iraaks','iraakse','iraans','iraanse','irak','irakees','iran','iranier','iraniers','irakoorlog','iraki','iraklion','iranees','ira','ira','irakezen','iras'}

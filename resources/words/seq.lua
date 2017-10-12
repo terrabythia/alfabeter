@@ -1,1 +1,1 @@
-return {'sequeel','sequel','sequens','sequentie','sequentieel','sequoia','sequensen','sequenties','sequentile','sequoias','sequelen','sequels'}
+return {'sequeel','sequel','sequens','sequentie','sequentieel','sequoia','sequensen','sequenties','sequentiele','sequoias','sequelen','sequels'}

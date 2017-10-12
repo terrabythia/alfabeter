@@ -1,1 +1,0 @@
-return {'scne','scnewisseling','scnefoto','scnes','scnewisselingen','scnetje','scnefotos','scnetjes'}

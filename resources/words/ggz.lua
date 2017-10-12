@@ -1,1 +1,1 @@
-return {'ggzinstelling','ggz','ggzinstellingen'}
+return {'ggz'}

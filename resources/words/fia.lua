@@ -1,1 +1,1 @@
-return {'fiasco','fiat','fiatteren','fiattering','fiatteur','fiancee','fianc','fiatgeld','fiascos','fiatteer','fiatteerde','fiatteerden','fiatteert','fiatteringen','fiancees','fianceetje','fiancs'}
+return {'fiasco','fiat','fiatteren','fiattering','fiatteur','fiancee','fiance','fiatgeld','fiascos','fiatteer','fiatteerde','fiatteerden','fiatteert','fiatteringen','fiancees','fianceetje','fiances'}

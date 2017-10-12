@@ -1,1 +1,1 @@
-return {'oker','okerachtig','okergeel','okerkleurig','okersoep','okegem','okerachtige','okergele','okerkleurige'}
+return {'oker','okerachtig','okergeel','okerkleurig','oke','okersoep','okegem','okerachtige','okergele','okerkleurige'}

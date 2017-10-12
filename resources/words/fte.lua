@@ -1,1 +1,1 @@
-return {'fteren','fte','ftes','fteer','fteerde','fteerden','fteert'}
+return {'fte','ftes'}

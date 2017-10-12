@@ -1,1 +1,1 @@
-return {'deodorant','deodoriseren','deontologie','deontologisch','deovolente','deon','deo','deodorants','deodoriseerde','deontologische','deodoranten','deons'}
+return {'deodorant','deodoriseren','deontologie','deontologisch','deon','deo','deodorants','deodoriseerde','deontologische','deodoranten','deons'}

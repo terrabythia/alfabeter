@@ -1,1 +1,1 @@
-return {'acid','acidhouse'}
+return {'acid'}

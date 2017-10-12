@@ -1,1 +1,1 @@
-return {'afortiori','aforisme','aforistisch','afoog','aforismen','aforistische'}
+return {'aforisme','aforistisch','afoog','aforismen','aforistische'}

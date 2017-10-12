@@ -1,1 +1,1 @@
-return {'fehmarnbelt','fehling'}
+return {'fehling'}

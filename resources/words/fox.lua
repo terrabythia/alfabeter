@@ -1,1 +1,1 @@
-return {'fox','foxterrir','foxtrot','foxtrotten','fox','foxen','foxterrirs','foxtrots','foxtrotte'}
+return {'fox','foxterrier','foxtrot','foxtrotten','fox','foxen','foxterriers','foxtrots','foxtrotte'}

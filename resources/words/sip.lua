@@ -1,1 +1,1 @@
-return {'sipaliwini','sip','sipaliwinees','sipaliwinir','sipke','sip','sipma','sipkema','sipman','sipsma','sippe','sipper','sipst','sipaliwinese','sipaliwinirs','sipkes'}
+return {'sipaliwini','sip','sipaliwinees','sipaliwinier','sipke','sip','sipma','sipkema','sipman','sipsma','sippe','sipper','sipst','sipaliwinese','sipaliwiniers','sipkes'}

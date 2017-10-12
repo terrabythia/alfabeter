@@ -1,1 +1,1 @@
-return {'oedeem','oedipaal','oedipuscomplex','oedelem','oedipus','oedmoerti','oedemen','oedipale','oedelemse'}
+return {'oedeem','oedipaal','oedipuscomplex','oedelem','oedipus','oedmoertie','oedemen','oedipale','oedelemse'}

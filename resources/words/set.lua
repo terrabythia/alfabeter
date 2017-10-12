@@ -1,1 +1,1 @@
-return {'set','setup','setpoint','setpunt','setstanden','settelen','setter','setting','settopbox','setverlies','setwinst','setsysteem','seth','setz','seton','settels','setups','setje','setjes','sets','setters','settertje','settopboxen','setpoints','settelde','setpunten','seths'}
+return {'set','setpoint','setpunt','setstanden','settelen','setter','setting','settopbox','setverlies','setwinst','setsysteem','seth','setz','seton','settels','setje','setjes','sets','setters','settertje','settopboxen','setpoints','settelde','setpunten','seths'}

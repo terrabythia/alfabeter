@@ -1,1 +1,1 @@
-return {'faerer','faererder','faerers','faes','faessen','faererse','faererders'}
+return {'faeroer','faeroerder','faeroers','faeton','faes','faessen','faetons','faeroerse','faeroerders'}

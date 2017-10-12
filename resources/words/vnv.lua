@@ -1,1 +1,0 @@
-return {'vnvredesmacht','vnveiligheidsraad'}

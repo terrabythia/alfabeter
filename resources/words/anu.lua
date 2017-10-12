@@ -1,1 +1,1 @@
-return {'anus','anummer','anussen'}
+return {'anus','anussen'}

@@ -1,1 +1,1 @@
-return {'upper','upperten','uppercut','upperclass','uppercuts','uppers'}
+return {'upper','uppercut','uppercuts','uppers'}

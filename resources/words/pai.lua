@@ -1,1 +1,1 @@
-return {'paillet','paillette','paintball','paintballen','pair','pais','painlagrecque','paige','paijmans','pailletten','pairs','paintballde','paintballt','paige'}
+return {'paillet','paillette','paintball','paintballen','pair','pais','paige','paijmans','pailletten','pairs','paintballde','paintballt','paige'}

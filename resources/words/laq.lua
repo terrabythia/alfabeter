@@ -1,1 +1,1 @@
-return {'laqu'}
+return {'laque'}

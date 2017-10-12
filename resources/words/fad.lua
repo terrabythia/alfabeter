@@ -1,1 +1,1 @@
-return {'fade','fadeout','fading','fado','fadozangeres','fadime','fados','fadeouts','fadozangeressen','fadedeuit','fadimes'}
+return {'fade','fading','fado','fadozangeres','fadime','fados','fadozangeressen','fadimes'}

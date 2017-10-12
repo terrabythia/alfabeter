@@ -1,1 +1,1 @@
-return {'gazel','gazelle','gazelleoog','gazen','gazet','gazeuse','gazon','gazonsproeier','gazpacho','gazonmest','gaza','gazastrook','gazetvanantwerpen','gazellen','gazelleogen','gazetten','gazonnetje','gazonnetjes','gazons','gazelles','gazeuses'}
+return {'gazel','gazelle','gazelleoog','gazen','gazet','gazeuse','gazon','gazonsproeier','gazpacho','gazonmest','gaza','gazastrook','gazellen','gazelleogen','gazetten','gazonnetje','gazonnetjes','gazons','gazelles','gazeuses'}

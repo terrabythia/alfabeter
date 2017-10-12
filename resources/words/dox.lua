@@ -1,1 +1,1 @@
-return {'doxologie','doxycycline','doxologien'}
+return {'doxologie','doxycycline','doxologieen'}

@@ -1,1 +1,1 @@
-return {'egtypeonderzoek','egtypegoedkeuring','egtberts','egt','egtanden','egtypegoedkeuringen'}
+return {'egtberts','egt','egtanden'}

@@ -1,1 +1,1 @@
-return {'emulatie','emulgator','emulgeren','emulsie','emulsielaag','emusaldo','emulgatoren','emulsies','emulgeerde','emulsielagen','emulaties','emulgators'}
+return {'emulatie','emulgator','emulgeren','emulsie','emulsielaag','emulgatoren','emulsies','emulgeerde','emulsielagen','emulaties','emulgators'}

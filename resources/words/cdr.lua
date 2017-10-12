@@ -1,1 +1,0 @@
-return {'cdreeks','cdrelease','cdrom','cdromspeler','cdrewriter','cdric','cdrommetje','cdroms','cdromspelers','cdrewriters','cdrics'}

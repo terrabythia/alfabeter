@@ -1,1 +1,1 @@
-return {'noclaim','noclaimkorting','noch','nochtans','nocturne','nocure','noclaimteruggave','nocturnes','noclaimkortingen'}
+return {'noch','nochtans','nocturne','nocturnes'}
